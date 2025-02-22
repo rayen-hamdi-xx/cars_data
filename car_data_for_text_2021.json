@@ -5240,3 +5240,4512 @@
     "Apple CarPlay": true,
     "Android Auto": true
 },
+{
+    "Image": "skoda-fabia-1.0-l-mpi-drive-1.webp",
+    "Nom": "SKODA FABIA",
+    "Brand": "SKODA",
+    "Model": "FABIA",
+    "Version": "1.0 L MPI DRIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "95 nm 3000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3997 mm",
+        "LARGEUR": "1732 mm",
+        "HAUTEUR": "1467 mm",
+        "VOLUME DU COFFRE": "330 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.9 s",
+        "VITESSE MAXI": "168 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.0 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.9 L/100 km",
+        "EMISSIONS DE CO2": "108 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "FEUX À LED": "Feux de jour",
+        "PHARES": "H7"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "SWING",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-fabia-1.0-l-mpi-design-1.webp",
+    "Nom": "SKODA FABIA",
+    "Brand": "SKODA",
+    "Model": "FABIA",
+    "Version": "1.0 L MPI DESIGN",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "95 nm 3000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3997 mm",
+        "LARGEUR": "1732 mm",
+        "HAUTEUR": "1467 mm",
+        "VOLUME DU COFFRE": "330 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.9 s",
+        "VITESSE MAXI": "168 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.0 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.9 L/100 km",
+        "EMISSIONS DE CO2": "108 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "PHARES": "H7"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "SWING",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-fabia-1.6-l-mpi-design-1.webp",
+    "Nom": "SKODA FABIA",
+    "Brand": "SKODA",
+    "Model": "FABIA",
+    "Version": "1.6 L MPI DESIGN",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "90 CH",
+        "COUPLE": "155 nm 3800 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3997 mm",
+        "LARGEUR": "1732 mm",
+        "HAUTEUR": "1467 mm",
+        "VOLUME DU COFFRE": "330 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.1 s",
+        "VITESSE MAXI": "190 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "PHARES": "H7",
+        "RADAR DE STATIONNEMENT": "Arrière"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "SWING",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "3 branches | Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CAMÉRA DE RECUL": "",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-fabia-monte-carlo-1.0-l-mpi-monte-carlo-1.webp",
+    "Nom": "SKODA FABIA",
+    "Brand": "SKODA",
+    "Model": "FABIA",
+    "Version": "1.0 L MPI MONTE-CARLO",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "95 nm 3000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3997 mm",
+        "LARGEUR": "1732 mm",
+        "HAUTEUR": "1467 mm",
+        "VOLUME DU COFFRE": "330 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.9 s",
+        "VITESSE MAXI": "168 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.0 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.9 L/100 km",
+        "EMISSIONS DE CO2": "108 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16'' | Noires",
+        "PEINTURE": "Bi-ton | Color Concept",
+        "PHARES": "H7",
+        "RADAR DE STATIONNEMENT": "Arrière",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "SWING Plus | 4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile",
+        "FINITION INTÉRIEURE": "Inserts décoratifs \"CARBON\"",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu | Garniture Monte-Carlo",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Sport | Confort | Monte-Carlo",
+        "TAPIS DE SOL": "",
+        "VITRES": "Athermiques | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Sport",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CAMÉRA DE RECUL": "",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-octavia-1.4-tsi-ambition-dsg-1.webp",
+    "Nom": "SKODA OCTAVIA",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA",
+    "Version": "1.4 TSI AMBITION DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4660 mm",
+        "LARGEUR": "1810 mm",
+        "HAUTEUR": "1460 mm",
+        "VOLUME DU COFFRE": "590 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "219 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour",
+        "PHARES": "H7"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BLUES | 4 haut-parleurs | Commandes au volant",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-octavia-2.0-tdi-business-bva-1.webp",
+    "Nom": "SKODA OCTAVIA",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA",
+    "Version": "2.0 TDI BUSINESS BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "143 CH",
+        "COUPLE": "320 nm 1750 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "XDS+"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4660 mm",
+        "LARGEUR": "1810 mm",
+        "HAUTEUR": "1460 mm",
+        "VOLUME DU COFFRE": "590 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "215 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "LAVE PHARES": "",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "FINITION INTÉRIEURE": "Alu poli",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre | +5000 DT",
+        "VITRES": "Athermiques | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-karoq-2.0-l-tdi-active-1.webp",
+    "Nom": "SKODA KAROQ",
+    "Brand": "SKODA",
+    "Model": "KAROQ",
+    "Version": "2.0 L TDI ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "143 CH",
+        "COUPLE": "340 nm 1750 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4382 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1603 mm",
+        "VOLUME DU COFFRE": "521 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9 s",
+        "VITESSE MAXI": "203 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4 L/100 km",
+        "CONSOMMATION MIXTE": "4.6 L/100 km",
+        "EMISSIONS DE CO2": "117 g/km"
+    },
+    "Equipements de sécurité": {
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "H7",
+        "RADAR DE STATIONNEMENT": "Arrière"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DIRECTION ASSISTÉE": "",
+        "ORDINATEUR DE BORD": "",
+        "SERVOTRONIC": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-karoq-1.4-l-tsi-dsg-ambition-1.webp",
+    "Nom": "SKODA KAROQ",
+    "Brand": "SKODA",
+    "Model": "KAROQ",
+    "Version": "1.4 L TSI DSG AMBITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4382 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1603 mm",
+        "VOLUME DU COFFRE": "521 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "201 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Alu satiné",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir | Suédine",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Réglage lombaire",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Easy Open",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-karoq-2.0-l-tdi-ambition-1.webp",
+    "Nom": "SKODA KAROQ",
+    "Brand": "SKODA",
+    "Model": "KAROQ",
+    "Version": "2.0 L TDI AMBITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "143 CH",
+        "COUPLE": "340 nm 1750 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4382 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1603 mm",
+        "VOLUME DU COFFRE": "521 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9 s",
+        "VITESSE MAXI": "203 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4 L/100 km",
+        "CONSOMMATION MIXTE": "4.6 L/100 km",
+        "EMISSIONS DE CO2": "117 g/km"
+    },
+    "Equipements de sécurité": {
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "Alu satiné",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED | Directionnels"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | Apple Carplay | Android Auto | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir | Suédine",
+        "SIÈGES": "Réglage lombaire",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "PRISE 12V": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-karoq-1.4-l-tsi-dsg-style-1.webp",
+    "Nom": "SKODA KAROQ",
+    "Brand": "SKODA",
+    "Model": "KAROQ",
+    "Version": "1.4 L TSI DSG STYLE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4382 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1603 mm",
+        "VOLUME DU COFFRE": "521 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "201 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Alu satiné",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire | Fonction mémoire",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Easy Open",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-kodiaq-1.4-l-tsi-dsg-ambition-1.webp",
+    "Nom": "SKODA KODIAQ",
+    "Brand": "SKODA",
+    "Model": "KODIAQ",
+    "Version": "1.4 L TSI DSG AMBITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4697 mm",
+        "LARGEUR": "1882 mm",
+        "HAUTEUR": "1655 mm",
+        "VOLUME DU COFFRE": "720 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.4 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.4 L/100 km",
+        "CONSOMMATION MIXTE": "6.3 L/100 km",
+        "EMISSIONS DE CO2": "145 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "Aluminium",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT RANGEMENT": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir/Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Cache Bagages",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "PRISE 12V": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-superb-1.4-tsi-dsg-exclusive-1.webp",
+    "Nom": "SKODA SUPERB",
+    "Brand": "SKODA",
+    "Model": "SUPERB",
+    "Version": "1.4 TSI DSG EXCLUSIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4870 mm",
+        "LARGEUR": "1860 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "625 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "220 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "4 USB | Bluetooth | Apple Carplay | Commande vocale | SmartLink",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières | Pour lunette arrière",
+        "TAPIS DE SOL": "",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "PRISE 12V": "",
+        "RÉGULATEUR DE VITESSE": "Cruise control | Limiteur de vitesse",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-superb-1.4-tsi-dsg-ambassador-1.webp",
+    "Nom": "SKODA SUPERB",
+    "Brand": "SKODA",
+    "Model": "SUPERB",
+    "Version": "1.4 TSI DSG AMBASSADOR",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4870 mm",
+        "LARGEUR": "1860 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "625 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "220 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "LAVE PHARES": "",
+        "PHARES": "Full LED | Directionnels | Matrix LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "Apple Carplay | 4 USB | Bluetooth | Commande vocale | SmartLink",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Conducteur à réglage électrique | Chauffants | Réglage lombaire | Fonction mémoire | Confort",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières | Pour lunette arrière",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Cache Bagages",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "RÉGULATEUR DE VITESSE": "Cruise control | Limiteur de vitesse",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VERSION PAYS CHAUDS": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-superb-1.4-tsi-sportline-dsg-1.webp",
+    "Nom": "SKODA SUPERB",
+    "Brand": "SKODA",
+    "Model": "SUPERB",
+    "Version": "1.4 TSI SPORTLINE DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4870 mm",
+        "LARGEUR": "1860 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "625 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "220 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "BOLERO | 8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "4 USB | Apple Carplay | Bluetooth | Commande vocale | SmartLink"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "Sport-line",
+        "LAVE PHARES": "",
+        "PHARES": "Full LED | Directionnels | Matrix LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Noir",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir/Tissu",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire | Fonction mémoire | Sport",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières | Pour lunette arrière",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "3 branches | Multi-fonctions | Sport | Cuir Perforé | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Easy Open",
+        "CLIMATISATION": "Automatique | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Mémoire de position",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION DIGITALE": "Virtual Cockpit",
+        "TRAIN ROULANT": "Régulation adaptative",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-kamiq-1.6-l-mpi-active-1.webp",
+    "Nom": "SKODA KAMIQ",
+    "Brand": "SKODA",
+    "Model": "KAMIQ",
+    "Version": "1.6 L MPI ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "155 nm 3800 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4240 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1560 mm",
+        "VOLUME DU COFFRE": "400 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.3 s",
+        "VITESSE MAXI": "197 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Noires",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "SWING | 4 haut-parleurs",
+        "CIEL DE PAVILLON": "Gris",
+        "CONNECTIVITÉ": "Bluetooth | USB-C",
+        "ECRAN": "Tactile | 6.5 pouces",
+        "FINITION INTÉRIEURE": "Grained Black",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-kamiq-1.6-l-mpi-style-1.webp",
+    "Nom": "SKODA KAMIQ",
+    "Brand": "SKODA",
+    "Model": "KAMIQ",
+    "Version": "1.6 L MPI STYLE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "155 nm 3800 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4240 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1560 mm",
+        "VOLUME DU COFFRE": "400 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.3 s",
+        "VITESSE MAXI": "197 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Noires",
+        "FEUX À LED": "Avant | Arrières | Clignotants dynamiques",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED | Adaptatifs"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CIEL DE PAVILLON": "Gris",
+        "CONNECTIVITÉ": "Bluetooth | Apple Carplay | Android Auto | SmartLink | USB-C",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Copper Brushed",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-kamiq-1.0-l-tsi-dsg-active-1.webp",
+    "Nom": "SKODA KAMIQ",
+    "Brand": "SKODA",
+    "Model": "KAMIQ",
+    "Version": "1.0 L TSI DSG ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4240 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1560 mm",
+        "VOLUME DU COFFRE": "400 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10 s",
+        "VITESSE MAXI": "193 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Noires",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "SWING | 4 haut-parleurs",
+        "CIEL DE PAVILLON": "Gris",
+        "CONNECTIVITÉ": "USB-C | Bluetooth",
+        "ECRAN": "Tactile | 6.5 pouces",
+        "FINITION INTÉRIEURE": "Grained Black",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-kamiq-1.0-l-tsi-dsg-ambition-1.webp",
+    "Nom": "SKODA KAMIQ",
+    "Brand": "SKODA",
+    "Model": "KAMIQ",
+    "Version": "1.0 L TSI DSG AMBITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4240 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1560 mm",
+        "VOLUME DU COFFRE": "400 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10 s",
+        "VITESSE MAXI": "193 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Anodisées Argent",
+        "FEUX À LED": "Avant | Arrières | Clignotants dynamiques",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED | Adaptatifs"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CIEL DE PAVILLON": "Gris",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Grained Black",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-kamiq-1.0-l-tsi-dsg-style-1.webp",
+    "Nom": "SKODA KAMIQ",
+    "Brand": "SKODA",
+    "Model": "KAMIQ",
+    "Version": "1.0 L TSI DSG STYLE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4240 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1560 mm",
+        "VOLUME DU COFFRE": "400 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10 s",
+        "VITESSE MAXI": "193 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Noires",
+        "FEUX À LED": "Avant | Arrières | Clignotants dynamiques",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED | Adaptatifs"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CIEL DE PAVILLON": "Gris",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Copper Brushed",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-scala-1.6-l-mpi-bva-active-1.webp",
+    "Nom": "SKODA SCALA",
+    "Brand": "SKODA",
+    "Model": "SCALA",
+    "Version": "1.6 L MPI BVA ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "155 nm 3800 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4362 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1471 mm",
+        "VOLUME DU COFFRE": "467 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.3 s",
+        "VITESSE MAXI": "197 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "Bluetooth | Apple Carplay | Android Auto | SmartLink | USB-C",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-scala-1.0-l-tsi-dsg-active-1.webp",
+    "Nom": "SKODA SCALA",
+    "Brand": "SKODA",
+    "Model": "SCALA",
+    "Version": "1.0 L TSI DSG ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4362 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1471 mm",
+        "VOLUME DU COFFRE": "467 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-scala-1.6-l-mpi-bva-ambition-1.webp",
+    "Nom": "SKODA SCALA",
+    "Brand": "SKODA",
+    "Model": "SCALA",
+    "Version": "1.6 L MPI BVA AMBITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "155 nm 3800 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4362 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1471 mm",
+        "VOLUME DU COFFRE": "467 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.3 s",
+        "VITESSE MAXI": "197 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "Bluetooth | Apple Carplay | Android Auto | SmartLink | USB-C",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Sport"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-scala-1.0-l-tsi-dsg-ambition-1.webp",
+    "Nom": "SKODA SCALA",
+    "Brand": "SKODA",
+    "Model": "SCALA",
+    "Version": "1.0 L TSI DSG AMBITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4362 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1471 mm",
+        "VOLUME DU COFFRE": "467 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Sport"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles",
+        "RÉGULATEUR DE VITESSE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-scala-1.0-l-tsi-dsg-style-1.webp",
+    "Nom": "SKODA SCALA",
+    "Brand": "SKODA",
+    "Model": "SCALA",
+    "Version": "1.0 L TSI DSG STYLE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4362 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1471 mm",
+        "VOLUME DU COFFRE": "467 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants dynamiques",
+        "JANTES": "En aluminium | 17''",
+        "LAVE PHARES": "",
+        "PHARES": "Full LED | Adaptatifs"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant | Chromée",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Sport"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles",
+        "RÉGULATEUR DE VITESSE": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-scala-1.0-l-tsi-essence-dsg-1.webp",
+    "Nom": "SKODA SCALA",
+    "Brand": "SKODA",
+    "Model": "SCALA",
+    "Version": "1.0 L TSI ESSENCE DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4362 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1514 mm",
+        "VOLUME DU COFFRE": "467 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.1 s",
+        "VITESSE MAXI": "202 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Android Auto | Apple Carplay | Bluetooth | SmartLink",
+        "ECRAN CENTRAL": "Tactile | 8.25 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES": "Athermiques",
+        "VOLANT": "Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-scala-1.0-l-tsi-selection-dsg-1.webp",
+    "Nom": "SKODA SCALA",
+    "Brand": "SKODA",
+    "Model": "SCALA",
+    "Version": "1.0 L TSI SELECTION DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4362 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1514 mm",
+        "VOLUME DU COFFRE": "467 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.1 s",
+        "VITESSE MAXI": "202 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Android Auto | Apple Carplay | Bluetooth | SmartLink | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8.25 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Matrix LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION DIGITALE": "10.25'' | Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-scala-1.0-l-tsi-monte-carlo-dsg-1.webp",
+    "Nom": "SKODA SCALA",
+    "Brand": "SKODA",
+    "Model": "SCALA",
+    "Version": "1.0 L TSI MONTE CARLO DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4362 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1514 mm",
+        "VOLUME DU COFFRE": "467 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.1 s",
+        "VITESSE MAXI": "202 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALARME ANTIVOL": "Anti-soulèvement",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Android Auto | Apple Carplay | Bluetooth | SmartLink | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8.25 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Noir Brillant",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "FEUX À LED": "Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 17''",
+        "KIT CARROSSERIE": "Monte-Carlo",
+        "PHARES": "Matrix LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Réglage lombaire | Sport",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Avec capuchons noirs",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION DIGITALE": "10.25'' | Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-kamiq-1.0-l-tsi-essence-dsg-1.webp",
+    "Nom": "SKODA KAMIQ",
+    "Brand": "SKODA",
+    "Model": "KAMIQ",
+    "Version": "1.0 L TSI ESSENCE DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4241 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1562 mm",
+        "VOLUME DU COFFRE": "400 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.2 s",
+        "VITESSE MAXI": "195 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Bluetooth | SmartLink",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES": "Athermiques",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-kamiq-1.0-l-tsi-selection-dsg-1.webp",
+    "Nom": "SKODA KAMIQ",
+    "Brand": "SKODA",
+    "Model": "KAMIQ",
+    "Version": "1.0 L TSI SELECTION DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4241 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1562 mm",
+        "VOLUME DU COFFRE": "400 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.2 s",
+        "VITESSE MAXI": "195 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALARME ANTIVOL": "Anti-soulèvement",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Bluetooth | SmartLink | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Argent",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Matrix LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "Virtual Cockpit",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-kamiq-1.0-l-tsi-monte-carlo-dsg-1.webp",
+    "Nom": "SKODA KAMIQ",
+    "Brand": "SKODA",
+    "Model": "KAMIQ",
+    "Version": "1.0 L TSI MONTE CARLO DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4241 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1562 mm",
+        "VOLUME DU COFFRE": "400 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.2 s",
+        "VITESSE MAXI": "195 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALARME ANTIVOL": "Anti-soulèvement",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Bluetooth | SmartLink | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Noir Brillant",
+        "CALANDRE": "Noire",
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "FEUX À LED": "Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 17''",
+        "KIT CARROSSERIE": "Sport",
+        "PHARES": "Matrix LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SEUILS DE PORTES": "Chromés",
+        "SIÈGES": "Réglage lombaire | Sport",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "Virtual Cockpit",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec capuchons noirs",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-octavia-rs-2.0-tsi-dsg-1.webp",
+    "Nom": "SKODA OCTAVIA RS",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA RS",
+    "Version": "2.0 TSI DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "14 CV",
+        "PUISSANCE (CH.DIN)": "245 CH",
+        "COUPLE": "370 nm 1600 tr/min",
+        "CYLINDRÉE": "1984 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction",
+        "DIFFÉRENTIEL AUTOBLOQUANT": ""
+    },
+    "Dimensions": {
+        "LONGUEUR": "4689 mm",
+        "LARGEUR": "1829 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "6.6 s",
+        "VITESSE MAXI": "250 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.4 L/100 km",
+        "CONSOMMATION MIXTE": "6.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux conducteur | Protège-tête",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "BOLERO | 12 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN CENTRAL": "Tactile | 10.1 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "LAVE PHARES": "",
+        "PHARES": "Directionnels | Adaptatifs | LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT RANGEMENT": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Alcantara",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Électriques | Chauffants | Massants | Réglage lombaire | Fonction mémoire | Sport",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières | Pour lunette arrière",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Cache Bagages",
+        "CLIMATISATION": "Automatique | 3 zones | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Éclairage d'accueil à LED",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement | Sans Cadre",
+        "SYSTÈME START & STOP": "",
+        "SUSPENSION": "Pneumatique | Sport",
+        "INSTRUMENTATION DIGITALE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-kushaq-1.0-tsi-ambition-1.webp",
+    "Nom": "SKODA KUSHAQ",
+    "Brand": "SKODA",
+    "Model": "KUSHAQ",
+    "Version": "1.0 TSI AMBITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "178 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4221 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1612 mm",
+        "VOLUME DU COFFRE": "385 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "189 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Noir Brillant",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Avant",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières | Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-kushaq-1.0-tsi-ambition-bva-1.webp",
+    "Nom": "SKODA KUSHAQ",
+    "Brand": "SKODA",
+    "Model": "KUSHAQ",
+    "Version": "1.0 TSI AMBITION BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "178 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4221 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1612 mm",
+        "VOLUME DU COFFRE": "385 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "189 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Noir Brillant",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Avant",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières | Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-kushaq-1.0-tsi-style-bva-1.webp",
+    "Nom": "SKODA KUSHAQ",
+    "Brand": "SKODA",
+    "Model": "KUSHAQ",
+    "Version": "1.0 TSI STYLE BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "178 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4221 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1612 mm",
+        "VOLUME DU COFFRE": "385 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "189 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant | Subwoofer",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Noir Brillant",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières | Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Ventilés",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-octavia-1.4-tsi-active-2.webp",
+    "Nom": "SKODA OCTAVIA",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA",
+    "Version": "1.4 TSI ACTIVE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "XDS+"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4689 mm",
+        "LARGEUR": "1829 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "219 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESC",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "SWING | 4 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB-C | Bluetooth",
+        "ECRAN": "Tactile | 8.25 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "PRISE 12V": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "SYSTÈME START & STOP": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-octavia-1.4-tsi-ambition-2.webp",
+    "Nom": "SKODA OCTAVIA",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA",
+    "Version": "1.4 TSI AMBITION",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "XDS+"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4689 mm",
+        "LARGEUR": "1829 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "219 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESC",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "SWING | 8 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | SmartLink",
+        "ECRAN": "Tactile | 8.25 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Automatique | 3 zones | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "PRISE 12V": "",
+        "SYSTÈME START & STOP": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-octavia-1.4-tsi-ambition-bva-2.webp",
+    "Nom": "SKODA OCTAVIA",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA",
+    "Version": "1.4 TSI AMBITION BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "XDS+"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4689 mm",
+        "LARGEUR": "1829 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "219 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESC",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "SWING | 8 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | SmartLink",
+        "ECRAN": "Tactile | 8.25 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Automatique | 3 zones | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "PRISE 12V": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-octavia-1.4-tsi-style-bva-2.webp",
+    "Nom": "SKODA OCTAVIA",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA",
+    "Version": "1.4 TSI STYLE BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "XDS+"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4689 mm",
+        "LARGEUR": "1829 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "219 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux conducteur | Protège-tête",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESC",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "AVERTISSEUR DE CHANGEMENT DE VOIE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Directionnels | Adaptatifs | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 10.1 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT RANGEMENT": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Électriques | Chauffants | Réglage lombaire | Fonction mémoire | Confort",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières | Pour lunette arrière",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Automatique | 3 zones | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement | Sans Cadre",
+        "SYSTÈME START & STOP": "",
+        "PRISE 12V": "",
+        "INSTRUMENTATION NUMÉRIQUE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-octavia-1.4-tsi-ambition-edition-spéciale-bva-2.webp",
+    "Nom": "SKODA OCTAVIA",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA",
+    "Version": "1.4 TSI AMBITION EDITION SPÉCIALE BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "XDS"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4689 mm",
+        "LARGEUR": "1829 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "219 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "SWING | 8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "4 USB | Android Auto | Apple Carplay | Bluetooth | SmartLink",
+        "ECRAN": "Tactile | 8.25 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "LIMITEUR DE VITESSE": "",
+        "SYSTÈME START & STOP": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-kodiaq-1.4-l-tsi-dsg-ambition-5-places-2.webp",
+    "Nom": "SKODA KODIAQ",
+    "Brand": "SKODA",
+    "Model": "KODIAQ",
+    "Version": "1.4 L TSI DSG AMBITION 5 PLACES",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4697 mm",
+        "LARGEUR": "1882 mm",
+        "HAUTEUR": "1655 mm",
+        "VOLUME DU COFFRE": "720 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.4 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.4 L/100 km",
+        "CONSOMMATION MIXTE": "6.3 L/100 km",
+        "EMISSIONS DE CO2": "145 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux conducteur | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Park Pilot",
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "Aluminium",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT RANGEMENT": "Poches aumônières",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Suédine",
+        "SIÈGES": "Réglage lombaire | Confort",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Cache Bagages",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-kodiaq-1.4-l-tsi-dsg-ambition-7-places-2.webp",
+    "Nom": "SKODA KODIAQ",
+    "Brand": "SKODA",
+    "Model": "KODIAQ",
+    "Version": "1.4 L TSI DSG AMBITION 7 PLACES",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4697 mm",
+        "LARGEUR": "1882 mm",
+        "HAUTEUR": "1655 mm",
+        "VOLUME DU COFFRE": "720 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.4 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.4 L/100 km",
+        "CONSOMMATION MIXTE": "6.3 L/100 km",
+        "EMISSIONS DE CO2": "145 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux conducteur | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Park Pilot",
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "Aluminium",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT RANGEMENT": "Poches aumônières",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Suédine",
+        "SIÈGES": "Réglage lombaire | Confort",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Cache Bagages",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉGULATEUR DE VITESSE": "",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-kodiaq-1.4-l-tsi-dsg-style-5-places-2.webp",
+    "Nom": "SKODA KODIAQ",
+    "Brand": "SKODA",
+    "Model": "KODIAQ",
+    "Version": "1.4 L TSI DSG STYLE 5 PLACES",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4697 mm",
+        "LARGEUR": "1882 mm",
+        "HAUTEUR": "1655 mm",
+        "VOLUME DU COFFRE": "720 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.4 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.4 L/100 km",
+        "CONSOMMATION MIXTE": "6.3 L/100 km",
+        "EMISSIONS DE CO2": "145 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux conducteur | Protège-tête",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Park Pilot",
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "Aluminium",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT RANGEMENT": "Poches aumônières",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire | Fonction mémoire | Confort",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Cache Bagages",
+        "CLIMATISATION": "Automatique | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Mémoire de position",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-kodiaq-1.4-l-tsi-dsg-style-7-places-2.webp",
+    "Nom": "SKODA KODIAQ",
+    "Brand": "SKODA",
+    "Model": "KODIAQ",
+    "Version": "1.4 L TSI DSG STYLE 7 PLACES",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4697 mm",
+        "LARGEUR": "1882 mm",
+        "HAUTEUR": "1655 mm",
+        "VOLUME DU COFFRE": "720 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.4 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.4 L/100 km",
+        "CONSOMMATION MIXTE": "6.3 L/100 km",
+        "EMISSIONS DE CO2": "145 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux conducteur | Protège-tête",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Park Pilot",
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "Aluminium",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT RANGEMENT": "Poches aumônières",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire | Fonction mémoire | Confort",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Cache Bagages",
+        "CLIMATISATION": "Automatique | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Mémoire de position",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-karoq-1.4-l-tsi-dsg-ambition-2.webp",
+    "Nom": "SKODA KAROQ",
+    "Brand": "SKODA",
+    "Model": "KAROQ",
+    "Version": "1.4 L TSI DSG AMBITION",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4382 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1603 mm",
+        "VOLUME DU COFFRE": "521 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "201 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Alu satiné",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir | Suédine",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Réglage lombaire",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Easy Open",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-karoq-1.4-l-tsi-dsg-style-2.webp",
+    "Nom": "SKODA KAROQ",
+    "Brand": "SKODA",
+    "Model": "KAROQ",
+    "Version": "1.4 L TSI DSG STYLE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4382 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1603 mm",
+        "VOLUME DU COFFRE": "521 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "201 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux conducteur | Protège-tête",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Alu satiné",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SEUILS DE PORTES": "Baguettes dans les baies de porte",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire | Fonction mémoire",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes | 2 branches",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Easy Open",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-karoq-1.4-l-tsi-dsg-style-edition-spéciale-2.webp",
+    "Nom": "SKODA KAROQ",
+    "Brand": "SKODA",
+    "Model": "KAROQ",
+    "Version": "1.4 L TSI DSG STYLE EDITION SPÉCIALE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4382 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1603 mm",
+        "VOLUME DU COFFRE": "521 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "201 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux conducteur | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Métal brillant",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir | Suédine",
+        "SIÈGES": "Électriques | Réglage lombaire | Fonction mémoire",
+        "TOIT": "Panoramique",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | Sport | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Easy Open",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Mémoire de position",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-octavia-1.4-tsi-essence-bva-3.webp",
+    "Nom": "SKODA OCTAVIA",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA",
+    "Version": "1.4 TSI ESSENCE BVA",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "XDS"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4698 mm",
+        "LARGEUR": "1829 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "219 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth | SmartLink | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT ÉCLAIRAGE": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "SELLERIE": "Similicuir/Tissu",
+        "SEUILS DE PORTES": "Chromés",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "10.25''",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-octavia-1.4-tsi-selection-bva-3.webp",
+    "Nom": "SKODA OCTAVIA",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA",
+    "Version": "1.4 TSI SELECTION BVA",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "XDS"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4698 mm",
+        "LARGEUR": "1829 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "219 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth | SmartLink | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT ÉCLAIRAGE": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "SELLERIE": "Similicuir/Tissu",
+        "SEUILS DE PORTES": "Chromés",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "10.25''",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-octavia-1.4-tsi-sportline-bva-3.webp",
+    "Nom": "SKODA OCTAVIA",
+    "Brand": "SKODA",
+    "Model": "OCTAVIA",
+    "Version": "1.4 TSI SPORTLINE BVA",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "XDS"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4698 mm",
+        "LARGEUR": "1829 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "219 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALARME ANTIVOL": "Anti-soulèvement",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth | SmartLink | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 18''",
+        "LAVE PHARES": "",
+        "PHARES": "Directionnels | Matrix LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Black Middle Carbon",
+        "KIT ÉCLAIRAGE": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Similicuir/Tissu",
+        "SEUILS DE PORTES": "Chromés",
+        "SIÈGES": "Électriques | Chauffants | Réglage lombaire | Fonction mémoire | Sport",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Mémoire de position | Avec capuchons noirs",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "SUSPENSION": "Sport",
+        "INSTRUMENTATION DIGITALE": "10.25''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
