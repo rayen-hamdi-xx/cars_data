@@ -1180,6 +1180,86 @@
     "Android Auto": true
 },
 {
+    "Image": "chery-tiggo-1x-populaire-1.0-l-turbo-1.webp",
+    "Nom": "TIGGO 1X POPULAIRE",
+    "Brand": "CHERY",
+    "Model": "TIGGO 1X POPULAIRE",
+    "Version": "1.0 L TURBO",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "70 CH",
+        "COUPLE": "117 nm 1500 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4200 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1570 mm",
+        "VOLUME DU COFFRE": "420 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.3 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": "",
+        "KIT SÉCURITÉ": "Triangle de présignalisation"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions | à méplat",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 3.5''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
     "Image": "chery-tiggo-8-pro-1.6-t-gdi-7-dct-1.webp",
     "Nom": "CHERY TIGGO 8 PRO",
     "Brand": "CHERY",
@@ -10401,6 +10481,2418 @@
         "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
         "VITRES ÉLECTRIQUES": "Avant/Arrière",
         "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-panda-populaire-twin-air-85-ch-1.webp",
+    "Nom": "FIAT PANDA POPULAIRE",
+    "Brand": "FIAT",
+    "Model": "PANDA POPULAIRE",
+    "Version": "TWIN AIR 85 CH",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "2",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "145 nm 1900 tr/min",
+        "CYLINDRÉE": "899 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3650 mm",
+        "LARGEUR": "1640 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "225 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.2 s",
+        "VITESSE MAXI": "177 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.8 L/100 km",
+        "CONSOMMATION MIXTE": "4.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-panda-populaire-twin-air-85-ch-bva-1.webp",
+    "Nom": "FIAT PANDA POPULAIRE",
+    "Brand": "FIAT",
+    "Model": "PANDA POPULAIRE",
+    "Version": "TWIN AIR 85 CH BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "2",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "145 nm 1900 tr/min",
+        "CYLINDRÉE": "899 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3650 mm",
+        "LARGEUR": "1640 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "225 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.2 s",
+        "VITESSE MAXI": "177 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.8 L/100 km",
+        "CONSOMMATION MIXTE": "4.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Uconnect",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-panda-1.2-l-pop-1.webp",
+    "Nom": "FIAT PANDA",
+    "Brand": "FIAT",
+    "Model": "PANDA",
+    "Version": "1.2 L POP",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "69 CH",
+        "COUPLE": "102 nm 3000 tr/min",
+        "CYLINDRÉE": "1242 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3650 mm",
+        "LARGEUR": "1640 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "225 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.2 s",
+        "VITESSE MAXI": "164 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Uconnect",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "VITRES ÉLECTRIQUES": "Avant",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-panda-city-cross-1.2-l-1.webp",
+    "Nom": "FIAT PANDA CITY CROSS",
+    "Brand": "FIAT",
+    "Model": "PANDA CITY CROSS",
+    "Version": "1.2 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "69 CH",
+        "COUPLE": "102 nm 3000 tr/min",
+        "CYLINDRÉE": "1242 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3650 mm",
+        "LARGEUR": "1662 mm",
+        "HAUTEUR": "1635 mm",
+        "VOLUME DU COFFRE": "225 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.8 s",
+        "VITESSE MAXI": "155 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Uconnect",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Dual Drive",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-tipo-berline-1.4-l-entry-plus-1.webp",
+    "Nom": "FIAT TIPO BERLINE",
+    "Brand": "FIAT",
+    "Model": "TIPO BERLINE",
+    "Version": "1.4 L ENTRY PLUS",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "127 nm 4500 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4532 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1497 mm",
+        "VOLUME DU COFFRE": "520 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ASSISTANCE AU FREINAGE": "PBA"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-tipo-berline-1.4l-mid-1.webp",
+    "Nom": "FIAT TIPO BERLINE",
+    "Brand": "FIAT",
+    "Model": "TIPO BERLINE",
+    "Version": "1.4L MID",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "127 nm 4500 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4532 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1497 mm",
+        "VOLUME DU COFFRE": "520 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ASSISTANCE AU FREINAGE": "PBA"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-500-1.2-l-dolcevita-1.webp",
+    "Nom": "FIAT 500",
+    "Brand": "FIAT",
+    "Model": "500",
+    "Version": "1.2 L DOLCEVITA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "4",
+        "NOMBRE DE PORTES": "3"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "69 CH",
+        "COUPLE": "102 nm 3000 tr/min",
+        "CYLINDRÉE": "1242 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3546 mm",
+        "LARGEUR": "1627 mm",
+        "HAUTEUR": "1488 mm",
+        "VOLUME DU COFFRE": "185 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.9 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "4.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBD"
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant | Uconnect",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "TOIT": "Panoramique",
+        "VITRES": "Teintées",
+        "VOLANT": "Multi-fonctions",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Dual Drive",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-500-1.2-l-dolcevita-bva-1.webp",
+    "Nom": "FIAT 500",
+    "Brand": "FIAT",
+    "Model": "500",
+    "Version": "1.2 L DOLCEVITA BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "4",
+        "NOMBRE DE PORTES": "3"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "69 CH",
+        "COUPLE": "102 nm 3000 tr/min",
+        "CYLINDRÉE": "1242 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3546 mm",
+        "LARGEUR": "1627 mm",
+        "HAUTEUR": "1488 mm",
+        "VOLUME DU COFFRE": "185 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.9 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBD"
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant | Uconnect",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "TOIT": "Panoramique",
+        "VITRES": "Teintées",
+        "VOLANT": "Multi-fonctions",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Dual Drive",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-tipo-1.4l-1.webp",
+    "Nom": "FIAT TIPO",
+    "Brand": "FIAT",
+    "Model": "TIPO",
+    "Version": "1.4L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "127 nm 4500 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4368 mm",
+        "LARGEUR": "1792 mm",
+        "HAUTEUR": "1495 mm",
+        "VOLUME DU COFFRE": "440 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.1 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-doblo-combi-1.2-l-diesel-maxi-1.webp",
+    "Nom": "FIAT DOBLO COMBI",
+    "Brand": "FIAT",
+    "Model": "DOBLO COMBI",
+    "Version": "1.2 L DIESEL MAXI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5 | 2 portes latérales coulissantes | 2 portes arrières battantes vitrées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "90 CH",
+        "COUPLE": "200 nm 1500 tr/min",
+        "CYLINDRÉE": "1248 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4740 mm",
+        "LARGEUR": "1822 mm",
+        "HAUTEUR": "2125 mm",
+        "CHARGE UTILE": "670 KG",
+        "VOLUME DU COFFRE": "1000 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.9 s",
+        "VITESSE MAXI": "156 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ASSISTANCE AU FREINAGE": "EBD"
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-doblo-combi-1.4-l-1.webp",
+    "Nom": "FIAT DOBLO COMBI",
+    "Brand": "FIAT",
+    "Model": "DOBLO COMBI",
+    "Version": "1.4 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5 | 2 portes latérales coulissantes | 2 portes arrières battantes vitrées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "127 nm 4500 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4390 mm",
+        "LARGEUR": "1832 mm",
+        "HAUTEUR": "1845 mm",
+        "CHARGE UTILE": "630 KG",
+        "VOLUME DU COFFRE": "790 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.4 s",
+        "VITESSE MAXI": "161 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.7 L/100 km",
+        "CONSOMMATION MIXTE": "7.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-fiorino-1.3-l-multijet-1.webp",
+    "Nom": "FIAT FIORINO",
+    "Brand": "FIAT",
+    "Model": "FIORINO",
+    "Version": "1.3 L MULTIJET",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "2 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "190 nm 1500 tr/min",
+        "CYLINDRÉE": "1248 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3864 mm",
+        "LARGEUR": "1716 mm",
+        "HAUTEUR": "1721 mm",
+        "CHARGE UTILE": "630 KG",
+        "VOLUME UTILE": "2.5 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "157 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.8 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ASSISTANCE AU FREINAGE": "EBD"
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "AUTORADIO": "",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "CONNECTIVITÉ": "USB",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "VITRES": "Parebrise athermique",
+        "APPUIS TÊTES ARRIÈRES": "2"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-qubo-1.4-l-1.webp",
+    "Nom": "FIAT QUBO",
+    "Brand": "FIAT",
+    "Model": "QUBO",
+    "Version": "1.4 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5 | 2 portes latérales coulissantes"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "77 CH",
+        "COUPLE": "115 nm 3000 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3959 mm",
+        "LARGEUR": "1716 mm",
+        "HAUTEUR": "1735 mm",
+        "VOLUME DU COFFRE": "330 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.7 s",
+        "VITESSE MAXI": "155 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.8 L/100 km",
+        "CONSOMMATION MIXTE": "6.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux"
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-doblo-maxi-1.3-l-multijet-1.webp",
+    "Nom": "FIAT DOBLO",
+    "Brand": "FIAT",
+    "Model": "DOBLO",
+    "Version": "MAXI 1.3 L MULTIJET",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "90 CH",
+        "COUPLE": "200 nm 1500 tr/min",
+        "CYLINDRÉE": "1248 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4756 mm",
+        "LARGEUR": "1832 mm",
+        "HAUTEUR": "1880 mm",
+        "CHARGE UTILE": "970 KG",
+        "VOLUME UTILE": "4.2 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "158 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "CONNECTIVITÉ": "USB | AUX",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "Tapis de coffre PVC",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-doblo-1.3-l-multijet-1.webp",
+    "Nom": "FIAT DOBLO",
+    "Brand": "FIAT",
+    "Model": "DOBLO",
+    "Version": "1.3 L MULTIJET",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "90 CH",
+        "COUPLE": "200 nm 1500 tr/min",
+        "CYLINDRÉE": "1248 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4390 mm",
+        "LARGEUR": "1832 mm",
+        "HAUTEUR": "1845 mm",
+        "CHARGE UTILE": "730 KG",
+        "VOLUME UTILE": "3.4 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "158 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ALARME ANTIVOL": "",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Autoradio d'origine | Uconnect",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "Tapis de coffre PVC",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "PRISE 12V": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-doblo-maxi-1.3-l-multijet-3-places-1.webp",
+    "Nom": "FIAT DOBLO MAXI",
+    "Brand": "FIAT",
+    "Model": "DOBLO MAXI",
+    "Version": "1.3 L MULTIJET 3 PLACES",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "90 CH",
+        "COUPLE": "200 nm 1500 tr/min",
+        "CYLINDRÉE": "1248 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4756 mm",
+        "LARGEUR": "1832 mm",
+        "HAUTEUR": "1880 mm",
+        "CHARGE UTILE": "970 KG",
+        "VOLUME UTILE": "4.2 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "158 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "Tapis de coffre PVC",
+        "APPUIS TÊTES ARRIÈRES": "2"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-fiorino-combi-1.3-l-multijet-1.webp",
+    "Nom": "FIAT FIORINO COMBI",
+    "Brand": "FIAT",
+    "Model": "FIORINO COMBI",
+    "Version": "1.3 L MULTIJET",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "4",
+        "NOMBRE DE PORTES": "5 | 2 portes latérales coulissantes"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "190 nm 1500 tr/min",
+        "CYLINDRÉE": "1248 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3959 mm",
+        "LARGEUR": "1716 mm",
+        "HAUTEUR": "1721 mm",
+        "CHARGE UTILE": "640 KG",
+        "VOLUME UTILE": "2.5 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "157 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.8 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée +1000 DT",
+        "PHARES": "Adaptatifs"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-ducato-2.3-jtd-8m3-1.webp",
+    "Nom": "FIAT DUCATO",
+    "Brand": "FIAT",
+    "Model": "DUCATO",
+    "Version": "2.3 JTD 8M3",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "2287 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4963 mm",
+        "LARGEUR": "2050 mm",
+        "HAUTEUR": "2254 mm",
+        "CHARGE UTILE": "1570 KG",
+        "VOLUME UTILE": "8 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "152 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "7.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "AUTORADIO": "2 haut-parleurs",
+        "CONNECTIVITÉ": "USB",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-ducato-2.3-jtd-11.5-m3-tolée-1.webp",
+    "Nom": "FIAT DUCATO",
+    "Brand": "FIAT",
+    "Model": "DUCATO",
+    "Version": "2.3 JTD 11.5 M3 TOLÉE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "2287 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5413 mm",
+        "LARGEUR": "2050 mm",
+        "HAUTEUR": "2524 mm",
+        "CHARGE UTILE": "1500 KG",
+        "VOLUME UTILE": "11.5 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "152 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "7.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "AUTORADIO": "2 haut-parleurs",
+        "CONNECTIVITÉ": "USB",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-ducato-2.3-jtd-13-m3-tolée-1.webp",
+    "Nom": "FIAT DUCATO",
+    "Brand": "FIAT",
+    "Model": "DUCATO",
+    "Version": "2.3 JTD 13 M3 TOLÉE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "2287 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5998 mm",
+        "LARGEUR": "2050 mm",
+        "HAUTEUR": "2524 mm",
+        "CHARGE UTILE": "1390 KG",
+        "VOLUME UTILE": "13 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "152 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "7.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "AUTORADIO": "2 haut-parleurs",
+        "CONNECTIVITÉ": "USB",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-500x-1.4-l-multiair-pop-star-bva-1.webp",
+    "Nom": "FIAT 500X",
+    "Brand": "FIAT",
+    "Model": "500X",
+    "Version": "1.4 L MULTIAIR POP STAR BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4248 mm",
+        "LARGEUR": "1796 mm",
+        "HAUTEUR": "1600 mm",
+        "VOLUME DU COFFRE": "350 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.8 s",
+        "VITESSE MAXI": "190 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 17''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Bluetooth Blue & Me",
+        "ECRAN": "Tactile | 5 pouces",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "",
+        "CLIMATISATION": "Climatronic",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Cruise control",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-500x-cross-1.4-l-multiair-bva-1.webp",
+    "Nom": "FIAT 500X CROSS",
+    "Brand": "FIAT",
+    "Model": "500X CROSS",
+    "Version": "1.4 L MULTIAIR BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4248 mm",
+        "LARGEUR": "1796 mm",
+        "HAUTEUR": "1600 mm",
+        "VOLUME DU COFFRE": "350 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.8 s",
+        "VITESSE MAXI": "190 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Bluetooth Blue & Me | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 17''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "fiat-500x-cross-1.4-l-multiair-bicolore-bva-1.webp",
+    "Nom": "FIAT 500X CROSS",
+    "Brand": "FIAT",
+    "Model": "500X CROSS",
+    "Version": "1.4 L MULTIAIR BICOLORE BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4248 mm",
+        "LARGEUR": "1796 mm",
+        "HAUTEUR": "1600 mm",
+        "VOLUME DU COFFRE": "350 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.8 s",
+        "VITESSE MAXI": "190 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Bluetooth Blue & Me | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Bi-ton",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec capuchons noirs",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "fiat-tipo-1.6-l-bva-lounge-1.webp",
+    "Nom": "FIAT TIPO",
+    "Brand": "FIAT",
+    "Model": "TIPO",
+    "Version": "1.6 L BVA LOUNGE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "152 nm 4500 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4368 mm",
+        "LARGEUR": "1792 mm",
+        "HAUTEUR": "1495 mm",
+        "VOLUME DU COFFRE": "440 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "192 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "JANTES": "En aluminium | 16''",
+        "POIGNÉES DE PORTES": "Chromées",
+        "RADAR DE STATIONNEMENT": "Arrière"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "Tactile | 7 pouces",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CAMÉRA DE RECUL": "",
+        "CLIMATISATION": "Climatronic",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Cruise control",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-tipo-berline-1.4-l-mid-2.webp",
+    "Nom": "FIAT TIPO BERLINE",
+    "Brand": "FIAT",
+    "Model": "TIPO BERLINE",
+    "Version": "1.4 L MID",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "127 nm 4500 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4532 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1497 mm",
+        "VOLUME DU COFFRE": "520 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "fiat-tipo-berline-1.4-l-entry-plus-2.webp",
+    "Nom": "FIAT TIPO BERLINE",
+    "Brand": "FIAT",
+    "Model": "TIPO BERLINE",
+    "Version": "1.4 L ENTRY PLUS",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "127 nm 4500 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4532 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1497 mm",
+        "VOLUME DU COFFRE": "520 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "2",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-500-1.2-l-cult-club-bva-2.webp",
+    "Nom": "FIAT 500",
+    "Brand": "FIAT",
+    "Model": "500",
+    "Version": "1.2 L CULT CLUB BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "4",
+        "NOMBRE DE PORTES": "3"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "69 CH",
+        "COUPLE": "102 nm 3000 tr/min",
+        "CYLINDRÉE": "1242 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3546 mm",
+        "LARGEUR": "1627 mm",
+        "HAUTEUR": "1488 mm",
+        "VOLUME DU COFFRE": "185 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.9 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant | Uconnect",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "APPUIS TÊTES ARRIÈRES": "2",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "SEUILS DE PORTES": "Chromés",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "TOIT": "Panoramique",
+        "VITRES": "Athermiques",
+        "VOLANT": "Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "fiat-doblo-1.6-l-hdi-van-club-2.webp",
+    "Nom": "FIAT DOBLO",
+    "Brand": "FIAT",
+    "Model": "DOBLO",
+    "Version": "1.6 L HDI VAN CLUB",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "215 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4403 mm",
+        "LARGEUR": "1848 mm",
+        "HAUTEUR": "1796 mm",
+        "CHARGE UTILE": "620 KG",
+        "VOLUME UTILE": "3.3/3.8 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.0 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.0 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Radio numérique DAB",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "JANTES": "15''",
+        "PHARES": "Adaptatifs"
+    },
+    "Equipements intérieurs": {
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "Tapis de coffre PVC",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "fiat-ducato-2.2-hdi-8m3-l1h1-2.webp",
+    "Nom": "FIAT DUCATO",
+    "Brand": "FIAT",
+    "Model": "DUCATO",
+    "Version": "2.2 HDI 8M3 L1H1",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "2 portes latérales coulissantes | 2 portes arrières battantes tolées | 6"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "340 nm 1750 tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4963 mm",
+        "LARGEUR": "2050 mm",
+        "HAUTEUR": "2254 mm",
+        "VOLUME UTILE": "8 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "152 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs",
+        "CONNECTIVITÉ": "USB"
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Teintées",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-ducato-2.2-hdi-11.5-m3-l1h2-2.webp",
+    "Nom": "FIAT DUCATO",
+    "Brand": "FIAT",
+    "Model": "DUCATO",
+    "Version": "2.2 HDI 11.5 M3 L1H2",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "2 portes latérales coulissantes | 2 portes arrières battantes tolées | 6"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "340 nm 1750 tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5413 mm",
+        "LARGEUR": "2050 mm",
+        "HAUTEUR": "2254 mm",
+        "VOLUME UTILE": "11.5 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "152 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs",
+        "CONNECTIVITÉ": "USB"
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Teintées",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-ducato-2.2-hdi-13-m3-l2h2-2.webp",
+    "Nom": "FIAT DUCATO",
+    "Brand": "FIAT",
+    "Model": "DUCATO",
+    "Version": "2.2 HDI 13 M3 L2H2",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "2 portes latérales coulissantes | 2 portes arrières battantes tolées | 6"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "340 nm 1750 tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5998 mm",
+        "LARGEUR": "2050 mm",
+        "HAUTEUR": "2524 mm",
+        "VOLUME UTILE": "13 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "152 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs",
+        "CONNECTIVITÉ": "USB"
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Teintées",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "fiat-tipo-5-portes-1.4l-entry-2.webp",
+    "Nom": "FIAT TIPO 5 PORTES",
+    "Brand": "FIAT",
+    "Model": "TIPO 5 PORTES",
+    "Version": "1.4L ENTRY",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "127 nm 4500 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4368 mm",
+        "LARGEUR": "1792 mm",
+        "HAUTEUR": "1495 mm",
+        "VOLUME DU COFFRE": "440 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.1 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir",
+        "APPUIS TÊTES ARRIÈRES": "2"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
     },
     "Bluetooth": true,
     "Apple CarPlay": false,
