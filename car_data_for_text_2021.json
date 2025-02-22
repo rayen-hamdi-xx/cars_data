@@ -17996,3 +17996,5123 @@
     "Apple CarPlay": true,
     "Android Auto": true
 },
+{
+    "Image": "kia-picanto-populaire-1.0-l-1.webp",
+    "Nom": "KIA PICANTO POPULAIRE",
+    "Brand": "KIA",
+    "Model": "PICANTO POPULAIRE",
+    "Version": "1.0 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "69 CH",
+        "COUPLE": "95 nm 3500 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.3 s",
+        "VITESSE MAXI": "161 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "14''",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "kia-picanto-populaire-1.0-l-2.webp",
+    "Nom": "KIA PICANTO POPULAIRE",
+    "Brand": "KIA",
+    "Model": "PICANTO POPULAIRE",
+    "Version": "1.0 L",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "69 CH",
+        "COUPLE": "95 nm 3500 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.3 s",
+        "VITESSE MAXI": "161 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE": "Électronique"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "14''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "kia-picanto-populaire-1.0-l-3.webp",
+    "Nom": "KIA PICANTO POPULAIRE",
+    "Brand": "KIA",
+    "Model": "PICANTO POPULAIRE",
+    "Version": "1.0 L",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "67 CH",
+        "COUPLE": "95.2 nm 3700 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.3 s",
+        "VITESSE MAXI": "161 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.0 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "JANTES": "14''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-picanto-1.2-l-lx-1.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L LX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "kia-picanto-1.2-l-smart-1.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L SMART",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESC | ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-picanto-1.2-l-bva-lx-1.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L BVA LX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.7 s",
+        "VITESSE MAXI": "161 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "kia-picanto-1.2-l-bva-gt-line-1.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L BVA GT-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.7 s",
+        "VITESSE MAXI": "161 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 15''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PEINTURE": "Métallisée",
+        "POIGNÉES DE PORTES": "Chromées",
+        "SORTIES D’ÉCHAPPEMENT": "Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Argent satiné",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Similicuir",
+        "VITRES": "Teintées",
+        "VOLANT": "3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-picanto-1.2-l-lx-2.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L LX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Teintées",
+        "VOLANT": "3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "kia-picanto-1.2-l-smart-2.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L SMART",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Teintées",
+        "VOLANT": "3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-picanto-1.2-l-bva-lx-2.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L BVA LX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.7 s",
+        "VITESSE MAXI": "161 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "kia-picanto-1.2-l-gt-line-bva-2.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L GT-LINE BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "115 nm 4200 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.0 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Full LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Cuir artificiel",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "INSTRUMENTATION DIGITALE": "Supervision",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-picanto-1.2-l-smart-bvm-3.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L SMART BVM",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "115 nm 4200 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "INSTRUMENTATION DIGITALE": "Supervision",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-picanto-1.2-l-smart-bva-3.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L SMART BVA",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "115 nm 4200 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.0 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "INSTRUMENTATION DIGITALE": "Supervision",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-picanto-1.2-l-gt-line-bva-3.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L GT-LINE BVA",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "115 nm 4200 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.0 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Full LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Cuir artificiel",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "INSTRUMENTATION DIGITALE": "Supervision",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-picanto-1.2-l-gt-line-+-bva-3.webp",
+    "Nom": "KIA PICANTO",
+    "Brand": "KIA",
+    "Model": "PICANTO",
+    "Version": "1.2 L GT-LINE + BVA",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "115 nm 4200 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3595 mm",
+        "LARGEUR": "1595 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "255 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.0 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Full LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Cuir artificiel",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "INSTRUMENTATION DIGITALE": "Supervision",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-rio-5p-1.2-l-sx-1.webp",
+    "Nom": "KIA RIO 5P",
+    "Brand": "KIA",
+    "Model": "RIO 5P",
+    "Version": "1.2 L SX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "118 nm 4200 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4065 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm",
+        "VOLUME DU COFFRE": "325 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.1 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km",
+        "EMISSIONS DE CO2": "130 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée",
+        "RADAR DE STATIONNEMENT": "Arrière",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Apple Carplay | Android Auto",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Argent satiné",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Climatronic",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-rio-5p-1.2-l-gx-1.webp",
+    "Nom": "KIA RIO 5P",
+    "Brand": "KIA",
+    "Model": "RIO 5P",
+    "Version": "1.2 L GX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4065 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm",
+        "VOLUME DU COFFRE": "325 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.1 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km",
+        "EMISSIONS DE CO2": "130 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "kia-rio-5p-1.2-l-sx-1.webp",
+    "Nom": "KIA RIO 5P",
+    "Brand": "KIA",
+    "Model": "RIO 5P",
+    "Version": "1.2 L SX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4065 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm",
+        "VOLUME DU COFFRE": "325 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.1 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km",
+        "EMISSIONS DE CO2": "130 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Apple Carplay | Android Auto",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Argent satiné",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-rio-5p-1.2-l-smart-1.webp",
+    "Nom": "KIA RIO 5P",
+    "Brand": "KIA",
+    "Model": "RIO 5P",
+    "Version": "1.2 L SMART",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4065 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm",
+        "VOLUME DU COFFRE": "325 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.1 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km",
+        "EMISSIONS DE CO2": "130 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Caméra de recul",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 15''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | AUX | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-rio-5p-1.2-l-gt-line-1.webp",
+    "Nom": "KIA RIO 5P",
+    "Brand": "KIA",
+    "Model": "RIO 5P",
+    "Version": "1.2 L GT-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4065 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm",
+        "VOLUME DU COFFRE": "325 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.1 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km",
+        "EMISSIONS DE CO2": "130 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Apple Carplay | Android Auto",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Argent satiné",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | à méplat"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-rio-5p-1.2-l-prestige-1.webp",
+    "Nom": "KIA RIO 5P",
+    "Brand": "KIA",
+    "Model": "RIO 5P",
+    "Version": "1.2 L PRESTIGE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4065 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm",
+        "VOLUME DU COFFRE": "325 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.1 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km",
+        "EMISSIONS DE CO2": "130 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | AUX | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Argent satiné",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-rio-5p-1.2-l-prestige-2.webp",
+    "Nom": "KIA RIO 5P",
+    "Brand": "KIA",
+    "Model": "RIO 5P",
+    "Version": "1.2 L PRESTIGE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4065 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm",
+        "VOLUME DU COFFRE": "325 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.1 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km",
+        "EMISSIONS DE CO2": "130 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | AUX | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Argent satiné",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-rio-5p-1.2-l-gt-line-2.webp",
+    "Nom": "KIA RIO 5P",
+    "Brand": "KIA",
+    "Model": "RIO 5P",
+    "Version": "1.2 L GT-LINE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "121 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4065 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm",
+        "VOLUME DU COFFRE": "325 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.1 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km",
+        "EMISSIONS DE CO2": "130 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Argent satiné",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | à méplat"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉGULATEUR DE VITESSE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-rio-5p-1.4-l-bva-2.webp",
+    "Nom": "KIA RIO 5P",
+    "Brand": "KIA",
+    "Model": "RIO 5P",
+    "Version": "1.4 L BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "132 nm 4000 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4065 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm",
+        "VOLUME DU COFFRE": "325 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.4 s",
+        "VITESSE MAXI": "176 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-rio-berline-1.4-l-ex-1.webp",
+    "Nom": "KIA RIO BERLINE",
+    "Brand": "KIA",
+    "Model": "RIO BERLINE",
+    "Version": "1.4 L EX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "132 nm 4000 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4385 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.5 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "kia-rio-berline-1.4-l-bvm-2.webp",
+    "Nom": "KIA RIO BERLINE",
+    "Brand": "KIA",
+    "Model": "RIO BERLINE",
+    "Version": "1.4 L BVM",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "132 nm 4000 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4385 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.5 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-rio-berline-1.4-l-bva-2.webp",
+    "Nom": "KIA RIO BERLINE",
+    "Brand": "KIA",
+    "Model": "RIO BERLINE",
+    "Version": "1.4 L BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "132 nm 4000 tr/min",
+        "CYLINDRÉE": "1368 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4385 mm",
+        "LARGEUR": "1725 mm",
+        "HAUTEUR": "1450 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.5 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2'' | Supervision TFT LCD",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sportage-1.6-l-gdi-1.webp",
+    "Nom": "KIA SPORTAGE",
+    "Brand": "KIA",
+    "Model": "SPORTAGE",
+    "Version": "1.6 L GDI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "132 CH",
+        "COUPLE": "161 nm 4850 tr/min",
+        "CYLINDRÉE": "1591 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4480 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1655 mm",
+        "VOLUME DU COFFRE": "466 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.9 L/100 km",
+        "CONSOMMATION MIXTE": "7.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED | Directionnels",
+        "RADAR DE STATIONNEMENT": "Arrière | Avant"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Apple Carplay | Android Auto",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques",
+        "TABLEAU DE BORD": "Cuir",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées",
+        "VOLANT": "Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "",
+        "CAMÉRA DE RECUL": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME DE DESCENTE EN CÔTE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sportage-1.6-l-t-gdi-gt-line-1.webp",
+    "Nom": "KIA SPORTAGE",
+    "Brand": "KIA",
+    "Model": "SPORTAGE",
+    "Version": "1.6 L T-GDI GT-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "177 CH",
+        "COUPLE": "265 nm 1500 tr/min",
+        "CYLINDRÉE": "1591 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4480 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1655 mm",
+        "VOLUME DU COFFRE": "466 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "201 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.6 L/100 km",
+        "CONSOMMATION MIXTE": "7.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PHARES": "Full LED | Directionnels",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Apple Carplay | Android Auto | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces | TFT-LCD",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques",
+        "TABLEAU DE BORD": "Cuir",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture électriques",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉMARRAGE À DISTANCE": "",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME DE DESCENTE EN CÔTE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sportage-1.6-l-t-gdi-7-dct-ex-2.webp",
+    "Nom": "KIA SPORTAGE",
+    "Brand": "KIA",
+    "Model": "SPORTAGE",
+    "Version": "1.6 L T-GDI 7-DCT EX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "180 CH",
+        "COUPLE": "265 nm 1500 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4515 mm",
+        "LARGEUR": "1865 mm",
+        "HAUTEUR": "1650 mm",
+        "VOLUME DU COFFRE": "591 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.8 s",
+        "VITESSE MAXI": "201 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED | Adaptatifs"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "SELLERIE": "Cuir/Tissu",
+        "SIÈGES": "Conducteur à réglage électrique | Chauffants",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Chauffant | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sportage-1.6-l-t-gdi-7-dct-sx-2.webp",
+    "Nom": "KIA SPORTAGE",
+    "Brand": "KIA",
+    "Model": "SPORTAGE",
+    "Version": "1.6 L T-GDI 7-DCT SX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "180 CH",
+        "COUPLE": "265 nm 1500 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4515 mm",
+        "LARGEUR": "1865 mm",
+        "HAUTEUR": "1650 mm",
+        "VOLUME DU COFFRE": "591 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.8 s",
+        "VITESSE MAXI": "201 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PHARES": "Full LED | Adaptatifs"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques | Chauffants | Ventilés",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Chauffant | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-seltos-1.4-t-gdi-1.webp",
+    "Nom": "KIA SELTOS",
+    "Brand": "KIA",
+    "Model": "SELTOS",
+    "Version": "1.4 T-GDI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "242 nm 1500 tr/min",
+        "CYLINDRÉE": "1353 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4315 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1645 mm",
+        "VOLUME DU COFFRE": "433 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESC",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | Bluetooth | Apple Carplay | Android Auto | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions | à méplat"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-seltos-1.4-t-gdi-2.webp",
+    "Nom": "KIA SELTOS",
+    "Brand": "KIA",
+    "Model": "SELTOS",
+    "Version": "1.4 T-GDI",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "242 nm 1500 tr/min",
+        "CYLINDRÉE": "1353 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4315 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1645 mm",
+        "VOLUME DU COFFRE": "433 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions | à méplat",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-niro-hybride-1.6-l-1.webp",
+    "Nom": "KIA NIRO HYBRIDE",
+    "Brand": "KIA",
+    "Model": "NIRO HYBRIDE",
+    "Version": "1.6 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "141 CH",
+        "COUPLE": "265 nm 1000 tr/min",
+        "CYLINDRÉE": "1580 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4355 mm",
+        "LARGEUR": "1805 mm",
+        "HAUTEUR": "1545 mm",
+        "VOLUME DU COFFRE": "436 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "164 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux conducteur",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir/Tissu",
+        "SEUILS DE PORTES": "Aluminium",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "PRISE 12V": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-niro-hybride-1.6-l-ex-2.webp",
+    "Nom": "KIA NIRO HYBRIDE",
+    "Brand": "KIA",
+    "Model": "NIRO HYBRIDE",
+    "Version": "1.6 L EX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "141 CH",
+        "COUPLE": "265 nm 1000 tr/min",
+        "CYLINDRÉE": "1580 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4420 mm",
+        "LARGEUR": "1825 mm",
+        "HAUTEUR": "1560 mm",
+        "VOLUME DU COFFRE": "401 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10,8 s",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux conducteur",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir/Tissu",
+        "SEUILS DE PORTES": "Aluminium",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-niro-hybride-1.6-l-sx-2.webp",
+    "Nom": "KIA NIRO HYBRIDE",
+    "Brand": "KIA",
+    "Model": "NIRO HYBRIDE",
+    "Version": "1.6 L SX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "141 CH",
+        "COUPLE": "265 nm 1000 tr/min",
+        "CYLINDRÉE": "1580 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4420 mm",
+        "LARGEUR": "1825 mm",
+        "HAUTEUR": "1560 mm",
+        "VOLUME DU COFFRE": "401 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10,8 s",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux conducteur",
+        "ANTI-PATINAGE": "ESC",
+        "ASSISTANCE AU FREINAGE": "Système anti-collision avec détection des piétons | Freinage automatique anti-collision | Freinage multi-collision",
+        "AIDE AU MAINTIEN DANS LA VOIE": "LKA | LFA",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir",
+        "SEUILS DE PORTES": "Aluminium",
+        "SIÈGES": "Électriques | Réglage lombaire",
+        "TOIT": "Ouvrant",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions | Avec palettes | Similicuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "LIMITEUR DE VITESSE": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-xceed-1.5-t-gdi-7dct-1.webp",
+    "Nom": "KIA XCEED",
+    "Brand": "KIA",
+    "Model": "XCEED",
+    "Version": "1.5 T-GDI 7DCT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "160 CH",
+        "COUPLE": "253 nm 1500 tr/min",
+        "CYLINDRÉE": "1482 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4395 mm",
+        "LARGEUR": "1826 mm",
+        "HAUTEUR": "1495 mm",
+        "VOLUME DU COFFRE": "426 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "208 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Conducteur à réglage électrique | Fonction mémoire",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "RÉGULATEUR DE VITESSE": "",
+        "INSTRUMENTATION NUMÉRIQUE": "12.3''",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-xceed-1.5-t-gdi-7dct-ex-2.webp",
+    "Nom": "KIA XCEED",
+    "Brand": "KIA",
+    "Model": "XCEED",
+    "Version": "1.5 T-GDI 7DCT EX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "160 CH",
+        "COUPLE": "253 nm 1500 tr/min",
+        "CYLINDRÉE": "1482 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4395 mm",
+        "LARGEUR": "1826 mm",
+        "HAUTEUR": "1495 mm",
+        "VOLUME DU COFFRE": "426 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "208 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-xceed-1.5-t-gdi-7dct-sx-2.webp",
+    "Nom": "KIA XCEED",
+    "Brand": "KIA",
+    "Model": "XCEED",
+    "Version": "1.5 T-GDI 7DCT SX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "160 CH",
+        "COUPLE": "253 nm 1500 tr/min",
+        "CYLINDRÉE": "1482 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4395 mm",
+        "LARGEUR": "1826 mm",
+        "HAUTEUR": "1495 mm",
+        "VOLUME DU COFFRE": "426 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "208 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED | intégrés dans les phares",
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Conducteur à réglage électrique | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-xceed-1.5-t-gdi-7dct-gt-line-2.webp",
+    "Nom": "KIA XCEED",
+    "Brand": "KIA",
+    "Model": "XCEED",
+    "Version": "1.5 T-GDI 7DCT GT-LINE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "160 CH",
+        "COUPLE": "253 nm 1500 tr/min",
+        "CYLINDRÉE": "1482 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4395 mm",
+        "LARGEUR": "1826 mm",
+        "HAUTEUR": "1495 mm",
+        "VOLUME DU COFFRE": "426 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "208 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED | intégrés dans les phares",
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Conducteur à réglage électrique | Chauffants | Ventilés | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Chauffant | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sorento-3.5-v6-bva-7-places-1.webp",
+    "Nom": "KIA SORENTO",
+    "Brand": "KIA",
+    "Model": "SORENTO",
+    "Version": "3.5 V6 BVA 7 PLACES",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "6",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "19 CV",
+        "PUISSANCE (CH.DIN)": "272 CH",
+        "COUPLE": "331 nm 5000 tr/min",
+        "CYLINDRÉE": "3470 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4810 mm",
+        "LARGEUR": "1900 mm",
+        "HAUTEUR": "1700 mm",
+        "VOLUME DU COFFRE": "809 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "13.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.9 L/100 km",
+        "CONSOMMATION MIXTE": "10 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESC",
+        "ASSISTANCE AU FREINAGE": "Freinage multi-collision",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "CONTRÔLE DU ROULIS DE LA REMORQUE": "",
+        "FIXATIONS ISOFIX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Système de caméras 360",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 20''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Commande vocale | iPod | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques | Réglage lombaire",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "AFFICHAGE TÊTE HAUTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "Supervision TFT LCD",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sorento-2.2-l-diesel-bva-7-places-1.webp",
+    "Nom": "KIA SORENTO",
+    "Brand": "KIA",
+    "Model": "SORENTO",
+    "Version": "2.2 L DIESEL BVA 7 PLACES",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "12 CV",
+        "PUISSANCE (CH.DIN)": "202 CH",
+        "COUPLE": "440 nm 1750 tr/min",
+        "CYLINDRÉE": "2151 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4810 mm",
+        "LARGEUR": "1900 mm",
+        "HAUTEUR": "1695 mm",
+        "VOLUME DU COFFRE": "809 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "202 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.3 L/100 km",
+        "CONSOMMATION MIXTE": "6.1 L/100 km",
+        "EMISSIONS DE CO2": "143 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESC",
+        "ASSISTANCE AU FREINAGE": "Freinage multi-collision",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "CONTRÔLE DU ROULIS DE LA REMORQUE": "",
+        "FIXATIONS ISOFIX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Système de caméras 360",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 20''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth | Commande vocale | iPod | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques | Réglage lombaire",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "AFFICHAGE TÊTE HAUTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "Supervision TFT LCD",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-k2500-simple-cabine-1.webp",
+    "Nom": "KIA K2500",
+    "Brand": "KIA",
+    "Model": "K2500",
+    "Version": "SIMPLE CABINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "2"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "255 nm 2400 tr/min",
+        "CYLINDRÉE": "2497 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5125 mm",
+        "LARGEUR": "1740 mm",
+        "HAUTEUR": "1995 mm",
+        "CHARGE UTILE": "1490 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "150 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "9.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "AIRBAGS": "Frontal conducteur"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | AUX"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Tissu",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "kia-seltos-1.4-t-gdi-top-grade-3.webp",
+    "Nom": "KIA SELTOS",
+    "Brand": "KIA",
+    "Model": "SELTOS",
+    "Version": "1.4 T-GDI TOP GRADE",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "242 nm 1500 tr/min",
+        "CYLINDRÉE": "1353 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4385 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1630 mm",
+        "VOLUME DU COFFRE": "433 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.3 L/100 km",
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 10.25 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "LUMIÈRES D'AMBIANCE": "",
+        "PÉDALIERS": "Métal Brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir",
+        "SIÈGES": "Conducteur à réglage électrique | Ventilés",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "10.25''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-stonic-1.2-l-ex-bvm-1.webp",
+    "Nom": "KIA STONIC",
+    "Brand": "KIA",
+    "Model": "STONIC",
+    "Version": "1.2 L EX BVM",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "118 nm 4200 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4140 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1505 mm",
+        "VOLUME DU COFFRE": "352 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-stonic-1.2-l-sx-bvm-1.webp",
+    "Nom": "KIA STONIC",
+    "Brand": "KIA",
+    "Model": "STONIC",
+    "Version": "1.2 L SX BVM",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "84 CH",
+        "COUPLE": "118 nm 4200 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4140 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1505 mm",
+        "VOLUME DU COFFRE": "352 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-stonic-1.0l-t-gdi-gt-line-bvm-1.webp",
+    "Nom": "KIA STONIC",
+    "Brand": "KIA",
+    "Model": "STONIC",
+    "Version": "1.0L T-GDI GT-LINE BVM",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence | Hybride léger",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "172 nm 1500 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4140 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1505 mm",
+        "VOLUME DU COFFRE": "352 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.7 s",
+        "VITESSE MAXI": "188 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-stonic-1.0l-t-gdi-gt-line-bva-1.webp",
+    "Nom": "KIA STONIC",
+    "Brand": "KIA",
+    "Model": "STONIC",
+    "Version": "1.0L T-GDI GT-LINE BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence | Hybride léger",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4140 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1505 mm",
+        "VOLUME DU COFFRE": "352 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.4 s",
+        "VITESSE MAXI": "190 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TOIT": "Ouvrant",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-ev6-standard-range-gt-line-1.webp",
+    "Nom": "KIA EV6",
+    "Brand": "KIA",
+    "Model": "EV6",
+    "Version": "STANDARD RANGE GT-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE MOTEURS ÉLECTRIQUES": "1",
+        "ENERGIE": "Electrique",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "170 CH",
+        "BATTERIE": "58 kWh",
+        "COUPLE": "350 nm 0 tr/min"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4695 mm",
+        "LARGEUR": "1890 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "480 L",
+        "VOLUME DU COFFRE AVANT": "52 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "185 KM/H",
+        "AUTONOMIE ÉLECTRIQUE (WLTP)": "394 km"
+    },
+    "Consommation": {
+        "CONSOMMATION ÉLECTRIQUE (WLTP)": "16.6 kWh/100 km",
+        "TEMPS DE RECHARGE NORMALE": "6 heures",
+        "TEMPS DE RECHARGE RAPIDE": "18 minutes",
+        "EMISSIONS DE CO2": "0 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Centraux",
+        "ALARME ANTIVOL": "Périmétrique",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "14 haut-parleurs | Commandes au volant | Meridian | Amplificateur externe",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces",
+        "NAVIGATION": "Cartographie Tunisienne | Service Kia"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 19'' | Bi-ton",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Full LED | Matrix LED",
+        "POIGNÉES DE PORTES": "Escamotables"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT ÉCLAIRAGE": "",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Suédine | Cuir artificiel",
+        "SEUILS DE PORTES": "Aluminium",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Chauffant | Multi-fonctions | Avec palettes | Cuir artificiel",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V | 230 V | Chargeur inversé (V2L)",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec capuchons noirs | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-ev6-long-range-gt-line-1.webp",
+    "Nom": "KIA EV6",
+    "Brand": "KIA",
+    "Model": "EV6",
+    "Version": "LONG RANGE GT-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE MOTEURS ÉLECTRIQUES": "1",
+        "ENERGIE": "Electrique",
+        "PUISSANCE FISCALE": "13 CV",
+        "PUISSANCE (CH.DIN)": "229 CH",
+        "BATTERIE": "77.4 kWh",
+        "COUPLE": "350 nm 0 tr/min"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4695 mm",
+        "LARGEUR": "1890 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "480 L",
+        "VOLUME DU COFFRE AVANT": "52 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7.3 s",
+        "VITESSE MAXI": "185 KM/H",
+        "AUTONOMIE ÉLECTRIQUE (WLTP)": "504 km"
+    },
+    "Consommation": {
+        "CONSOMMATION ÉLECTRIQUE (WLTP)": "17.2 kWh/100 km",
+        "TEMPS DE RECHARGE NORMALE": "7.4 heures",
+        "TEMPS DE RECHARGE RAPIDE": "18 minutes",
+        "EMISSIONS DE CO2": "0 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Centraux",
+        "ALARME ANTIVOL": "Périmétrique",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "14 haut-parleurs | Commandes au volant | Meridian | Amplificateur externe",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces",
+        "NAVIGATION": "Cartographie Tunisienne | Service Kia"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 20'' | Bi-ton",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Full LED | Matrix LED",
+        "POIGNÉES DE PORTES": "Escamotables"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT ÉCLAIRAGE": "",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Suédine | Cuir artificiel",
+        "SEUILS DE PORTES": "Aluminium",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Chauffant | Multi-fonctions | Avec palettes | Cuir artificiel",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V | 230 V | Chargeur inversé (V2L)",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec capuchons noirs | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-ev6-dual-power-4wd-gt-line-1.webp",
+    "Nom": "KIA EV6",
+    "Brand": "KIA",
+    "Model": "EV6",
+    "Version": "DUAL POWER 4WD GT-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE MOTEURS ÉLECTRIQUES": "2",
+        "ENERGIE": "Electrique",
+        "PUISSANCE FISCALE": "21 CV",
+        "PUISSANCE (CH.DIN)": "325 CH",
+        "BATTERIE": "77.4 kWh",
+        "COUPLE": "605 nm 0 tr/min"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4695 mm",
+        "LARGEUR": "1890 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "480 L",
+        "VOLUME DU COFFRE AVANT": "20 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "5.2 s",
+        "VITESSE MAXI": "188 KM/H",
+        "AUTONOMIE ÉLECTRIQUE (WLTP)": "484 km"
+    },
+    "Consommation": {
+        "CONSOMMATION ÉLECTRIQUE (WLTP)": "18 kWh/100 km",
+        "TEMPS DE RECHARGE NORMALE": "7.4 heures",
+        "TEMPS DE RECHARGE RAPIDE": "18 minutes",
+        "EMISSIONS DE CO2": "0 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Centraux",
+        "ALARME ANTIVOL": "Périmétrique",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "14 haut-parleurs | Commandes au volant | Meridian | Amplificateur externe",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces",
+        "NAVIGATION": "Cartographie Tunisienne | Service Kia"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 20'' | Bi-ton",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Full LED | Matrix LED",
+        "POIGNÉES DE PORTES": "Escamotables"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT ÉCLAIRAGE": "",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Suédine | Cuir artificiel",
+        "SEUILS DE PORTES": "Aluminium",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Chauffant | Multi-fonctions | Avec palettes | Cuir artificiel",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V | 230 V | Chargeur inversé (V2L)",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec capuchons noirs | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-ev6-gt-awd-1.webp",
+    "Nom": "KIA EV6 GT",
+    "Brand": "KIA",
+    "Model": "EV6 GT",
+    "Version": "AWD",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE MOTEURS ÉLECTRIQUES": "2",
+        "ENERGIE": "Electrique",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "585 CH",
+        "BATTERIE": "77.4 kWh",
+        "COUPLE": "740 nm 0 tr/min"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "eLSD"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4695 mm",
+        "LARGEUR": "1890 mm",
+        "HAUTEUR": "1545 mm",
+        "VOLUME DU COFFRE": "480 L",
+        "VOLUME DU COFFRE AVANT": "20 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "3.5 s",
+        "VITESSE MAXI": "260 KM/H",
+        "AUTONOMIE ÉLECTRIQUE (WLTP)": "424 km"
+    },
+    "Consommation": {
+        "CONSOMMATION ÉLECTRIQUE (WLTP)": "20.6 kWh/100 km",
+        "TEMPS DE RECHARGE NORMALE": "7.3 heures",
+        "TEMPS DE RECHARGE RAPIDE": "18 minutes",
+        "EMISSIONS DE CO2": "0 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Centraux",
+        "ALARME ANTIVOL": "Périmétrique",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "14 haut-parleurs | Commandes au volant | Meridian | Amplificateur externe",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces",
+        "NAVIGATION": "Cartographie Tunisienne | Service Kia"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 21'' | Bi-ton",
+        "KIT CARROSSERIE": "GT",
+        "PHARES": "Full LED | Adaptatifs | Matrix LED",
+        "POIGNÉES DE PORTES": "Escamotables"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT ÉCLAIRAGE": "",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Suédine | Cuir artificiel",
+        "SEUILS DE PORTES": "Aluminium",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Réglage lombaire | Baquets | GT",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Chauffant | Multi-fonctions | Avec palettes | Cuir artificiel",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V | 230 V | Chargeur inversé (V2L)",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FREINAGE": "Étriers verts",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Normal | Eco | GT",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec capuchons noirs | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "SUSPENSION": "ECS",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sonet-1.5-l-ex-bvm-1.webp",
+    "Nom": "KIA SONET",
+    "Brand": "KIA",
+    "Model": "SONET",
+    "Version": "1.5 L EX BVM",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "115 CH",
+        "COUPLE": "144 nm 4500 tr/min",
+        "CYLINDRÉE": "1497 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4110 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1610 mm",
+        "VOLUME DU COFFRE": "385 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.5 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.5 L/100 km",
+        "CONSOMMATION MIXTE": "6.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu | Cuir artificiel",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "10.25''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sonet-1.5-l-cvt-ex-plus-1.webp",
+    "Nom": "KIA SONET",
+    "Brand": "KIA",
+    "Model": "SONET",
+    "Version": "1.5 L CVT EX PLUS",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "115 CH",
+        "COUPLE": "144 nm 4500 tr/min",
+        "CYLINDRÉE": "1497 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4110 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1610 mm",
+        "VOLUME DU COFFRE": "385 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.3 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.3 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu | Cuir artificiel",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "10.25''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sonet-1.5-l-cvt-sx-1.webp",
+    "Nom": "KIA SONET",
+    "Brand": "KIA",
+    "Model": "SONET",
+    "Version": "1.5 L CVT SX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "115 CH",
+        "COUPLE": "144 nm 4500 tr/min",
+        "CYLINDRÉE": "1497 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4110 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1610 mm",
+        "VOLUME DU COFFRE": "385 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.3 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.3 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT FUMEURS": "",
+        "PÉDALIERS": "Métal Brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu | Cuir artificiel",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "10.25''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sportage-hybride-1.6-l-t-gdi-4x2-gt-line-1.webp",
+    "Nom": "KIA SPORTAGE HYBRIDE",
+    "Brand": "KIA",
+    "Model": "SPORTAGE HYBRIDE",
+    "Version": "1.6 L T-GDI 4X2 GT-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "230 CH",
+        "COUPLE": "350 nm 1500 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4515 mm",
+        "LARGEUR": "1865 mm",
+        "HAUTEUR": "1645 mm",
+        "VOLUME DU COFFRE": "587 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8 s",
+        "VITESSE MAXI": "193 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Centraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Adaptatifs | Matrix LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "LUMIÈRES D'AMBIANCE": "LED | 64 couleurs",
+        "SELLERIE": "Cuir | Suède",
+        "SIÈGES": "Électriques | Chauffants | Ventilés",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Chauffant | Multi-fonctions | Sport | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sportage-hybride-1.6-l-t-gdi-4x4-gt-line-1.webp",
+    "Nom": "KIA SPORTAGE HYBRIDE",
+    "Brand": "KIA",
+    "Model": "SPORTAGE HYBRIDE",
+    "Version": "1.6 L T-GDI 4X4 GT-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "230 CH",
+        "COUPLE": "350 nm 1500 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4515 mm",
+        "LARGEUR": "1865 mm",
+        "HAUTEUR": "1645 mm",
+        "VOLUME DU COFFRE": "587 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.3 s",
+        "VITESSE MAXI": "193 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Centraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PEINTURE": "Bi-ton",
+        "PHARES": "Adaptatifs | Matrix LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "LUMIÈRES D'AMBIANCE": "LED | 64 couleurs",
+        "SELLERIE": "Cuir | Suède",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Chauffant | Multi-fonctions | Sport | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "SUSPENSION": "ECS",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sorento-2.2-l-diesel-7-places-bva-2.webp",
+    "Nom": "KIA SORENTO",
+    "Brand": "KIA",
+    "Model": "SORENTO",
+    "Version": "2.2 L DIESEL 7 PLACES BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "12 CV",
+        "PUISSANCE (CH.DIN)": "202 CH",
+        "COUPLE": "440 nm 1750 tr/min",
+        "CYLINDRÉE": "2151 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4810 mm",
+        "LARGEUR": "1900 mm",
+        "HAUTEUR": "1695 mm",
+        "VOLUME DU COFFRE": "809 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "202 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.3 L/100 km",
+        "CONSOMMATION MIXTE": "6.1 L/100 km",
+        "EMISSIONS DE CO2": "143 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Commande vocale | iPod | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 20''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Chromée",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques | Réglage lombaire",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "Supervision TFT LCD",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "kia-sorento-3.5-v6-bva-7-places-2.webp",
+    "Nom": "KIA SORENTO",
+    "Brand": "KIA",
+    "Model": "SORENTO",
+    "Version": "3.5 V6 BVA 7 PLACES",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "6",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "19 CV",
+        "PUISSANCE (CH.DIN)": "272 CH",
+        "COUPLE": "331 nm 5000 tr/min",
+        "CYLINDRÉE": "3470 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4810 mm",
+        "LARGEUR": "1900 mm",
+        "HAUTEUR": "1700 mm",
+        "VOLUME DU COFFRE": "809 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "13.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.9 L/100 km",
+        "CONSOMMATION MIXTE": "10 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE": "Électronique",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Commande vocale | iPod | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 20''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "FINITION INTÉRIEURE": "Chromée",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques | Réglage lombaire",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "Supervision TFT LCD",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
