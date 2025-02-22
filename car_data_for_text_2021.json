@@ -9646,3 +9646,763 @@
     "Apple CarPlay": true,
     "Android Auto": true
 },
+{
+    "Image": "byd-dolphin-44.9-kwh-1.webp",
+    "Nom": "BYD DOLPHIN",
+    "Brand": "BYD",
+    "Model": "DOLPHIN",
+    "Version": "44.9 KWH",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE MOTEURS ÉLECTRIQUES": "1",
+        "ENERGIE": "Electrique",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "BATTERIE": "44.9 kWh",
+        "COUPLE": "180 nm 0 tr/min"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4070 mm",
+        "LARGEUR": "1770 mm",
+        "HAUTEUR": "1570 mm",
+        "VOLUME DU COFFRE": "345 L",
+        "VOLUME DU COFFRE MAXIMAL": "1310 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.9 s",
+        "VITESSE MAXI": "150 KM/H",
+        "AUTONOMIE ÉLECTRIQUE (WLTP)": "340 km",
+        "AUTONOMIE ÉLECTRIQUE (NEDC)": "405 km"
+    },
+    "Consommation": {
+        "CONSOMMATION ÉLECTRIQUE (WLTP)": "11 kWh/100 km",
+        "TEMPS DE RECHARGE NORMALE": "5 heures",
+        "TEMPS DE RECHARGE RAPIDE": "31 minutes"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 12.8 pouces | Rotatif"
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BOULONS DE ROUES PROTÉGÉS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 16'' | Bi-ton",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières",
+        "SELLERIE": "Similicuir",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Similicuir | 3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "INSTRUMENTATION DIGITALE": "5\"",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "byd-king-1.5-l-dm-i-1.webp",
+    "Nom": "BYD KING",
+    "Brand": "BYD",
+    "Model": "KING",
+    "Version": "1.5 L DM-I",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride rechargeable",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "187 CH",
+        "PUISSANCE THERMIQUE (CH.DIN)": "106 CH",
+        "PUISSANCE ÉLECTRIQUE": "81 CH",
+        "BATTERIE": "8.3 kWh",
+        "COUPLE": "130 nm 4500 tr/min",
+        "COUPLE ÉLECTRIQUE": "316 nm",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4765 mm",
+        "LARGEUR": "1837 mm",
+        "HAUTEUR": "1495 mm",
+        "VOLUME DU COFFRE": "450 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7.9 s",
+        "VITESSE MAXI": "185 KM/H",
+        "AUTONOMIE ÉLECTRIQUE (WLTP)": "55 km",
+        "AUTONOMIE ÉLECTRIQUE (NEDC)": "1175 km"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "3.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": "",
+        "KIT SÉCURITÉ": "Triangle de présignalisation"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | 2 USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.8 pouces | Rotatif"
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BOULONS DE ROUES PROTÉGÉS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières | Porte-lunettes",
+        "SELLERIE": "Similicuir",
+        "SIÈGES": "Conducteur à réglage électrique | 6 directions | Avec Appuie-tête intégrés",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Similicuir | 3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Éclairage d'accueil à LED",
+        "INSTRUMENTATION DIGITALE": "8.8\"",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "byd-atto-3-60.48-kwh-1.webp",
+    "Nom": "BYD ATTO 3",
+    "Brand": "BYD",
+    "Model": "ATTO 3",
+    "Version": "60.48 KWH",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE MOTEURS ÉLECTRIQUES": "1",
+        "ENERGIE": "Electrique",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "204 CH",
+        "BATTERIE": "60.48 kWh",
+        "COUPLE": "310 nm 0 tr/min"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4455 mm",
+        "LARGEUR": "1875 mm",
+        "HAUTEUR": "1615 mm",
+        "VOLUME DU COFFRE": "440 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7.3 s",
+        "VITESSE MAXI": "160 KM/H",
+        "AUTONOMIE ÉLECTRIQUE (WLTP)": "420 km"
+    },
+    "Consommation": {
+        "CONSOMMATION ÉLECTRIQUE (WLTP)": "14.9 kWh/100 km",
+        "TEMPS DE RECHARGE NORMALE": "5 heures",
+        "TEMPS DE RECHARGE RAPIDE": "30 minutes"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | 2 USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.8 pouces | Rotatif"
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Aluminium",
+        "BOULONS DE ROUES PROTÉGÉS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 18'' | Bi-ton",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Similicuir",
+        "SIÈGES": "Conducteur à réglage électrique | 6 directions",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VOLANT": "Similicuir | 3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V | Chargeur inversé (V2L)",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "5\"",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "byd-song-plus-1.5-l-dm-i-1.webp",
+    "Nom": "BYD SONG PLUS",
+    "Brand": "BYD",
+    "Model": "SONG PLUS",
+    "Version": "1.5 L DM-I",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride rechargeable",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "265 CH",
+        "PUISSANCE THERMIQUE (CH.DIN)": "130 CH",
+        "PUISSANCE ÉLECTRIQUE": "204 CH",
+        "BATTERIE": "18.3 kWh",
+        "COUPLE": "220 nm 1600 tr/min",
+        "COUPLE ÉLECTRIQUE": "300 nm",
+        "CYLINDRÉE": "1497 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4775 mm",
+        "LARGEUR": "1890 mm",
+        "HAUTEUR": "1670 mm",
+        "VOLUME DU COFFRE": "552 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.3 s",
+        "VITESSE MAXI": "180 KM/H",
+        "AUTONOMIE ÉLECTRIQUE (WLTP)": "90 km",
+        "AUTONOMIE ÉLECTRIQUE (NEDC)": "970 km"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": "",
+        "KIT SÉCURITÉ": "Triangle de présignalisation | Extincteur"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "9 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | 2 USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale | 1 fente pour carte SD | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.8 pouces | Rotatif",
+        "NAVIGATION": ""
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Aluminium",
+        "BOULONS DE ROUES PROTÉGÉS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 19''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières | Porte-lunettes",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Similicuir",
+        "SIÈGES": "Conducteur à réglage électrique | 6 directions | Avec Appuie-tête intégrés",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VOLANT": "Similicuir | 3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V | Chargeur inversé (V2L)",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Éclairage d'accueil à LED",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "byd-tang-ev-108.8-kwh-1.webp",
+    "Nom": "BYD TANG EV",
+    "Brand": "BYD",
+    "Model": "TANG EV",
+    "Version": "108.8 KWH",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE MOTEURS ÉLECTRIQUES": "2",
+        "ENERGIE": "Electrique",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "516 CH",
+        "BATTERIE": "108.8 kWh",
+        "COUPLE": "680 nm 0 tr/min"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4970 mm",
+        "LARGEUR": "1955 mm",
+        "HAUTEUR": "1745 mm",
+        "VOLUME DU COFFRE": "940 L",
+        "VOLUME DU COFFRE MAXIMAL": "1655 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "4.9 s",
+        "VITESSE MAXI": "190 KM/H",
+        "AUTONOMIE ÉLECTRIQUE (WLTP)": "520 km"
+    },
+    "Consommation": {
+        "CONSOMMATION ÉLECTRIQUE (WLTP)": "20.9 kWh/100 km",
+        "TEMPS DE RECHARGE NORMALE": "7.5 heures",
+        "TEMPS DE RECHARGE RAPIDE": "30 minutes"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": "",
+        "KIT SÉCURITÉ": "Triangle de présignalisation"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "12 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "Android Auto | 4 USB | Apple Carplay | Bluetooth | Commande vocale | 1 fente pour carte SD | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | Rotatif | 15.6\""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Aluminium",
+        "BOULONS DE ROUES PROTÉGÉS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 21'' | Bi-ton",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "LUMIÈRES D'AMBIANCE": "LED | 31 Couleurs",
+        "SELLERIE": "Cuir",
+        "SEUILS DE PORTES": "Métal",
+        "SIÈGES": "Électriques | 8 directions | Chauffants | Massants | Ventilés | Réglage lombaire | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TABLEAU DE BORD": "Cuir | Alcantara",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Acoustiques | Athermiques",
+        "VOLANT": "Cuir | Chauffant | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V | Chargeur inversé (V2L)",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres",
+        "CLIMATISATION": "Automatique | 3 zones | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Mémoire de position | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "byd-tang-2.0-l-supreme-bva-1.webp",
+    "Nom": "BYD TANG",
+    "Brand": "BYD",
+    "Model": "TANG",
+    "Version": "2.0 L SUPREME BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "189 CH",
+        "COUPLE": "320 nm 1750 tr/min",
+        "CYLINDRÉE": "1999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4870 mm",
+        "LARGEUR": "1940 mm",
+        "HAUTEUR": "1720 mm",
+        "VOLUME DU COFFRE": "940 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "8.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "9 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "4 USB | AUX | Bluetooth | Wifi",
+        "ECRAN CENTRAL": "Tactile | 12.8 pouces | Rotatif"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 20''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED | Directionnels",
+        "SORTIES D’ÉCHAPPEMENT": "Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Réglage lombaire | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TABLEAU DE BORD": "Cuir",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Mémoire de position | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "byd-f3-1.5l-glx-i-1.webp",
+    "Nom": "BYD F3",
+    "Brand": "BYD",
+    "Model": "F3",
+    "Version": "1.5L GLX-I",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "107 CH",
+        "COUPLE": "145 nm 4800 tr/min",
+        "CYLINDRÉE": "1497 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4617 mm",
+        "LARGEUR": "1716 mm",
+        "HAUTEUR": "1480 mm",
+        "VOLUME DU COFFRE": "430 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "7.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | AUX",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Similicuir",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "PRISE 12V": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "byd-song-1.5t-dct-1.webp",
+    "Nom": "BYD SONG",
+    "Brand": "BYD",
+    "Model": "SONG",
+    "Version": "1.5T DCT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "143 CH",
+        "COUPLE": "240 nm 1600 tr/min",
+        "CYLINDRÉE": "1497 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4600 mm",
+        "LARGEUR": "1830 mm",
+        "HAUTEUR": "1700 mm",
+        "VOLUME DU COFFRE": "390 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.6 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "7.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED | Directionnels",
+        "SORTIES D’ÉCHAPPEMENT": "Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Wifi",
+        "ECRAN": "Tactile | 10.1 pouces",
+        "KIT RANGEMENT": "Poches aumônières | Porte-lunettes",
+        "SELLERIE": "Similicuir",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "CLIMATISATION": "Automatique | Ventilation arrière",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 5''",
+        "SYSTÈME DE DESCENTE EN CÔTE": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "PRISE 12V": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
