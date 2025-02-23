@@ -23116,3 +23116,4070 @@
     "Apple CarPlay": true,
     "Android Auto": true
 },
+{
+    "Image": "volkswagen-up-1.0-l-move-up-1.webp",
+    "Nom": "VOLKSWAGEN UP",
+    "Brand": "VOLKSWAGEN",
+    "Model": "UP",
+    "Version": "1.0 L MOVE UP",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "4",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "95 nm 3000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3600 mm",
+        "LARGEUR": "1645 mm",
+        "HAUTEUR": "1504 mm",
+        "VOLUME DU COFFRE": "251 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.8 L/100 km",
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Avant",
+        "JANTES": "14''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Composition Phone | 2 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "3 branches | Cuir | Multi-fonctions",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-polo-1.0-l-energy-1.webp",
+    "Nom": "VOLKSWAGEN POLO",
+    "Brand": "VOLKSWAGEN",
+    "Model": "POLO",
+    "Version": "1.0 L ENERGY",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "95 nm 3000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4053 mm",
+        "LARGEUR": "1751 mm",
+        "HAUTEUR": "1461 mm",
+        "VOLUME DU COFFRE": "351 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.9 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "14''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Autoradio d'origine | Composition Colour | 4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | 1 fente pour carte SD | iPod",
+        "ECRAN": "Tactile | 6.5 pouces",
+        "FINITION INTÉRIEURE": "Deep Black Nacré",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu | Basket",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-polo-1.0-l-ambition-1.webp",
+    "Nom": "VOLKSWAGEN POLO",
+    "Brand": "VOLKSWAGEN",
+    "Model": "POLO",
+    "Version": "1.0 L AMBITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "95 nm 3000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4053 mm",
+        "LARGEUR": "1751 mm",
+        "HAUTEUR": "1461 mm",
+        "VOLUME DU COFFRE": "351 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.9 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Autoradio d'origine | Composition Colour | 4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | 1 fente pour carte SD | iPod",
+        "ECRAN": "Tactile | 6.5 pouces",
+        "FINITION INTÉRIEURE": "Deep Black Nacré",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu | Basket",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-polo-1.0-l-r-line-1.webp",
+    "Nom": "VOLKSWAGEN POLO",
+    "Brand": "VOLKSWAGEN",
+    "Model": "POLO",
+    "Version": "1.0 L R-LINE",
+    "Generation": "1",
+    "Caractéristiques": null,
+    "Motorisation": null,
+    "Transmission": null,
+    "Dimensions": null,
+    "Performances": null,
+    "Consommation": null,
+    "Equipements de sécurité": null,
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": null,
+    "Equipements fonctionnels": null,
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-polo-1.0-l-tsi-drive-2.webp",
+    "Nom": "VOLKSWAGEN POLO",
+    "Brand": "VOLKSWAGEN",
+    "Model": "POLO",
+    "Version": "1.0 L TSI DRIVE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "175 nm 1600 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4074 mm",
+        "LARGEUR": "1751 mm",
+        "HAUTEUR": "1451 mm",
+        "VOLUME DU COFFRE": "351 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Composition Media | 4 haut-parleurs",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 6.5 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Contour chromé",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 15''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Deep Black Nacré",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "INSTRUMENTATION DIGITALE": "Digital Cockpit | 8 pouces",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-polo-1.0-l-tsi-life-2.webp",
+    "Nom": "VOLKSWAGEN POLO",
+    "Brand": "VOLKSWAGEN",
+    "Model": "POLO",
+    "Version": "1.0 L TSI LIFE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "175 nm 1600 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4074 mm",
+        "LARGEUR": "1751 mm",
+        "HAUTEUR": "1451 mm",
+        "VOLUME DU COFFRE": "351 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "Volumétrique | Anti-soulèvement",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Composition Media | 6 haut-parleurs",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 6.5 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Contour chromé",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Adaptatifs | LED | Matrix LED IQ.LIGHT"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Deep Black Nacré",
+        "KIT RANGEMENT": "Poches aumônières",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "10.25'' | Digital Cockpit Pro",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-polo-sedan-1.4-l-trendline-1.webp",
+    "Nom": "VOLKSWAGEN POLO SEDAN",
+    "Brand": "VOLKSWAGEN",
+    "Model": "POLO SEDAN",
+    "Version": "1.4 L TRENDLINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "1390 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "VOLUME DU COFFRE": "454 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.2 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "14''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | AUX | 1 fente pour carte SD",
+        "KIT FUMEURS": "",
+        "KIT SÉCURITÉ": "Triangle de présignalisation",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-polo-sedan-1.4-l-highline-1.webp",
+    "Nom": "VOLKSWAGEN POLO SEDAN",
+    "Brand": "VOLKSWAGEN",
+    "Model": "POLO SEDAN",
+    "Version": "1.4 L HIGHLINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "1390 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "VOLUME DU COFFRE": "454 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.2 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth | 1 fente pour carte SD | iPod",
+        "KIT FUMEURS": "",
+        "KIT SÉCURITÉ": "Triangle de présignalisation",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Multi-fonctions",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-golf-7-1.2-tsi-r-line-dsg-1.webp",
+    "Nom": "VOLKSWAGEN GOLF 7",
+    "Brand": "VOLKSWAGEN",
+    "Model": "GOLF 7",
+    "Version": "1.2 TSI R-LINE DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "175 nm 1550 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4260 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1450 mm",
+        "VOLUME DU COFFRE": "380 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "195 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Lave Phares | Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "KIT CARROSSERIE": "R-line",
+        "LAVE PHARES": "",
+        "PHARES": "Xénon | Directionnels | Bi-xénon",
+        "RADAR DE STATIONNEMENT": "Park Pilot | Arrière | Avant"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Composition Media | 8 haut-parleurs",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CIEL DE PAVILLON": "Noir",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | 1 fente pour carte SD",
+        "ECRAN": "Tactile",
+        "FINITION INTÉRIEURE": "Noir brillant | Chromée",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "SEUILS DE PORTES": "Chromés",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées | Athermiques",
+        "VOLANT": "3 branches | Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CAMÉRA DE RECUL": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "PALETTES AU VOLANT": "",
+        "PRÉPARATION POUR TÉLÉPHONE": "",
+        "PARKASSIST": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-golf-8-1.4-l-tsi-drive-1.webp",
+    "Nom": "VOLKSWAGEN GOLF 8",
+    "Brand": "VOLKSWAGEN",
+    "Model": "GOLF 8",
+    "Version": "1.4 L TSI DRIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1400 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4396 mm",
+        "LARGEUR": "1789 mm",
+        "HAUTEUR": "1491 mm",
+        "VOLUME DU COFFRE": "381 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "215 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km",
+        "EMISSIONS DE CO2": "118 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | Chargeur de téléphone sans fil | Mirrorlink",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "INSTRUMENTATION NUMÉRIQUE": "Digital Cockpit",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-golf-8-1.4-l-tsi-life-1.webp",
+    "Nom": "VOLKSWAGEN GOLF 8",
+    "Brand": "VOLKSWAGEN",
+    "Model": "GOLF 8",
+    "Version": "1.4 L TSI LIFE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1400 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4396 mm",
+        "LARGEUR": "1789 mm",
+        "HAUTEUR": "1491 mm",
+        "VOLUME DU COFFRE": "381 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "215 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km",
+        "EMISSIONS DE CO2": "118 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "AVERTISSEUR DE CHANGEMENT DE VOIE": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | Chargeur de téléphone sans fil | Mirrorlink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "10 couleurs",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire | Confort",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "PRISE 12V": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "INSTRUMENTATION NUMÉRIQUE": "Digital Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-golf-8-1.4-l-tsi-r-line-1.webp",
+    "Nom": "VOLKSWAGEN GOLF 8",
+    "Brand": "VOLKSWAGEN",
+    "Model": "GOLF 8",
+    "Version": "1.4 L TSI R-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1400 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4396 mm",
+        "LARGEUR": "1789 mm",
+        "HAUTEUR": "1491 mm",
+        "VOLUME DU COFFRE": "381 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "215 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km",
+        "EMISSIONS DE CO2": "118 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "Volumétrique",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "AVERTISSEUR DE CHANGEMENT DE VOIE": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Arrières | Clignotants dynamiques",
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "R-line",
+        "PHARES": "Full LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | Chargeur de téléphone sans fil | Mirrorlink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "30 Couleurs",
+        "PÉDALIERS": "Acier inoxydable brossé",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire | Avec Appuie-tête intégrés | Sport",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Progressive",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "PRISE 12V": "",
+        "INSTRUMENTATION NUMÉRIQUE": "Digital Cockpit Pro",
+        "SUSPENSION": "Amortissement piloté",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-passat-1.4-l-tsi-150-design-1.webp",
+    "Nom": "VOLKSWAGEN PASSAT",
+    "Brand": "VOLKSWAGEN",
+    "Model": "PASSAT",
+    "Version": "1.4 L TSI 150 DESIGN",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4775 mm",
+        "LARGEUR": "1832 mm",
+        "HAUTEUR": "1483 mm",
+        "VOLUME DU COFFRE": "586 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.4 s",
+        "VITESSE MAXI": "220 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km",
+        "EMISSIONS DE CO2": "115 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul | Park Pilot",
+        "ANTIBROUILLARDS": "LED",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "Tactile",
+        "KIT FUMEURS": "",
+        "KIT SÉCURITÉ": "Triangle de présignalisation",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "STORES PARE-SOLEIL": "Pour lunette arrière (électrique) | Pour vitres de portes arrières",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Climatronic | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "PRISE 12V": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-passat-1.4-l-tsi-150-r-line-dsg-1.webp",
+    "Nom": "VOLKSWAGEN PASSAT",
+    "Brand": "VOLKSWAGEN",
+    "Model": "PASSAT",
+    "Version": "1.4 L TSI 150 R-LINE DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4775 mm",
+        "LARGEUR": "1832 mm",
+        "HAUTEUR": "1483 mm",
+        "VOLUME DU COFFRE": "586 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.4 s",
+        "VITESSE MAXI": "220 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km",
+        "EMISSIONS DE CO2": "115 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BOULONS DE ROUES PROTÉGÉS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "KIT CARROSSERIE": "R-line",
+        "PHARES": "Full LED | Directionnels",
+        "RADAR DE STATIONNEMENT": "Park Pilot | Arrière | Avant"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Composition Media | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "Tactile",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "KIT FUMEURS": "",
+        "KIT SÉCURITÉ": "Triangle de présignalisation",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Cuir/Alcantara",
+        "SEUILS DE PORTES": "Acier inoxydable | Eclairés",
+        "SIÈGES": "Conducteur à réglage électrique | Chauffants | Réglage lombaire | Sport",
+        "STORES PARE-SOLEIL": "Pour lunette arrière (électrique) | Pour vitres de portes arrières",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Athermiques | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "",
+        "CAMÉRA DE RECUL": "",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Climatronic | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "PRÉPARATION POUR TÉLÉPHONE": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-tiguan-1.4-l-tsi-r-line-1.webp",
+    "Nom": "VOLKSWAGEN TIGUAN",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TIGUAN",
+    "Version": "1.4 L TSI R-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4486 mm",
+        "LARGEUR": "1839 mm",
+        "HAUTEUR": "1673 mm",
+        "VOLUME DU COFFRE": "615 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESC | ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CAPOT MOTEUR ACTIF": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Anodisées Argent",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "KIT CARROSSERIE": "R-line",
+        "PHARES": "Full LED | Directionnels",
+        "RADAR DE STATIONNEMENT": "Park Pilot | Arrière | Avant",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Composition Media | 8 haut-parleurs",
+        "CIEL DE PAVILLON": "Noir",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "8 pouces",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Cuir | Vienna",
+        "SEUILS DE PORTES": "Aluminium | Eclairés",
+        "SIÈGES": "Conducteur à réglage électrique | Chauffants | Réglage lombaire | Fonction mémoire | Sport",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique | En verre",
+        "VITRES": "Teintées | Athermiques | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "3 branches | Cuir | Multi-fonctions | Sport",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "",
+        "CAMÉRA DE RECUL": "",
+        "CLÉ INTELLIGENTE": "",
+        "COFFRE À BAGAGES": "Ouverture et fermeture électriques | Ouverture à distance",
+        "CLIMATISATION": "Climatronic | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "PALETTES AU VOLANT": "",
+        "PRÉPARATION POUR TÉLÉPHONE": "",
+        "PARKASSIST": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "Active Info Display",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-tiguan-1.4-l-tsi-drive-2.webp",
+    "Nom": "VOLKSWAGEN TIGUAN",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TIGUAN",
+    "Version": "1.4 L TSI DRIVE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4486 mm",
+        "LARGEUR": "1839 mm",
+        "HAUTEUR": "1673 mm",
+        "VOLUME DU COFFRE": "615 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "CONTRÔLE DU ROULIS DE LA REMORQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Composition Colour | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | USB-C | Bluetooth",
+        "ECRAN": "Tactile | 6.5 pouces",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-tiguan-1.4-l-tsi-life-2.webp",
+    "Nom": "VOLKSWAGEN TIGUAN",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TIGUAN",
+    "Version": "1.4 L TSI LIFE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4486 mm",
+        "LARGEUR": "1839 mm",
+        "HAUTEUR": "1673 mm",
+        "VOLUME DU COFFRE": "615 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "CONTRÔLE DU ROULIS DE LA REMORQUE": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Parkassist",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Anodisées Argent",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Composition Media | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | USB-C | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire | Confort",
+        "TAPIS DE SOL": "",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "Digital Cockpit",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉGULATEUR DE VITESSE": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-tiguan-1.4-l-tsi-elegance-2.webp",
+    "Nom": "VOLKSWAGEN TIGUAN",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TIGUAN",
+    "Version": "1.4 L TSI ELEGANCE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4486 mm",
+        "LARGEUR": "1839 mm",
+        "HAUTEUR": "1673 mm",
+        "VOLUME DU COFFRE": "615 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALARME ANTIVOL": "Volumétrique",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "CONTRÔLE DU ROULIS DE LA REMORQUE": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Parkassist",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Anodisées Argent",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Adaptatifs | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Composition Media | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | USB-C | Apple Carplay | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "30 Couleurs",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire | Confort",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "Digital Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-tiguan-1.4-l-tsi-r-line-2.webp",
+    "Nom": "VOLKSWAGEN TIGUAN",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TIGUAN",
+    "Version": "1.4 L TSI R-LINE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4486 mm",
+        "LARGEUR": "1839 mm",
+        "HAUTEUR": "1673 mm",
+        "VOLUME DU COFFRE": "615 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALARME ANTIVOL": "Volumétrique",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "CONTRÔLE DU ROULIS DE LA REMORQUE": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Parkassist",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Anodisées Argent",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 19''",
+        "KIT CARROSSERIE": "R-line",
+        "PHARES": "Adaptatifs | Matrix LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Composition Media | 8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Apple Carplay | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "30 Couleurs",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir | Vienna",
+        "SIÈGES": "Électriques | Réglage lombaire | Fonction mémoire | Confort",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "Digital Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-tiguan-1.4-l-tsi-r-line-3.webp",
+    "Nom": "VOLKSWAGEN TIGUAN",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TIGUAN",
+    "Version": "1.4 L TSI R-LINE",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4539 mm",
+        "LARGEUR": "1842 mm",
+        "HAUTEUR": "1658 mm",
+        "VOLUME DU COFFRE": "652 L",
+        "VOLUME DU COFFRE MAXIMAL": "1650 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Centraux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Composition Media | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 15\""
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "KIT CARROSSERIE": "R-line",
+        "PHARES": "Full LED | Directionnels"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "10 couleurs",
+        "PÉDALIERS": "Acier inoxydable brossé",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir/Tissu",
+        "SIÈGES": "Électriques | Chauffants | Massants | Ventilés | Réglage lombaire | Fonction mémoire | Confort",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique | Avant et arrière feuilletées",
+        "VOLANT": "Cuir | Chauffant | Multi-fonctions | Sport | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture à distance",
+        "CLIMATISATION": "Automatique | 3 zones | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec capuchons noirs | Éclairage d'accueil à LED",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "Digital Cockpit Pro",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-tiguan-1.4-l-tsi-life-3.webp",
+    "Nom": "VOLKSWAGEN TIGUAN",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TIGUAN",
+    "Version": "1.4 L TSI LIFE",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1395 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4539 mm",
+        "LARGEUR": "1842 mm",
+        "HAUTEUR": "1658 mm",
+        "VOLUME DU COFFRE": "652 L",
+        "VOLUME DU COFFRE MAXIMAL": "1650 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Centraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Composition Media | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 12.9\""
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Noir Mat",
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Directionnels | LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "10 couleurs",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire | Confort",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture à distance",
+        "CLIMATISATION": "Automatique | 3 zones | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Éclairage d'accueil à LED",
+        "INSTRUMENTATION DIGITALE": "Digital Cockpit Pro",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-touareg-3.0-l-v6-tdi-4motion-1.webp",
+    "Nom": "VOLKSWAGEN TOUAREG",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TOUAREG",
+    "Version": "3.0 L V6 TDI 4MOTION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "6",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "16 CV",
+        "PUISSANCE (CH.DIN)": "258 CH",
+        "COUPLE": "600 nm 2250 tr/min",
+        "CYLINDRÉE": "2967 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4878 mm",
+        "LARGEUR": "1984 mm",
+        "HAUTEUR": "1717 mm",
+        "VOLUME DU COFFRE": "810 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "6.1 s",
+        "VITESSE MAXI": "235 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.2 L/100 km",
+        "CONSOMMATION MIXTE": "6.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "Anodisées Argent",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "LAVE PHARES": "",
+        "PHARES": "Full LED | Directionnels",
+        "RADAR DE STATIONNEMENT": "Arrière | Avant"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Chargeur 6 CD | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | iPod",
+        "FINITION INTÉRIEURE": "Bois | Frêne",
+        "KIT FUMEURS": "",
+        "KIT SÉCURITÉ": "",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Cuir | Vienna",
+        "SEUILS DE PORTES": "Acier inoxydable",
+        "SIÈGES": "Électriques | 14 directions | Chauffants | Réglage lombaire | Fonction mémoire | Confort",
+        "STORES PARE-SOLEIL": "Pour lunette arrière (électrique) | Pour vitres de portes arrières",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Athermiques",
+        "VOLANT": "Chauffant | Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CAMÉRA DE RECUL": "",
+        "CLÉ INTELLIGENTE": "",
+        "COFFRE À BAGAGES": "Ouverture et fermeture électriques",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "MODES DE CONDUITE": "Normal | Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "PALETTES AU VOLANT": "",
+        "PRÉPARATION POUR TÉLÉPHONE": "",
+        "PARKASSIST": "",
+        "SERVOTRONIC": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "Active Info Display",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-amarok-2l-highline-4x4-double-cabine-1.webp",
+    "Nom": "Volkswagen Amarok",
+    "Brand": "Volkswagen",
+    "Model": "Amarok",
+    "Version": "2L Highline 4x4 Double Cabine",
+    "Generation": "1",
+    "Caractéristiques": {},
+    "Motorisation": {
+        "Nombre de cylindres": "4",
+        "Energie": "Diesel",
+        "Puissance fiscale": "7 CV",
+        "Puissance (ch.din)": "180 CH",
+        "Couple": "400 nm 1500 tr/min",
+        "Cylindrée": "1968 CM³"
+    },
+    "Transmission": {
+        "Boîte": "Manuelle",
+        "Nombre de rapports": "6",
+        "Transmission": "Intégrale"
+    },
+    "Dimensions": {
+        "Longueur": "5254 mm",
+        "Largeur": "1954 mm",
+        "Hauteur": "1834 mm",
+        "Charge utile": "780 KG",
+        "Surface de chargement": "2.52 m²"
+    },
+    "Performances": {
+        "0-100 Km/h": "11 s",
+        "Vitesse maxi": "183 KM/H"
+    },
+    "Consommation": {
+        "Consommation urbaine": "9.8 L/100 km",
+        "Consommation extra-urbaine": "6.9 L/100 km",
+        "Consommation mixte": "8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "Airbags": "Frontaux",
+        "Alarme antivol": "",
+        "Anti-patinage": "ESC | ASR",
+        "Anti-démarrage électronique": "",
+        "Fixations ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "Aide au stationnement": "Radar arrière | Radar avant | Park Pilot",
+        "Antibrouillards": "",
+        "Calandre": "Chromée",
+        "Boulons de roues protégés": "",
+        "Eléments extérieurs couleur carrosserie": "Pare-chocs | Rétroviseurs",
+        "Feux à LED": "Feux de jour",
+        "Jantes": "En aluminium | 18''",
+        "Peinture": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "Accoudoirs": "Avant",
+        "Autoradio": "Composition Media | 6 haut-parleurs",
+        "Connectivité": "USB | AUX | Bluetooth | Commande vocale",
+        "Ecran": "Tactile | 6.5 pouces",
+        "Finition intérieure": "Argent satiné",
+        "Kit fumeurs": "",
+        "Kit rangement": "",
+        "Pommeau de levier de vitesse": "Cuir",
+        "Sellerie": "Tissu",
+        "Tapis de sol": "",
+        "Vitres": "Lunette et vitres arrières sur-teintées",
+        "Volant": "Cuir | 3 branches | Multi-fonctions",
+        "3 appuis têtes arrières": ""
+    },
+    "Equipements fonctionnels": {
+        "Aide au démarrage en côte": "",
+        "Climatisation": "Automatique",
+        "Direction assistée": "",
+        "Fermeture centralisée": "À distance",
+        "Ordinateur de bord": "",
+        "Rétroviseurs extérieurs": "Électriques | Dégivrants",
+        "Régulateur de vitesse": "",
+        "Sièges avant réglables en hauteur": "Conducteur et passager",
+        "Alimentation électrique": "12 V",
+        "Version pays chauds": "",
+        "Vitres électriques": "Avant/Arrière",
+        "Volant réglable": "En hauteur et en profondeur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-amarok-3.0-l-v6-tdi-extreme-4x4-bva-double-cabine-1.webp",
+    "Nom": "Volkswagen Amarok",
+    "Brand": "Volkswagen",
+    "Model": "Amarok",
+    "Version": "3.0 L V6 TDI Extreme 4x4 BVA Double Cabine",
+    "Generation": "1",
+    "Caractéristiques": {},
+    "Motorisation": {
+        "Nombre de cylindres": "6",
+        "Energie": "Diesel",
+        "Puissance fiscale": "10 CV",
+        "Puissance (ch.din)": "224 CH",
+        "Couple": "550 nm 1400 tr/min",
+        "Cylindrée": "2967 CM³"
+    },
+    "Transmission": {
+        "Boîte": "Automatique",
+        "Nombre de rapports": "8",
+        "Transmission": "Intégrale",
+        "Différentiel autobloquant": "Arrière"
+    },
+    "Dimensions": {
+        "Longueur": "5254 mm",
+        "Largeur": "1954 mm",
+        "Hauteur": "1834 mm",
+        "Charge utile": "720 KG",
+        "Surface de chargement": "2.52 m²"
+    },
+    "Performances": {
+        "0-100 Km/h": "8 s",
+        "Vitesse maxi": "193 KM/H"
+    },
+    "Consommation": {
+        "Consommation urbaine": "10.6 L/100 km",
+        "Consommation extra-urbaine": "7.9 L/100 km",
+        "Consommation mixte": "8.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "Airbags": "Frontaux | Latéraux | Rideaux",
+        "Alarme antivol": "",
+        "Anti-patinage": "ESC | ASR",
+        "Anti-démarrage électronique": "",
+        "Fixations ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "Aide au stationnement": "Radar arrière | Radar avant | Caméra de recul | Park Pilot",
+        "Antibrouillards": "",
+        "Calandre": "Chromée",
+        "Boulons de roues protégés": "",
+        "Eléments extérieurs couleur carrosserie": "Pare-chocs | Rétroviseurs",
+        "Feux à LED": "Feux de jour",
+        "Jantes": "En aluminium | 20''",
+        "Peinture": "Métallisée",
+        "Phares": "Bi-xénon"
+    },
+    "Equipements intérieurs": {
+        "Accoudoirs": "Avant",
+        "Autoradio": "6 haut-parleurs | Discover Media",
+        "Connectivité": "USB | AUX | Bluetooth | Commande vocale",
+        "Ecran": "Tactile | 6.5 pouces",
+        "Finition intérieure": "Argent satiné",
+        "Kit fumeurs": "",
+        "Kit rangement": "",
+        "Pommeau de levier de vitesse": "Cuir",
+        "Sellerie": "Cuir | Nappa",
+        "Sièges": "Électriques | 14 directions | Réglage lombaire",
+        "Tapis de sol": "",
+        "Vitres": "Lunette et vitres arrières sur-teintées",
+        "Volant": "Cuir | 3 branches | Multi-fonctions | Avec palettes",
+        "3 appuis têtes arrières": ""
+    },
+    "Equipements fonctionnels": {
+        "Aide au démarrage en côte": "",
+        "Allumage automatique des feux": "",
+        "Climatisation": "Automatique",
+        "Détecteur de pluie": "",
+        "Direction assistée": "",
+        "Fermeture centralisée": "À distance",
+        "Ordinateur de bord": "",
+        "Prise 12V": "",
+        "Sièges avant réglables en hauteur": "Conducteur et passager",
+        "Rétroviseurs extérieurs": "Électriques | Rabattables | Dégivrants",
+        "Régulateur de vitesse": "",
+        "Version pays chauds": "",
+        "Volant réglable": "En hauteur et en profondeur",
+        "Vitres électriques": "Avant/Arrière"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-amarok-2l-highline-4x4-bva-double-cabine-1.webp",
+    "Nom": "Volkswagen Amarok",
+    "Brand": "Volkswagen",
+    "Model": "Amarok",
+    "Version": "2L Highline 4x4 BVA Double Cabine",
+    "Generation": "1",
+    "Caractéristiques": {},
+    "Motorisation": {
+        "Nombre de cylindres": "4",
+        "Energie": "Diesel",
+        "Puissance fiscale": "7 CV",
+        "Puissance (ch.din)": "180 CH",
+        "Couple": "420 nm 1750 tr/min",
+        "Cylindrée": "1968 CM³"
+    },
+    "Transmission": {
+        "Boîte": "Automatique",
+        "Nombre de rapports": "8",
+        "Transmission": "Intégrale"
+    },
+    "Dimensions": {
+        "Longueur": "5254 mm",
+        "Largeur": "1954 mm",
+        "Hauteur": "1834 mm",
+        "Charge utile": "720 KG",
+        "Surface de chargement": "2.52 m²"
+    },
+    "Performances": {
+        "0-100 Km/h": "11.3 s",
+        "Vitesse maxi": "179 KM/H"
+    },
+    "Consommation": {
+        "Consommation urbaine": "9.9 L/100 km",
+        "Consommation extra-urbaine": "7.1 L/100 km",
+        "Consommation mixte": "8.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "Airbags": "Frontaux",
+        "Alarme antivol": "",
+        "Anti-patinage": "ESC | ASR",
+        "Anti-démarrage électronique": "",
+        "Fixations ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "Aide au stationnement": "Radar arrière | Radar avant | Park Pilot",
+        "Antibrouillards": "",
+        "Calandre": "Chromée",
+        "Boulons de roues protégés": "",
+        "Eléments extérieurs couleur carrosserie": "Pare-chocs | Rétroviseurs",
+        "Feux à LED": "Feux de jour",
+        "Jantes": "En aluminium | 18''",
+        "Peinture": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "Accoudoirs": "Avant",
+        "Autoradio": "Composition Media | 6 haut-parleurs",
+        "Connectivité": "USB | AUX | Bluetooth | Commande vocale",
+        "Ecran": "Tactile | 6.5 pouces",
+        "Finition intérieure": "Argent satiné",
+        "Kit fumeurs": "",
+        "Kit rangement": "",
+        "Pommeau de levier de vitesse": "Cuir",
+        "Sellerie": "Tissu",
+        "Tapis de sol": "",
+        "Vitres": "Lunette et vitres arrières sur-teintées",
+        "Volant": "Cuir | 3 branches | Multi-fonctions",
+        "3 appuis têtes arrières": ""
+    },
+    "Equipements fonctionnels": {
+        "Aide au démarrage en côte": "",
+        "Climatisation": "Automatique",
+        "Direction assistée": "",
+        "Fermeture centralisée": "À distance",
+        "Ordinateur de bord": "",
+        "Rétroviseurs extérieurs": "Électriques | Dégivrants",
+        "Régulateur de vitesse": "",
+        "Sièges avant réglables en hauteur": "Conducteur et passager",
+        "Alimentation électrique": "12 V",
+        "Version pays chauds": "",
+        "Vitres électriques": "Avant/Arrière",
+        "Volant réglable": "En hauteur et en profondeur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-amarok-2l-highline-plus-4x4-bva-double-cabine-1.webp",
+    "Nom": "Volkswagen Amarok",
+    "Brand": "Volkswagen",
+    "Model": "Amarok",
+    "Version": "2L Highline Plus 4x4 BVA Double Cabine",
+    "Generation": "1",
+    "Caractéristiques": {},
+    "Motorisation": {
+        "Nombre de cylindres": "4",
+        "Energie": "Diesel",
+        "Puissance fiscale": "7 CV",
+        "Puissance (ch.din)": "180 CH",
+        "Couple": "420 nm 1750 tr/min",
+        "Cylindrée": "1968 CM³"
+    },
+    "Transmission": {
+        "Boîte": "Automatique",
+        "Nombre de rapports": "8",
+        "Transmission": "Intégrale"
+    },
+    "Dimensions": {
+        "Longueur": "5254 mm",
+        "Largeur": "1954 mm",
+        "Hauteur": "1834 mm",
+        "Charge utile": "720 KG",
+        "Surface de chargement": "2.52 m²"
+    },
+    "Performances": {
+        "0-100 Km/h": "11.3 s",
+        "Vitesse maxi": "179 KM/H"
+    },
+    "Consommation": {
+        "Consommation urbaine": "9.9 L/100 km",
+        "Consommation extra-urbaine": "7.1 L/100 km",
+        "Consommation mixte": "8.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "Airbags": "Frontaux",
+        "Alarme antivol": "",
+        "Anti-patinage": "ESC | ● | ASR",
+        "Anti-démarrage électronique": "",
+        "Fixations ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "Aide au stationnement": "Radar arrière | Radar avant | Caméra de recul | Park Pilot",
+        "Antibrouillards": "",
+        "Calandre": "Chromée",
+        "Boulons de roues protégés": "",
+        "Eléments extérieurs couleur carrosserie": "Pare-chocs | Rétroviseurs",
+        "Feux à LED": "Feux de jour",
+        "Jantes": "En aluminium | 19''",
+        "Peinture": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "Accoudoirs": "Avant",
+        "Autoradio": "Composition Media | 6 haut-parleurs",
+        "Connectivité": "USB | AUX | Bluetooth | Commande vocale",
+        "Ecran": "Tactile | 6.5 pouces",
+        "Finition intérieure": "Argent satiné",
+        "Kit fumeurs": "",
+        "Kit rangement": "",
+        "Pommeau de levier de vitesse": "Cuir",
+        "Sellerie": "Cuir | Vienna",
+        "Tapis de sol": "",
+        "Vitres": "Lunette et vitres arrières sur-teintées",
+        "Volant": "Cuir | 3 branches | Multi-fonctions",
+        "3 appuis têtes arrières": ""
+    },
+    "Equipements fonctionnels": {
+        "Aide au démarrage en côte": "",
+        "Allumage automatique des feux": "",
+        "Climatisation": "Automatique",
+        "Détecteur de pluie": "",
+        "Direction assistée": "",
+        "Fermeture centralisée": "À distance",
+        "Ordinateur de bord": "",
+        "Prise 12V": "",
+        "Rétroviseurs extérieurs": "Électriques | Rabattables | Dégivrants",
+        "Régulateur de vitesse": "",
+        "Sièges avant réglables en hauteur": "Conducteur et passager",
+        "Version pays chauds": "",
+        "Vitres électriques": "Avant/Arrière",
+        "Volant réglable": "En hauteur et en profondeur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-amarok-2.0-l-tdi-170-ch-4x4-life-bva-2.webp",
+    "Nom": "VOLKSWAGEN AMAROK",
+    "Brand": "VOLKSWAGEN",
+    "Model": "AMAROK",
+    "Version": "2.0 L TDI 170 CH 4X4 LIFE BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "170 CH",
+        "COUPLE": "405 nm 1750 tr/min",
+        "CYLINDRÉE": "1996 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5350 mm",
+        "LARGEUR": "1910 mm",
+        "HAUTEUR": "1884 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.6 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.7 L/100 km",
+        "CONSOMMATION MIXTE": "7.7 L/100 km",
+        "EMISSIONS DE CO2": "203 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux | Centraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | USB-C | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 10.1 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "BOULONS DE ROUES PROTÉGÉS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17''",
+        "MARCHEPIEDS LATÉRAUX": "",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées | Pare-brise en verre feuilleté",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V",
+        "BOULE D'ATTELAGE": "",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "INSTRUMENTATION DIGITALE": "Digital Cockpit | 8 pouces",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-amarok-2.0-l-tdi-210-ch-4x4-aventura-bva-2.webp",
+    "Nom": "VOLKSWAGEN AMAROK",
+    "Brand": "VOLKSWAGEN",
+    "Model": "AMAROK",
+    "Version": "2.0 L TDI 210 CH 4X4 AVENTURA BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "210 CH",
+        "COUPLE": "500 nm 1750 tr/min",
+        "CYLINDRÉE": "1996 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "10",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5350 mm",
+        "LARGEUR": "1910 mm",
+        "HAUTEUR": "1884 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.5 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.7 L/100 km",
+        "CONSOMMATION MIXTE": "7.5 L/100 km",
+        "EMISSIONS DE CO2": "195 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux | Centraux",
+        "ALARME ANTIVOL": "Volumétrique | Anti-soulèvement",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs | Harman/Kardon | Subwoofer",
+        "CONNECTIVITÉ": "USB | USB-C | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12 pouces",
+        "NAVIGATION": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Argent",
+        "BOULONS DE ROUES PROTÉGÉS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 20'' | Bi-ton",
+        "MARCHEPIEDS LATÉRAUX": "Chromés",
+        "PHARES": "Matrix LED IQ.LIGHT",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques | 10 directions | Chauffants",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "Velours",
+        "TABLEAU DE BORD": "Similicuir",
+        "VITRES": "Lunette et vitres arrières sur-teintées | Pare-brise en verre feuilleté",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "230 V",
+        "BOULE D'ATTELAGE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Chromés | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "INSTRUMENTATION DIGITALE": "12.3'' | Digital Cockpit",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-caddy-cargo-2.0-l-tdi-business-1.webp",
+    "Nom": "VOLKSWAGEN CADDY CARGO",
+    "Brand": "VOLKSWAGEN",
+    "Model": "CADDY CARGO",
+    "Version": "2.0 L TDI BUSINESS",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes vitrées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "300 nm 1500 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4500 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1857 mm",
+        "CHARGE UTILE": "770 KG",
+        "VOLUME UTILE": "3.1 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.2 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs | Composition Audio",
+        "CONNECTIVITÉ": "USB-C | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 6.5 pouces"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16'' | Enjoliveurs pleins"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Climatic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-crafter-11.3-m3-l3h3-1.webp",
+    "Nom": "VOLKSWAGEN CRAFTER",
+    "Brand": "VOLKSWAGEN",
+    "Model": "CRAFTER",
+    "Version": "11.3 M3 L3H3",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "300 nm 1500 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5986 mm",
+        "LARGEUR": "1990 mm",
+        "HAUTEUR": "2710 mm",
+        "CHARGE UTILE": "1370 KG",
+        "VOLUME UTILE": "11.3 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "147 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "10.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.8 L/100 km",
+        "CONSOMMATION MIXTE": "8.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "2 haut-parleurs | Composition Audio",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "ECRAN": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Athermiques",
+        "VOLANT": "3 branches"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Climatic",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "PRISE 12V": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-crafter-14.4-m3-l4h3-1.webp",
+    "Nom": "VOLKSWAGEN CRAFTER",
+    "Brand": "VOLKSWAGEN",
+    "Model": "CRAFTER",
+    "Version": "14.4 M3 L4H3",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "300 nm 1500 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5986 mm",
+        "LARGEUR": "1990 mm",
+        "HAUTEUR": "2710 mm",
+        "CHARGE UTILE": "1260 KG",
+        "VOLUME UTILE": "14.4 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "147 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "10.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.8 L/100 km",
+        "CONSOMMATION MIXTE": "8.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "2 haut-parleurs | Composition Audio",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "CONNECTIVITÉ": "Bluetooth",
+        "ECRAN": "",
+        "KIT RANGEMENT": "Box sous banquette passager",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "3 branches"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Climatic",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Affichage multifonctions plus",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VERSION PAYS CHAUDS": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-crafter-16.4-m3-l5h3-1.webp",
+    "Nom": "VOLKSWAGEN CRAFTER",
+    "Brand": "VOLKSWAGEN",
+    "Model": "CRAFTER",
+    "Version": "16.4 M3 L5H3",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "300 nm 1500 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5986 mm",
+        "LARGEUR": "1990 mm",
+        "HAUTEUR": "2710 mm",
+        "CHARGE UTILE": "1200 KG",
+        "VOLUME UTILE": "16.4 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "147 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "10.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.8 L/100 km",
+        "CONSOMMATION MIXTE": "8.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "2 haut-parleurs | Composition Audio",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "CONNECTIVITÉ": "Bluetooth",
+        "ECRAN": "",
+        "KIT RANGEMENT": "Box sous banquette passager",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "3 branches"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Climatic",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Affichage multifonctions plus",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VERSION PAYS CHAUDS": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-transporter-pickup-6.1-2.0-l-tdi-1.webp",
+    "Nom": "TRANSPORTER PICKUP 6.1",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TRANSPORTER PICKUP 6.1",
+    "Version": "2.0 L TDI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "6",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "250 nm 1250 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5500 mm",
+        "LARGEUR": "1994 mm",
+        "HAUTEUR": "1960 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "164 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "2 haut-parleurs | Composition Audio",
+        "CONNECTIVITÉ": "Bluetooth",
+        "ECRAN": "",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-caddy-tdi-prestige-1.webp",
+    "Nom": "VOLKSWAGEN CADDY",
+    "Brand": "VOLKSWAGEN",
+    "Model": "CADDY",
+    "Version": "TDI PRESTIGE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes vitrées | 1 girafon"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "102 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4406 mm",
+        "LARGEUR": "1794 mm",
+        "HAUTEUR": "1822 mm",
+        "CHARGE UTILE": "742 KG",
+        "VOLUME UTILE": "3.2 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.9 s",
+        "VITESSE MAXI": "168 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "4.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Composition Colour | 2 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 5 pouces",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches | Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SERVOTRONIC": "",
+        "PRISE 12V": "",
+        "VERSION PAYS CHAUDS": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-caddy-maxi-2-l-tdi-1.webp",
+    "Nom": "VOLKSWAGEN CADDY",
+    "Brand": "VOLKSWAGEN",
+    "Model": "CADDY",
+    "Version": "MAXI 2 L TDI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes vitrées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "VOLUME UTILE": "4.2 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Climatic",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "PRISE 12V": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-caddy-2.0-l-tdi-edition-limitée-1.webp",
+    "Nom": "VOLKSWAGEN CADDY",
+    "Brand": "VOLKSWAGEN",
+    "Model": "CADDY",
+    "Version": "2.0 L TDI EDITION LIMITÉE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes vitrées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4406 mm",
+        "LARGEUR": "1794 mm",
+        "HAUTEUR": "1822 mm",
+        "CHARGE UTILE": "742 KG",
+        "VOLUME UTILE": "3.2 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.2 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "4.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESC | ASR",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "2 haut-parleurs | Composition Audio",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches | Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SERVOTRONIC": "",
+        "PRISE 12V": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VERSION PAYS CHAUDS": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-multivan-6.1-2.0-l-tdi-4-motion-dsg-1.webp",
+    "Nom": "MULTIVAN 6.1",
+    "Brand": "VOLKSWAGEN",
+    "Model": "MULTIVAN 6.1",
+    "Version": "2.0 L TDI 4 MOTION DSG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5 | 2 portes latérales coulissantes"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "340 nm 1500 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4904 mm",
+        "LARGEUR": "1904 mm",
+        "HAUTEUR": "1950 mm",
+        "VOLUME DU COFFRE": "720 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.2 s",
+        "VITESSE MAXI": "183 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.5 L/100 km",
+        "CONSOMMATION MIXTE": "7.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "Volumétrique",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Discover Media",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Arrière",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Cuir | Nappa",
+        "SIÈGES": "Chauffants | Réglage lombaire",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "Velours",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Cache Bagages",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION DIGITALE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-caddy-combi-1.6-l-mpi-confort-1.webp",
+    "Nom": "VOLKSWAGEN CADDY COMBI",
+    "Brand": "VOLKSWAGEN",
+    "Model": "CADDY COMBI",
+    "Version": "1.6 L MPI CONFORT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "152 nm 3850 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4500 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1834 mm",
+        "VOLUME DU COFFRE": "1213 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.5 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.9 L/100 km",
+        "CONSOMMATION MIXTE": "7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs | Composition Audio",
+        "CONNECTIVITÉ": "USB-C | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 6.5 pouces"
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Lunette et vitres arrières sur-teintées | Athermiques",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-caddy-combi-2.0-l-tdi-1.webp",
+    "Nom": "VOLKSWAGEN CADDY COMBI",
+    "Brand": "VOLKSWAGEN",
+    "Model": "CADDY COMBI",
+    "Version": "2.0 L TDI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "300 nm 1500 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4500 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1834 mm",
+        "VOLUME DU COFFRE": "1213 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.2 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESC | ● | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16'' | Enjoliveurs pleins"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "2 haut-parleurs | Composition Audio",
+        "CONNECTIVITÉ": "USB-C | Bluetooth",
+        "ECRAN": "Tactile | 6.5 pouces",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Climatic",
+        "DIRECTION ASSISTÉE": "Servotronic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "PRISE 12V": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VERSION PAYS CHAUDS": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-transporter-combi-6.1-2l-tdi-1.webp",
+    "Nom": "TRANSPORTER COMBI 6.1",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TRANSPORTER COMBI 6.1",
+    "Version": "2L TDI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "9",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes vitrées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4904 mm",
+        "LARGEUR": "1904 mm",
+        "HAUTEUR": "1990 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "183 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.1 L/100 km",
+        "CONSOMMATION MIXTE": "6.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Composition Colour | 6 haut-parleurs",
+        "CONNECTIVITÉ": "2 USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 6.5 pouces"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée"
+    },
+    "Equipements intérieurs": {
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Climatic",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-transporter-fourgon-6.1-2l-tdi-1.webp",
+    "Nom": "TRANSPORTER FOURGON 6.1",
+    "Brand": "VOLKSWAGEN",
+    "Model": "TRANSPORTER FOURGON 6.1",
+    "Version": "2L TDI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "250 nm 1500 tr/min",
+        "CYLINDRÉE": "1968 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4904 mm",
+        "LARGEUR": "1904 mm",
+        "HAUTEUR": "1990 mm",
+        "CHARGE UTILE": "1030 KG",
+        "VOLUME UTILE": "5.8 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "182 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.9 L/100 km",
+        "CONSOMMATION MIXTE": "6.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Composition Colour | 6 haut-parleurs",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "CONNECTIVITÉ": "2 USB | Bluetooth",
+        "ECRAN": "Tactile | 6.5 pouces",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Climatic",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "volkswagen-t-cross-1.0-l-confortline-1.webp",
+    "Nom": "VOLKSWAGEN T-CROSS",
+    "Brand": "VOLKSWAGEN",
+    "Model": "T-CROSS",
+    "Version": "1.0 L CONFORTLINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "178 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4221 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1612 mm",
+        "VOLUME DU COFFRE": "385 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "189 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Arrières",
+        "JANTES": "16''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Athermiques",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Affichage multifonctions plus",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-t-cross-1.0-l-highline-bva-1.webp",
+    "Nom": "VOLKSWAGEN T-CROSS",
+    "Brand": "VOLKSWAGEN",
+    "Model": "T-CROSS",
+    "Version": "1.0 L HIGHLINE BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "178 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4221 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1612 mm",
+        "VOLUME DU COFFRE": "385 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "189 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "Alu satiné",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 16''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Affichage multifonctions plus",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-t-cross-1.0-l-topline-bva-1.webp",
+    "Nom": "VOLKSWAGEN T-CROSS",
+    "Brand": "VOLKSWAGEN",
+    "Model": "T-CROSS",
+    "Version": "1.0 L TOPLINE BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "178 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4221 mm",
+        "LARGEUR": "1760 mm",
+        "HAUTEUR": "1612 mm",
+        "VOLUME DU COFFRE": "385 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "189 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Alu satiné",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT RANGEMENT": "Poches aumônières",
+        "SELLERIE": "Similicuir",
+        "SIÈGES": "Ventilés",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Affichage multifonctions plus",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "INSTRUMENTATION DIGITALE": "Digital Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-virtus-1.0-l-tsi-confortline-1.webp",
+    "Nom": "VOLKSWAGEN VIRTUS",
+    "Brand": "VOLKSWAGEN",
+    "Model": "VIRTUS",
+    "Version": "1.0 L TSI CONFORTLINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "178 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4561 mm",
+        "LARGEUR": "1752 mm",
+        "HAUTEUR": "1507 mm",
+        "VOLUME DU COFFRE": "521 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.7 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Athermiques",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Affichage multifonctions plus",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-virtus-1.0-l-tsi-highline-bva-1.webp",
+    "Nom": "VOLKSWAGEN VIRTUS",
+    "Brand": "VOLKSWAGEN",
+    "Model": "VIRTUS",
+    "Version": "1.0 L TSI HIGHLINE BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "178 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4561 mm",
+        "LARGEUR": "1752 mm",
+        "HAUTEUR": "1507 mm",
+        "VOLUME DU COFFRE": "521 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.7 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Affichage multifonctions plus",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "volkswagen-virtus-1.0-l-tsi-topline-bva-1.webp",
+    "Nom": "VOLKSWAGEN VIRTUS",
+    "Brand": "VOLKSWAGEN",
+    "Model": "VIRTUS",
+    "Version": "1.0 L TSI TOPLINE BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "178 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4561 mm",
+        "LARGEUR": "1752 mm",
+        "HAUTEUR": "1507 mm",
+        "VOLUME DU COFFRE": "521 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir",
+        "SIÈGES": "Ventilés",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Affichage multifonctions plus",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "INSTRUMENTATION DIGITALE": "Digital Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
