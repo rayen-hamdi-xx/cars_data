@@ -360,7 +360,6 @@
     "Apple CarPlay": false,
     "Android Auto": false
 },
-
 {
     "Image": "chery-arrizo-3-1.5-l-1.webp",
     "Nom": "CHERY ARRIZO 3",
@@ -5654,6 +5653,278 @@
     "Android Auto": false
 },
 {
+    "Image": "skoda-fabia-1.0-l-mpi-essence-2.webp",
+    "Nom": "SKODA FABIA",
+    "Brand": "SKODA",
+    "Model": "FABIA",
+    "Version": "1.0 L MPI ESSENCE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "80 CH",
+        "COUPLE": "93 nm 3700 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4108 mm",
+        "LARGEUR": "1780 mm",
+        "HAUTEUR": "1482 mm",
+        "VOLUME DU COFFRE": "380 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.5 s",
+        "VITESSE MAXI": "178 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.1 L/100 km",
+        "EMISSIONS DE CO2": "116 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "SWING | 4 haut-parleurs",
+        "CONNECTIVITÉ": "2 USB-C | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 6.5 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "14''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Athermiques",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-fabia-1.0-l-mpi-selection-2.webp",
+    "Nom": "SKODA FABIA",
+    "Brand": "SKODA",
+    "Model": "FABIA",
+    "Version": "1.0 L MPI SELECTION",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "80 CH",
+        "COUPLE": "93 nm 3700 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4108 mm",
+        "LARGEUR": "1780 mm",
+        "HAUTEUR": "1482 mm",
+        "VOLUME DU COFFRE": "380 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.5 s",
+        "VITESSE MAXI": "178 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.1 L/100 km",
+        "EMISSIONS DE CO2": "116 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "SWING | 4 haut-parleurs",
+        "CONNECTIVITÉ": "2 USB-C | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 6.5 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 15''",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "skoda-fabia-1.0-l-mpi-monte-carlo-2.webp",
+    "Nom": "SKODA FABIA",
+    "Brand": "SKODA",
+    "Model": "FABIA",
+    "Version": "1.0 L MPI MONTE CARLO",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "80 CH",
+        "COUPLE": "93 nm 3700 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4108 mm",
+        "LARGEUR": "1780 mm",
+        "HAUTEUR": "1482 mm",
+        "VOLUME DU COFFRE": "380 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.5 s",
+        "VITESSE MAXI": "178 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.1 L/100 km",
+        "EMISSIONS DE CO2": "116 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "SWING | 6 haut-parleurs",
+        "CONNECTIVITÉ": "2 USB-C | Bluetooth | SmartLink",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "KIT CARROSSERIE": "Sport",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SEUILS DE PORTES": "Chromés",
+        "SIÈGES": "Réglage lombaire | Sport",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Panoramique",
+        "VITRES": "Athermiques",
+        "VOLANT": "Cuir | Multi-fonctions | Sport",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec capuchons noirs",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "Virtual Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
     "Image": "skoda-octavia-1.4-tsi-ambition-dsg-1.webp",
     "Nom": "SKODA OCTAVIA",
     "Brand": "SKODA",
@@ -7020,166 +7291,6 @@
     "Android Auto": true
 },
 {
-    "Image": "skoda-scala-1.6-l-mpi-bva-active-1.webp",
-    "Nom": "SKODA SCALA",
-    "Brand": "SKODA",
-    "Model": "SCALA",
-    "Version": "1.6 L MPI BVA ACTIVE",
-    "Generation": "1",
-    "Caractéristiques": {
-        "CARROSSERIE": "Compacte",
-        "NOMBRE DE PLACES": "5",
-        "NOMBRE DE PORTES": "5"
-    },
-    "Motorisation": {
-        "NOMBRE DE CYLINDRES": "4",
-        "ENERGIE": "Essence",
-        "PUISSANCE FISCALE": "6 CV",
-        "PUISSANCE (CH.DIN)": "110 CH",
-        "COUPLE": "155 nm 3800 tr/min",
-        "CYLINDRÉE": "1598 CM³"
-    },
-    "Transmission": {
-        "BOÎTE": "Automatique",
-        "NOMBRE DE RAPPORTS": "6",
-        "TRANSMISSION": "Traction"
-    },
-    "Dimensions": {
-        "LONGUEUR": "4362 mm",
-        "LARGEUR": "1793 mm",
-        "HAUTEUR": "1471 mm",
-        "VOLUME DU COFFRE": "467 L"
-    },
-    "Performances": {
-        "0-100 KM/H": "10.3 s",
-        "VITESSE MAXI": "197 KM/H"
-    },
-    "Consommation": {
-        "CONSOMMATION URBAINE": "7.9 L/100 km",
-        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
-        "CONSOMMATION MIXTE": "5.9 L/100 km"
-    },
-    "Equipements de sécurité": {
-        "ABS": "",
-        "AIRBAGS": "Frontaux | Latéraux",
-        "ANTI-PATINAGE": "ESP",
-        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
-        "CONTRÔLE DE PRESSION DES PNEUS": ""
-    },
-    "Equipements extérieurs": {
-        "ANTIBROUILLARDS": "",
-        "CALANDRE": "Chromée",
-        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
-        "FEUX À LED": "Avant | Arrières",
-        "JANTES": "En aluminium | 16''",
-        "PHARES": "LED"
-    },
-    "Equipements intérieurs": {
-        "AUTORADIO": "BOLERO | 8 haut-parleurs",
-        "CONNECTIVITÉ": "Bluetooth | Apple Carplay | Android Auto | SmartLink | USB-C",
-        "ECRAN": "Tactile | 8 pouces",
-        "FINITION INTÉRIEURE": "Noir brillant",
-        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
-        "SELLERIE": "Tissu",
-        "VITRES": "Athermiques",
-        "VOLANT": "Cuir"
-    },
-    "Equipements fonctionnels": {
-        "AIDE AU DÉMARRAGE EN CÔTE": "",
-        "CLIMATISATION": "Manuelle",
-        "DIRECTION ASSISTÉE": "",
-        "FERMETURE CENTRALISÉE": "À distance",
-        "ORDINATEUR DE BORD": "Maxi Dot",
-        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
-        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
-        "VITRES ÉLECTRIQUES": "Avant/Arrière",
-        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
-    },
-    "Bluetooth": true,
-    "Apple CarPlay": true,
-    "Android Auto": true
-},
-{
-    "Image": "skoda-scala-1.0-l-tsi-dsg-active-1.webp",
-    "Nom": "SKODA SCALA",
-    "Brand": "SKODA",
-    "Model": "SCALA",
-    "Version": "1.0 L TSI DSG ACTIVE",
-    "Generation": "1",
-    "Caractéristiques": {
-        "CARROSSERIE": "Compacte",
-        "NOMBRE DE PLACES": "5",
-        "NOMBRE DE PORTES": "5"
-    },
-    "Motorisation": {
-        "NOMBRE DE CYLINDRES": "3",
-        "ENERGIE": "Essence",
-        "PUISSANCE FISCALE": "6 CV",
-        "PUISSANCE (CH.DIN)": "116 CH",
-        "COUPLE": "200 nm 2000 tr/min",
-        "CYLINDRÉE": "999 CM³"
-    },
-    "Transmission": {
-        "BOÎTE": "Automatique",
-        "NOMBRE DE RAPPORTS": "7",
-        "TRANSMISSION": "Traction"
-    },
-    "Dimensions": {
-        "LONGUEUR": "4362 mm",
-        "LARGEUR": "1793 mm",
-        "HAUTEUR": "1471 mm",
-        "VOLUME DU COFFRE": "467 L"
-    },
-    "Performances": {
-        "0-100 KM/H": "9.9 s",
-        "VITESSE MAXI": "199 KM/H"
-    },
-    "Consommation": {
-        "CONSOMMATION URBAINE": "6.4 L/100 km",
-        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
-        "CONSOMMATION MIXTE": "5 L/100 km"
-    },
-    "Equipements de sécurité": {
-        "ABS": "",
-        "AIRBAGS": "Frontaux | Latéraux",
-        "ANTI-PATINAGE": "ESP",
-        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
-        "CONTRÔLE DE PRESSION DES PNEUS": ""
-    },
-    "Equipements extérieurs": {
-        "ANTIBROUILLARDS": "",
-        "CALANDRE": "Chromée",
-        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
-        "FEUX À LED": "Avant | Arrières",
-        "JANTES": "En aluminium | 16''",
-        "PHARES": "LED"
-    },
-    "Equipements intérieurs": {
-        "AUTORADIO": "BOLERO | 8 haut-parleurs",
-        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | SmartLink",
-        "ECRAN": "Tactile | 8 pouces",
-        "FINITION INTÉRIEURE": "Noir brillant",
-        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
-        "SELLERIE": "Tissu",
-        "VITRES": "Parebrise athermique",
-        "VOLANT": "Cuir"
-    },
-    "Equipements fonctionnels": {
-        "AIDE AU DÉMARRAGE EN CÔTE": "",
-        "CLIMATISATION": "Manuelle",
-        "DIRECTION ASSISTÉE": "",
-        "FERMETURE CENTRALISÉE": "À distance",
-        "ORDINATEUR DE BORD": "Maxi Dot",
-        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
-        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
-        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
-        "VITRES ÉLECTRIQUES": "Avant/Arrière"
-    },
-    "Bluetooth": true,
-    "Apple CarPlay": true,
-    "Android Auto": true
-},
-{
     "Image": "skoda-scala-1.6-l-mpi-bva-ambition-1.webp",
     "Nom": "SKODA SCALA",
     "Brand": "SKODA",
@@ -7262,6 +7373,86 @@
         "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
         "VITRES ÉLECTRIQUES": "Avant/Arrière",
         "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "skoda-scala-1.0-l-tsi-dsg-active-1.webp",
+    "Nom": "SKODA SCALA",
+    "Brand": "SKODA",
+    "Model": "SCALA",
+    "Version": "1.0 L TSI DSG ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4362 mm",
+        "LARGEUR": "1793 mm",
+        "HAUTEUR": "1471 mm",
+        "VOLUME DU COFFRE": "467 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "BOLERO | 8 haut-parleurs",
+        "CONNECTIVITÉ": "USB-C | Apple Carplay | Android Auto | Bluetooth | SmartLink",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Maxi Dot",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
     },
     "Bluetooth": true,
     "Apple CarPlay": true,
@@ -7448,12 +7639,12 @@
     "Android Auto": true
 },
 {
-    "Image": "skoda-scala-1.0-l-tsi-essence-dsg-1.webp",
+    "Image": "skoda-scala-1.0-l-tsi-essence-dsg-2.webp",
     "Nom": "SKODA SCALA",
     "Brand": "SKODA",
     "Model": "SCALA",
     "Version": "1.0 L TSI ESSENCE DSG",
-    "Generation": "1",
+    "Generation": "2",
     "Caractéristiques": {
         "CARROSSERIE": "Compacte",
         "NOMBRE DE PLACES": "5",
@@ -7530,12 +7721,12 @@
     "Android Auto": true
 },
 {
-    "Image": "skoda-scala-1.0-l-tsi-selection-dsg-1.webp",
+    "Image": "skoda-scala-1.0-l-tsi-selection-dsg-2.webp",
     "Nom": "SKODA SCALA",
     "Brand": "SKODA",
     "Model": "SCALA",
     "Version": "1.0 L TSI SELECTION DSG",
-    "Generation": "1",
+    "Generation": "2",
     "Caractéristiques": {
         "CARROSSERIE": "Compacte",
         "NOMBRE DE PLACES": "5",
@@ -7624,12 +7815,12 @@
     "Android Auto": true
 },
 {
-    "Image": "skoda-scala-1.0-l-tsi-monte-carlo-dsg-1.webp",
+    "Image": "skoda-scala-1.0-l-tsi-monte-carlo-dsg-2.webp",
     "Nom": "SKODA SCALA",
     "Brand": "SKODA",
     "Model": "SCALA",
     "Version": "1.0 L TSI MONTE CARLO DSG",
-    "Generation": "1",
+    "Generation": "2",
     "Caractéristiques": {
         "CARROSSERIE": "Compacte",
         "NOMBRE DE PLACES": "5",
@@ -27177,6 +27368,2329 @@
         "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
         "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
         "INSTRUMENTATION DIGITALE": "Digital Cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-city-1.5-l-ex-cvt-1.webp",
+    "Nom": "HONDA CITY",
+    "Brand": "HONDA",
+    "Model": "CITY",
+    "Version": "1.5 L EX CVT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "145 nm 4600 tr/min",
+        "CYLINDRÉE": "1497 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4455 mm",
+        "LARGEUR": "1694 mm",
+        "HAUTEUR": "1487 mm",
+        "VOLUME DU COFFRE": "538 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "190 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "POIGNÉES DE PORTES": "Chromées",
+        "RADAR DE STATIONNEMENT": "Arrière"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | HDMI",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "",
+        "CLÉ INTELLIGENTE": "",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique | EPS",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "honda-city-1.5-l-lx-cvt-2.webp",
+    "Nom": "HONDA CITY",
+    "Brand": "HONDA",
+    "Model": "CITY",
+    "Version": "1.5 L LX CVT",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "145 nm 4300 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4553 mm",
+        "LARGEUR": "1748 mm",
+        "HAUTEUR": "1467 mm",
+        "VOLUME DU COFFRE": "519 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.2 s",
+        "VITESSE MAXI": "196 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "VSA",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Apple Carplay | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "EPS | Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "PRISE 12V": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-city-1.5-l-ex-cvt-2.webp",
+    "Nom": "HONDA CITY",
+    "Brand": "HONDA",
+    "Model": "CITY",
+    "Version": "1.5 L EX CVT",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "145 nm 4300 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4553 mm",
+        "LARGEUR": "1748 mm",
+        "HAUTEUR": "1467 mm",
+        "VOLUME DU COFFRE": "519 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.2 s",
+        "VITESSE MAXI": "196 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "VSA",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Apple Carplay | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "EPS | Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "RÉGULATEUR DE VITESSE": "",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-city-1.5-l-lx-sport-cvt-2.webp",
+    "Nom": "HONDA CITY",
+    "Brand": "HONDA",
+    "Model": "CITY",
+    "Version": "1.5 L LX SPORT CVT",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "145 nm 4300 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4553 mm",
+        "LARGEUR": "1748 mm",
+        "HAUTEUR": "1467 mm",
+        "VOLUME DU COFFRE": "519 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.2 s",
+        "VITESSE MAXI": "196 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "VSA",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16'' | Bi-ton",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Apple Carplay | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Multi-fonctions | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "EPS | Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec capuchons blancs/noirs",
+        "RÉGULATEUR DE VITESSE": "",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-city-1.5-l-cvt-lx-3.webp",
+    "Nom": "HONDA CITY",
+    "Brand": "HONDA",
+    "Model": "CITY",
+    "Version": "1.5 L CVT LX",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "145 nm 4300 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4553 mm",
+        "LARGEUR": "1748 mm",
+        "HAUTEUR": "1467 mm",
+        "VOLUME DU COFFRE": "509 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.2 s",
+        "VITESSE MAXI": "196 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-city-1.5-l-cvt-lx-sport-3.webp",
+    "Nom": "HONDA CITY",
+    "Brand": "HONDA",
+    "Model": "CITY",
+    "Version": "1.5 L CVT LX SPORT",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "145 nm 4300 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4553 mm",
+        "LARGEUR": "1748 mm",
+        "HAUTEUR": "1467 mm",
+        "VOLUME DU COFFRE": "509 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.2 s",
+        "VITESSE MAXI": "196 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire | Grille en nid d'abeille",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16'' | Bi-ton",
+        "SPOILER ARRIÈRE": "Noir"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Démarrage à distance | Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec capuchons noirs",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-city-1.5-l-cvt-lx-sport-+-3.webp",
+    "Nom": "HONDA CITY",
+    "Brand": "HONDA",
+    "Model": "CITY",
+    "Version": "1.5 L CVT LX SPORT +",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "145 nm 4300 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4553 mm",
+        "LARGEUR": "1748 mm",
+        "HAUTEUR": "1467 mm",
+        "VOLUME DU COFFRE": "509 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.2 s",
+        "VITESSE MAXI": "196 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire | Grille en nid d'abeille",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16'' | Bi-ton",
+        "SPOILER ARRIÈRE": "Noir"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Poches aumônières",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec capuchons noirs",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-accord-1.5-l-turbo-1.webp",
+    "Nom": "HONDA ACCORD",
+    "Brand": "HONDA",
+    "Model": "ACCORD",
+    "Version": "1.5 L TURBO",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "190 CH",
+        "COUPLE": "260 nm 1600 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4889 mm",
+        "LARGEUR": "1860 mm",
+        "HAUTEUR": "1453 mm",
+        "VOLUME DU COFFRE": "473 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7.3 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ANTI-PATINAGE": "VSA",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ASSISTANCE AU MAINTIEN DE LIGNE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED",
+        "POIGNÉES DE PORTES": "Chromées",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant | 180 watts",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Apple Carplay | Android Auto",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Bois | Chromée",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques | 12 directions | Chauffants | Ventilés | Réglage lombaire | Fonction mémoire",
+        "TABLEAU DE BORD": "Cuir",
+        "TOIT": "Ouvrant",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉMARRAGE À DISTANCE": "",
+        "DIRECTION ASSISTÉE": "EPS | Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "PRISE 12V": "",
+        "INSTRUMENTATION NUMÉRIQUE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-accord-1.5-l-turbo-2.webp",
+    "Nom": "HONDA ACCORD",
+    "Brand": "HONDA",
+    "Model": "ACCORD",
+    "Version": "1.5 L TURBO",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "190 CH",
+        "COUPLE": "260 nm 1600 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4889 mm",
+        "LARGEUR": "1860 mm",
+        "HAUTEUR": "1453 mm",
+        "VOLUME DU COFFRE": "473 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7.3 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ANTI-PATINAGE": "VSA",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD | EBB",
+        "AIDE AU MAINTIEN DANS LA VOIE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CAMÉRA LATÉRALE": "Lane Watch",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED",
+        "POIGNÉES DE PORTES": "Chromées",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "10 haut-parleurs | Commandes au volant | 180 watts",
+        "CONNECTIVITÉ": "Apple Carplay | 4 USB | AUX | Android Auto | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Bois",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Conducteur à réglage électrique | 12 directions | Chauffants | Ventilés | Réglage lombaire | Fonction mémoire",
+        "TABLEAU DE BORD": "Cuir",
+        "TOIT": "Ouvrant",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DIRECTION ASSISTÉE": "EPS | Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-accord-1.5-l-cvt-3.webp",
+    "Nom": "HONDA ACCORD",
+    "Brand": "HONDA",
+    "Model": "ACCORD",
+    "Version": "1.5 L CVT",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "182 CH",
+        "COUPLE": "233 nm 1700 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4971 mm",
+        "LARGEUR": "1862 mm",
+        "HAUTEUR": "1452 mm",
+        "VOLUME DU COFFRE": "473 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.3 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "6.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "12 haut-parleurs | Haut-parleurs Bose | Commandes au volant",
+        "CONNECTIVITÉ": "Android Auto | 4 USB-C | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Conducteur à réglage électrique | 8 directions | Réglage lombaire | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "INSTRUMENTATION DIGITALE": "10.2\"",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-cr-v-1.5-t-cvt-1.webp",
+    "Nom": "HONDA CR-V",
+    "Brand": "HONDA",
+    "Model": "CR-V",
+    "Version": "1.5 T CVT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "190 CH",
+        "COUPLE": "240 nm 2000 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4591 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1682 mm",
+        "VOLUME DU COFFRE": "589 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.7 L/100 km",
+        "CONSOMMATION MIXTE": "6.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED",
+        "RADAR DE STATIONNEMENT": "Arrière"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "4 USB | Bluetooth | AUX | HDMI",
+        "ECRAN": "Tactile",
+        "FINITION INTÉRIEURE": "Bois | Chromée",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Électriques | Réglage lombaire",
+        "TOIT": "Ouvrant",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "",
+        "CAMÉRA DE RECUL": "",
+        "CLÉ INTELLIGENTE": "",
+        "COFFRE À BAGAGES": "Ouverture et fermeture électriques | Ouverture mains libres | Ouverture à distance",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "honda-cr-v-1.5-t-cvt-lx-2.webp",
+    "Nom": "HONDA CR-V",
+    "Brand": "HONDA",
+    "Model": "CR-V",
+    "Version": "1.5 T CVT LX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "190 CH",
+        "COUPLE": "240 nm 2000 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4591 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1682 mm",
+        "VOLUME DU COFFRE": "589 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.7 L/100 km",
+        "CONSOMMATION MIXTE": "6.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "VSA",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "ECRAN": "Tactile | 5 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Démarrage à distance | Accès mains libres",
+        "COFFRE À BAGAGES": "Cache Bagages | Ouverture à distance",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "EPS | Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "RÉGULATEUR DE VITESSE": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "honda-cr-v-1.5-t-cvt-ex-2.webp",
+    "Nom": "HONDA CR-V",
+    "Brand": "HONDA",
+    "Model": "CR-V",
+    "Version": "1.5 T CVT EX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "190 CH",
+        "COUPLE": "240 nm 2000 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4591 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1682 mm",
+        "VOLUME DU COFFRE": "589 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.7 L/100 km",
+        "CONSOMMATION MIXTE": "6.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "VSA",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "Apple Carplay | 4 USB | AUX | Android Auto | Bluetooth | HDMI | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Bois | Chromée",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Électriques | Réglage lombaire",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Cache Bagages | Ouverture à distance",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "EPS | Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "PRISE 12V": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-cr-v-1.5-t-cvt-3.webp",
+    "Nom": "HONDA CR-V",
+    "Brand": "HONDA",
+    "Model": "CR-V",
+    "Version": "1.5 T CVT",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "190 CH",
+        "COUPLE": "240 nm 2000 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4706 mm",
+        "LARGEUR": "1866 mm",
+        "HAUTEUR": "1690 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.7 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.6 L/100 km",
+        "CONSOMMATION MIXTE": "8.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "Android Auto | 4 USB | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Électriques | 12 directions | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Ouverture à distance",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "10.2\"",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-hr-v-1.5-l-cvt-lx-confort-1.webp",
+    "Nom": "HONDA HR-V",
+    "Brand": "HONDA",
+    "Model": "HR-V",
+    "Version": "1.5 L CVT LX CONFORT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "131 CH",
+        "COUPLE": "155 nm 4600 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4334 mm",
+        "LARGEUR": "1772 mm",
+        "HAUTEUR": "1605 mm",
+        "VOLUME DU COFFRE": "470 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.4 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "VSA",
+        "ASSISTANCE AU FREINAGE": "Active City Brake | EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED",
+        "RADAR DE STATIONNEMENT": "Arrière",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "",
+        "FINITION INTÉRIEURE": "Chromée",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Chauffants",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Climatronic",
+        "DIRECTION ASSISTÉE": "Électrique | EPS",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "PRISE 12V": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "honda-hr-v-1.5-l-cvt-elegance-1.webp",
+    "Nom": "HONDA HR-V",
+    "Brand": "HONDA",
+    "Model": "HR-V",
+    "Version": "1.5 L CVT ELEGANCE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "131 CH",
+        "COUPLE": "155 nm 4600 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4334 mm",
+        "LARGEUR": "1772 mm",
+        "HAUTEUR": "1605 mm",
+        "VOLUME DU COFFRE": "470 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.4 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "VSA",
+        "ASSISTANCE AU FREINAGE": "Active City Brake | EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED",
+        "RADAR DE STATIONNEMENT": "Arrière",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "Tactile | 9 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Chauffants",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CAMÉRA DE RECUL": "",
+        "CLIMATISATION": "Climatronic",
+        "DIRECTION ASSISTÉE": "Électrique | EPS",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "PRISE 12V": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "honda-hr-v-1.5-l-cvt-ex-2.webp",
+    "Nom": "HONDA HR-V",
+    "Brand": "HONDA",
+    "Model": "HR-V",
+    "Version": "1.5 L CVT EX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "119 CH",
+        "COUPLE": "145 nm 4300 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4385 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1581 mm",
+        "VOLUME DU COFFRE": "335 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.4 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.4 L/100 km",
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "4 USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Chromée",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "TOIT": "Panoramique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-civic-rs-1.5-l-turbo-bva-1.webp",
+    "Nom": "HONDA CIVIC",
+    "Brand": "HONDA",
+    "Model": "CIVIC",
+    "Version": "RS 1.5 L TURBO BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "182 CH",
+        "COUPLE": "220 nm 1700 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4650 mm",
+        "LARGEUR": "1799 mm",
+        "HAUTEUR": "1416 mm",
+        "VOLUME DU COFFRE": "428 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "6.6 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "TCS",
+        "ASSISTANCE AU FREINAGE": "BAS | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "AILERON ARRIÈRE": "",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED",
+        "SORTIES D’ÉCHAPPEMENT": "Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "7 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Bluetooth | Apple Carplay | Android Auto | iPod | Wifi | HDMI",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Aluminium brossé mat",
+        "KIT FUMEURS": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "TAPIS DE SOL": "",
+        "TABLEAU DE BORD": "Cuir",
+        "TOIT": "Ouvrant | En verre",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | Avec palettes",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉMARRAGE À DISTANCE": "Avec réglage de la température",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Cruise control",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-civic-1.5-l-cvt-2.webp",
+    "Nom": "HONDA CIVIC",
+    "Brand": "HONDA",
+    "Model": "CIVIC",
+    "Version": "1.5 L CVT",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "178 CH",
+        "COUPLE": "220 nm 4500 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4679 mm",
+        "LARGEUR": "1802 mm",
+        "HAUTEUR": "1432 mm",
+        "VOLUME DU COFFRE": "419 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.3 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.1 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Cuir",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "7 pouces",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-civic-hybride-2.0-l-e-hev-1.webp",
+    "Nom": "HONDA CIVIC HYBRIDE",
+    "Brand": "HONDA",
+    "Model": "CIVIC HYBRIDE",
+    "Version": "2.0 L E-HEV",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "NOMBRE DE MOTEURS ÉLECTRIQUES": "2",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "143 CH",
+        "PUISSANCE ÉLECTRIQUE": "184 CH",
+        "COUPLE": "189 nm 4500 tr/min",
+        "COUPLE ÉLECTRIQUE": "315 nm",
+        "CYLINDRÉE": "1993 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4679 mm",
+        "LARGEUR": "1802 mm",
+        "HAUTEUR": "1432 mm",
+        "VOLUME DU COFFRE": "419 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7.1 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "2.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.0 L/100 km",
+        "CONSOMMATION MIXTE": "4.0 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Cuir",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "7 pouces",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-civic-type-r-2.0-l-turbo-1.webp",
+    "Nom": "HONDA CIVIC TYPE R",
+    "Brand": "HONDA",
+    "Model": "CIVIC TYPE R",
+    "Version": "2.0 L TURBO",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "4",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "21 CV",
+        "PUISSANCE (CH.DIN)": "319 CH",
+        "COUPLE": "420 nm 2600 tr/min",
+        "CYLINDRÉE": "1996 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4592 mm",
+        "LARGEUR": "1890 mm",
+        "HAUTEUR": "1401 mm",
+        "VOLUME DU COFFRE": "694 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "5.4 s",
+        "VITESSE MAXI": "275 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "11.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.7 L/100 km",
+        "CONSOMMATION MIXTE": "8.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant | Arrière",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "12 haut-parleurs | Haut-parleurs Bose | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Wifi | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "AILERON ARRIÈRE": "Carbonne",
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "KIT CARROSSERIE": "Type R",
+        "PHARES": "Full LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Triples"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "KIT RANGEMENT": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "PÉDALIERS": "Aluminium",
+        "POMMEAU DE LEVIER DE VITESSE": "Aluminium",
+        "SELLERIE": "Velours",
+        "SIÈGES": "Sport",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Acoustiques",
+        "VOLANT": "Multi-fonctions | Alcantara",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FREINAGE": "Brembo",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Confort | Sport | Individual | +R",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec capuchons noirs | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "10.2\"",
+        "SUSPENSION": "Adaptative",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-zr-v-1.5-l-cvt-1.webp",
+    "Nom": "HONDA ZR-V",
+    "Brand": "HONDA",
+    "Model": "ZR-V",
+    "Version": "1.5 L CVT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "182 CH",
+        "COUPLE": "240 nm 1700 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4569 mm",
+        "LARGEUR": "1840 mm",
+        "HAUTEUR": "1612 mm",
+        "VOLUME DU COFFRE": "370 L",
+        "VOLUME DU COFFRE MAXIMAL": "1300 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.9 L/100 km",
+        "CONSOMMATION MIXTE": "7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "12 haut-parleurs | Haut-parleurs Bose | Commandes au volant | Subwoofer",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil | 3 USB-C",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Électriques | 12 directions | Réglage lombaire | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION DIGITALE": "10.2\"",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-jazz-1.5-l-e-hev-1.webp",
+    "Nom": "HONDA JAZZ",
+    "Brand": "HONDA",
+    "Model": "JAZZ",
+    "Version": "1.5 L E-HEV",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "NOMBRE DE MOTEURS ÉLECTRIQUES": "2",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "108 CH",
+        "PUISSANCE ÉLECTRIQUE": "122 CH",
+        "COUPLE": "131 nm 4500 tr/min",
+        "COUPLE ÉLECTRIQUE": "253 nm",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4047 mm",
+        "LARGEUR": "1694 mm",
+        "HAUTEUR": "1487 mm",
+        "VOLUME DU COFFRE": "304 L",
+        "VOLUME DU COFFRE MAXIMAL": "1205 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.4 s",
+        "VITESSE MAXI": "174 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "2,5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4,2 L/100 km",
+        "CONSOMMATION MIXTE": "3,6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Centraux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "4 USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "SELLERIE": "Cuir/Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Chauffant | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-cr-v-hybride-2.0-l-e-cvt-1.webp",
+    "Nom": "HONDA CR-V HYBRIDE",
+    "Brand": "HONDA",
+    "Model": "CR-V HYBRIDE",
+    "Version": "2.0 L E-CVT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "184 CH",
+        "COUPLE": "315 nm 2000 tr/min",
+        "CYLINDRÉE": "1993 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4591 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1682 mm",
+        "VOLUME DU COFFRE": "589 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.6 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "VSA",
+        "ASSISTANT DE FEUX DE ROUTE": "HBSS",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD | Freinage automatique anti-collision | Alerte Risque Colision",
+        "AIDE AU MAINTIEN DANS LA VOIE": "LKA | RDM",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "AVERTISSEUR DE CHANGEMENT DE VOIE": "LDW",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": "",
+        "RECONNAISSANCE DES PANNEAUX": "",
+        "SURVEILLANCE D’ANGLE MORT": "",
+        "ALERTE DE CIRCULATION TRANSVERSALE": "Rear Cross Traffic Monitor"
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Chromées",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "LAVE PHARES": "",
+        "PHARES": "Full LED | Directionnels"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "Apple Carplay | 4 USB | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT FUMEURS": "",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Chauffants | Réglage lombaire",
+        "TOIT": "Ouvrant | Panoramique | En verre",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "EPS | Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Adaptatif | Low Speed Follow",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "honda-cr-v-hybride-2.0-l-e-hev-2.webp",
+    "Nom": "HONDA CR-V HYBRIDE",
+    "Brand": "HONDA",
+    "Model": "CR-V HYBRIDE",
+    "Version": "2.0 L E-HEV",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "204 CH",
+        "COUPLE": "335 nm 2000 tr/min",
+        "CYLINDRÉE": "1993 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4706 mm",
+        "LARGEUR": "1881 mm",
+        "HAUTEUR": "1657 mm",
+        "VOLUME DU COFFRE": "587 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9 s",
+        "VITESSE MAXI": "194 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "12 haut-parleurs | Haut-parleurs Bose | Commandes au volant | Subwoofer",
+        "CONNECTIVITÉ": "Android Auto | 4 USB | Apple Carplay | Bluetooth | Commande vocale | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Chromées",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "FINITION INTÉRIEURE": "Laqué Piano Noir",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "LUMIÈRES D'AMBIANCE": "",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Électriques | 12 directions | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres | Démarrage à distance",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Ouverture à distance",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique | EPB",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "10.2\"",
         "VITRES ÉLECTRIQUES": "Avant/Arrière"
     },
     "Bluetooth": true,
