@@ -34543,3 +34543,967 @@
     "Apple CarPlay": false,
     "Android Auto": false
 },
+{
+    "Image": "mahindra-kuv-100-1.2-l-k6+-1.webp",
+    "Nom": "MAHINDRA KUV 100",
+    "Brand": "MAHINDRA",
+    "Model": "KUV 100",
+    "Version": "1.2 L K6+",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "82 CH",
+        "COUPLE": "115 nm 3500 tr/min",
+        "CYLINDRÉE": "1198 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3700 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1655 mm",
+        "VOLUME DU COFFRE": "243 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul",
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "FINITION INTÉRIEURE": "Noir",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "mahindra-kuv-100-1.2-l-k8-1.webp",
+    "Nom": "MAHINDRA KUV 100",
+    "Brand": "MAHINDRA",
+    "Model": "KUV 100",
+    "Version": "1.2 L K8",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "82 CH",
+        "COUPLE": "115 nm 3500 tr/min",
+        "CYLINDRÉE": "1198 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3700 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1655 mm",
+        "VOLUME DU COFFRE": "243 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "FINITION INTÉRIEURE": "Noir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "mahindra-xuv-300-1.2-l-w6-1.webp",
+    "Nom": "MAHINDRA XUV 300",
+    "Brand": "MAHINDRA",
+    "Model": "XUV 300",
+    "Version": "1.2 L W6",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1821 mm",
+        "HAUTEUR": "1627 mm",
+        "VOLUME DU COFFRE": "259 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "176 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 16''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT RANGEMENT": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Similicuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions | Sport",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Normal | Confort | Sport",
+        "ORDINATEUR DE BORD": "Ecran LCD 3.5\"",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "mahindra-xuv-300-1.2-l-w8-1.webp",
+    "Nom": "MAHINDRA XUV 300",
+    "Brand": "MAHINDRA",
+    "Model": "XUV 300",
+    "Version": "1.2 L W8",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1821 mm",
+        "HAUTEUR": "1627 mm",
+        "VOLUME DU COFFRE": "259 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "176 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE": "Électronique",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 16''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Similicuir",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions | Sport",
+        "VOLANT RÉGLABLE": "En hauteur",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Normal | Confort | Sport",
+        "ORDINATEUR DE BORD": "Ecran LCD 3.5\"",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "mahindra-xuv-300-1.2-l-w8.0-1.webp",
+    "Nom": "MAHINDRA XUV 300",
+    "Brand": "MAHINDRA",
+    "Model": "XUV 300",
+    "Version": "1.2 L W8.0",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "200 nm 2000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1821 mm",
+        "HAUTEUR": "1627 mm",
+        "VOLUME DU COFFRE": "259 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "176 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESC | TCS",
+        "ASSISTANCE AU FREINAGE": "EBA",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "POMMEAU DE LEVIER DE VITESSE": "Similicuir",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VOLANT": "Cuir | Multi-fonctions | Sport"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HHC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Confort | Sport",
+        "ORDINATEUR DE BORD": "Ecran LCD 3.5\"",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉGULATEUR DE VITESSE": "Cruise control",
+        "SYSTÈME START & STOP": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "mahindra-xuv-500-2.2-l-awd-1.webp",
+    "Nom": "MAHINDRA XUV 500",
+    "Brand": "MAHINDRA",
+    "Model": "XUV 500",
+    "Version": "2.2 L AWD",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "330 nm 1600 tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4585 mm",
+        "LARGEUR": "1890 mm",
+        "HAUTEUR": "1785 mm",
+        "VOLUME DU COFFRE": "720 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.25 L/100 km",
+        "CONSOMMATION MIXTE": "7.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17''",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "SELLERIE": "Cuir",
+        "VITRES": "Teintées",
+        "VOLANT": "Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CAMÉRA DE RECUL": "",
+        "CLIMATISATION": "Climatronic",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Cruise control",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Éclairage d'accueil à LED",
+        "SYSTÈME START & STOP": "",
+        "SYSTÈME DE DESCENTE EN CÔTE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "mahindra-pick-up-sc-2.2-l-diesel-4x2-plateau-simple-1.webp",
+    "Nom": "MAHINDRA PICK-UP SC",
+    "Brand": "MAHINDRA",
+    "Model": "PICK-UP SC",
+    "Version": "2.2 L DIESEL 4X2 PLATEAU SIMPLE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "2"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "CHARGE UTILE": "1250 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "10.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.9 L/100 km",
+        "CONSOMMATION MIXTE": "8.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "16''",
+        "MARCHEPIEDS LATÉRAUX": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Tissu",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "mahindra-pick-up-sc-2.2-l-diesel-4x2-chassis-cabine-1.webp",
+    "Nom": "MAHINDRA PICK-UP SC",
+    "Brand": "MAHINDRA",
+    "Model": "PICK-UP SC",
+    "Version": "2.2 L DIESEL 4X2 CHASSIS CABINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "2"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "CHARGE UTILE": "1250 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "10.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.9 L/100 km",
+        "CONSOMMATION MIXTE": "8.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "16''",
+        "MARCHEPIEDS LATÉRAUX": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "2 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SYSTÈME START & STOP": "",
+        "VOLANT RÉGLABLE": "En hauteur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "mahindra-pick-up-sc-2.2-l-diesel-4x4-plateau-simple-2.webp",
+    "Nom": "MAHINDRA PICK-UP SC",
+    "Brand": "MAHINDRA",
+    "Model": "PICK-UP SC",
+    "Version": "2.2 L DIESEL 4X4 PLATEAU SIMPLE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "2"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "320 nm 1500 tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5175 mm",
+        "LARGEUR": "1820 mm",
+        "HAUTEUR": "1860 mm",
+        "CHARGE UTILE": "1250 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "7.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ARCEAU DE BENNE": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "16''",
+        "MARCHEPIEDS LATÉRAUX": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "mahindra-pick-up-dc-2.2-l-diesel-4x2-1.webp",
+    "Nom": "MAHINDRA PICK-UP DC",
+    "Brand": "MAHINDRA",
+    "Model": "PICK-UP DC",
+    "Version": "2.2 L DIESEL 4X2",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "CHARGE UTILE": "1160 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "10.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.9 L/100 km",
+        "CONSOMMATION MIXTE": "8.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "16''",
+        "MARCHEPIEDS LATÉRAUX": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Arrière",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "mahindra-pick-up-dc-2.2-l-diesel-4x2-2.webp",
+    "Nom": "MAHINDRA PICK-UP DC",
+    "Brand": "MAHINDRA",
+    "Model": "PICK-UP DC",
+    "Version": "2.2 L DIESEL 4X2",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "320 nm 1500 tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "CHARGE UTILE": "1180 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "10.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.9 L/100 km",
+        "CONSOMMATION MIXTE": "8.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ARCEAU DE BENNE": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 16''",
+        "MARCHEPIEDS LATÉRAUX": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Arrière",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "mahindra-pick-up-dc-2.2-l-diesel-4x4-2.webp",
+    "Nom": "MAHINDRA PICK-UP DC",
+    "Brand": "MAHINDRA",
+    "Model": "PICK-UP DC",
+    "Version": "2.2 L DIESEL 4X4",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "320 nm 1500 tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "CHARGE UTILE": "1070 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "10.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.9 L/100 km",
+        "CONSOMMATION MIXTE": "8.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ARCEAU DE BENNE": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Arrières",
+        "JANTES": "16'' | Enjoliveurs",
+        "MARCHEPIEDS LATÉRAUX": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Arrière",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "2 prises 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
