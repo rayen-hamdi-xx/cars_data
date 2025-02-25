@@ -32117,7 +32117,7 @@
     "Apple CarPlay": true,
     "Android Auto": true
 },
-gi{
+{
     "Image": "seat-tarraco-1.4-l-tsi-style-bva-1.webp",
     "Nom": "SEAT TARRACO",
     "Brand": "SEAT",
@@ -32509,6 +32509,2037 @@ gi{
         "VOLANT RÉGLABLE": "En hauteur et en profondeur"
     },
     "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-clio-populaire-0.9-l-tce-life-plus-1.webp",
+    "Nom": "RENAULT CLIO POPULAIRE",
+    "Brand": "RENAULT",
+    "Model": "CLIO POPULAIRE",
+    "Version": "0.9 L TCE LIFE PLUS",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "76 CH",
+        "COUPLE": "120 nm 2500 tr/min",
+        "CYLINDRÉE": "898 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4063 mm",
+        "LARGEUR": "1732 mm",
+        "HAUTEUR": "1448 mm",
+        "VOLUME DU COFFRE": "300 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.3 s",
+        "VITESSE MAXI": "178 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5.0 L/100 km",
+        "EMISSIONS DE CO2": "114 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESC",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "15''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes sous le volant",
+        "CONNECTIVITÉ": "2 USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "SYSTÈME START & STOP": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-symbol-1.0-sce-confort-1.webp",
+    "Nom": "RENAULT SYMBOL",
+    "Brand": "RENAULT",
+    "Model": "SYMBOL",
+    "Version": "1.0 SCE CONFORT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "95 nm 3600 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4346 mm",
+        "LARGEUR": "1733 mm",
+        "HAUTEUR": "1517 mm",
+        "VOLUME DU COFFRE": "510 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.5 s",
+        "VITESSE MAXI": "151 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "FEUX À LED": "Avant",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "VITRES ÉLECTRIQUES": "Avant",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-clio-tce-90-zen-1.webp",
+    "Nom": "RENAULT CLIO",
+    "Brand": "RENAULT",
+    "Model": "CLIO",
+    "Version": "TCE 90 ZEN",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "90 CH",
+        "COUPLE": "135 nm 2500 tr/min",
+        "CYLINDRÉE": "898 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4063 mm",
+        "LARGEUR": "1732 mm",
+        "HAUTEUR": "1448 mm",
+        "VOLUME DU COFFRE": "300 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.2 s",
+        "VITESSE MAXI": "182 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.9 L/100 km",
+        "CONSOMMATION MIXTE": "4.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Avant",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | R&GO;",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-clio-1.0-l-sce-life-plus-2.webp",
+    "Nom": "RENAULT CLIO",
+    "Brand": "RENAULT",
+    "Model": "CLIO",
+    "Version": "1.0 L SCE LIFE PLUS",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "72 CH",
+        "COUPLE": "95 nm 3600 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4050 mm",
+        "LARGEUR": "1798 mm",
+        "HAUTEUR": "1440 mm",
+        "VOLUME DU COFFRE": "391 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "16.4 s",
+        "VITESSE MAXI": "162 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Avant",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | AUX | Bluetooth",
+        "ECRAN": "Tactile | 5 pouces",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-clio-1.0-l-tce-100-evolution-3.webp",
+    "Nom": "RENAULT CLIO",
+    "Brand": "RENAULT",
+    "Model": "CLIO",
+    "Version": "1.0 L TCE 100 EVOLUTION",
+    "Generation": "3",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "160 nm 2000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4047 mm",
+        "LARGEUR": "1728 mm",
+        "HAUTEUR": "1437 mm",
+        "VOLUME DU COFFRE": "391 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.8 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Android Auto | Apple Carplay | AUX | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Avant",
+        "JANTES": "16''",
+        "PHARES": "Full LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "SELLERIE": "Tissu",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "INSTRUMENTATION DIGITALE": "7 pouces",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "renault-captur-tce-90-1.webp",
+    "Nom": "RENAULT CAPTUR",
+    "Brand": "RENAULT",
+    "Model": "CAPTUR",
+    "Version": "TCE 90",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "90 CH",
+        "COUPLE": "135 nm 2500 tr/min",
+        "CYLINDRÉE": "898 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4227 mm",
+        "LARGEUR": "2003 mm",
+        "HAUTEUR": "1576 mm",
+        "VOLUME DU COFFRE": "455 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.9 s",
+        "VITESSE MAXI": "171 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 17''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "Bluetooth",
+        "ECRAN": "Tactile",
+        "SELLERIE": "Tissu",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-megane-1.2-l-tce-132-1.webp",
+    "Nom": "RENAULT MEGANE",
+    "Brand": "RENAULT",
+    "Model": "MEGANE",
+    "Version": "1.2 L TCE 132",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "132 CH",
+        "COUPLE": "205 nm 2000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4359 mm",
+        "LARGEUR": "1814 mm",
+        "HAUTEUR": "1447 mm",
+        "VOLUME DU COFFRE": "384 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.6 s",
+        "VITESSE MAXI": "197 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 17''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant | R-Link 2",
+        "CONNECTIVITÉ": "2 USB | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Aluminium brossé mat",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir | Velours",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "Cartographie Tunisienne",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION NUMÉRIQUE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-megane-1.2-l-tce-132-bva-1.webp",
+    "Nom": "RENAULT MEGANE",
+    "Brand": "RENAULT",
+    "Model": "MEGANE",
+    "Version": "1.2 L TCE 132 BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "132 CH",
+        "COUPLE": "205 nm 2000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4359 mm",
+        "LARGEUR": "1814 mm",
+        "HAUTEUR": "1447 mm",
+        "VOLUME DU COFFRE": "384 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.6 s",
+        "VITESSE MAXI": "197 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "RADAR DE STATIONNEMENT": "Arrière | Avant"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant | R-Link 2",
+        "CONNECTIVITÉ": "2 USB | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Aluminium brossé mat",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Similicuir | Velours",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "Cartographie Tunisienne",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "MODES DE CONDUITE": "Normal | Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION NUMÉRIQUE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-megane-1.3-l-tce-140-1.webp",
+    "Nom": "RENAULT MEGANE",
+    "Brand": "RENAULT",
+    "Model": "MEGANE",
+    "Version": "1.3 L TCE 140",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "260 nm 1750 tr/min",
+        "CYLINDRÉE": "1332 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4359 mm",
+        "LARGEUR": "1814 mm",
+        "HAUTEUR": "1438 mm",
+        "VOLUME DU COFFRE": "402 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "205 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "4.9 L/100 km",
+        "EMISSIONS DE CO2": "129 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant | R-Link 2",
+        "CONNECTIVITÉ": "2 USB | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 7 pouces",
+        "NAVIGATION": "Cartographie Tunisienne"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Aluminium brossé",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir | Velours",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-megane-sedan-1.2-l-tce-130-1.webp",
+    "Nom": "RENAULT MEGANE SEDAN",
+    "Brand": "RENAULT",
+    "Model": "MEGANE SEDAN",
+    "Version": "1.2 L TCE 130",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "205 nm 2000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4632 mm",
+        "LARGEUR": "1814 mm",
+        "HAUTEUR": "1443 mm",
+        "VOLUME DU COFFRE": "503 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.6 s",
+        "VITESSE MAXI": "197 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile",
+        "FINITION INTÉRIEURE": "Aluminium brossé mat",
+        "LUMIÈRES D'AMBIANCE": "LED | 5 Couleurs",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "Cartographie Tunisienne",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Éclairage d'accueil à LED",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION NUMÉRIQUE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-megane-sedan-1.5-l-dci-110-ch-1.webp",
+    "Nom": "RENAULT MEGANE SEDAN",
+    "Brand": "RENAULT",
+    "Model": "MEGANE SEDAN",
+    "Version": "1.5 L DCI 110 CH",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "260 nm 1750 tr/min",
+        "CYLINDRÉE": "1461 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4632 mm",
+        "LARGEUR": "1814 mm",
+        "HAUTEUR": "1443 mm",
+        "VOLUME DU COFFRE": "503 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.6 s",
+        "VITESSE MAXI": "190 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "4.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.6 L/100 km",
+        "CONSOMMATION MIXTE": "3.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile",
+        "FINITION INTÉRIEURE": "Aluminium brossé mat",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-megane-sedan-1.3-l-tce-140-1.webp",
+    "Nom": "RENAULT MEGANE SEDAN",
+    "Brand": "RENAULT",
+    "Model": "MEGANE SEDAN",
+    "Version": "1.3 L TCE 140",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "260 nm 1750 tr/min",
+        "CYLINDRÉE": "1332 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4630 mm",
+        "LARGEUR": "1814 mm",
+        "HAUTEUR": "1434 mm",
+        "VOLUME DU COFFRE": "503 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "205 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.4 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km",
+        "EMISSIONS DE CO2": "141 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile",
+        "NAVIGATION": "Cartographie Tunisienne"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Aluminium brossé",
+        "LUMIÈRES D'AMBIANCE": "LED | 5 Couleurs",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Éclairage d'accueil à LED",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-megane-sedan-1.3-l-tce-140-bva-1.webp",
+    "Nom": "RENAULT MEGANE SEDAN",
+    "Brand": "RENAULT",
+    "Model": "MEGANE SEDAN",
+    "Version": "1.3 L TCE 140 BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "240 nm 1750 tr/min",
+        "CYLINDRÉE": "1332 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4630 mm",
+        "LARGEUR": "1814 mm",
+        "HAUTEUR": "1434 mm",
+        "VOLUME DU COFFRE": "503 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.8 s",
+        "VITESSE MAXI": "212 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.4 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km",
+        "EMISSIONS DE CO2": "134 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile",
+        "NAVIGATION": "Cartographie Tunisienne"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Aluminium brossé",
+        "LUMIÈRES D'AMBIANCE": "LED | 5 Couleurs",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Éclairage d'accueil à LED",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-kwid-populaire-1.0-l-1.webp",
+    "Nom": "RENAULT KWID POPULAIRE",
+    "Brand": "RENAULT",
+    "Model": "KWID POPULAIRE",
+    "Version": "1.0 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "64 CH",
+        "COUPLE": "92 nm 4250 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3680 mm",
+        "LARGEUR": "1579 mm",
+        "HAUTEUR": "1474 mm",
+        "VOLUME DU COFFRE": "290 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.5 s",
+        "VITESSE MAXI": "150 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "JANTES": "14''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-kwid-populaire-1.0-l-2.webp",
+    "Nom": "RENAULT KWID POPULAIRE",
+    "Brand": "RENAULT",
+    "Model": "KWID POPULAIRE",
+    "Version": "1.0 L",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "64 CH",
+        "COUPLE": "92 nm 4250 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3680 mm",
+        "LARGEUR": "1579 mm",
+        "HAUTEUR": "1474 mm",
+        "VOLUME DU COFFRE": "290 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.5 s",
+        "VITESSE MAXI": "150 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "JANTES": "14''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-kadjar-tce-130-intens-1.webp",
+    "Nom": "RENAULT KADJAR",
+    "Brand": "RENAULT",
+    "Model": "KADJAR",
+    "Version": "TCE 130 INTENS",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "205 nm 2000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4450 mm",
+        "LARGEUR": "1840 mm",
+        "HAUTEUR": "1610 mm",
+        "VOLUME DU COFFRE": "472 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10 s",
+        "VITESSE MAXI": "192 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESC | ASR",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU MAINTIEN DANS LA VOIE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": "",
+        "RECONNAISSANCE DES PANNEAUX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul | Parkassist",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Chromées",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 19''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant | R-Link 2",
+        "CONNECTIVITÉ": "Apple Carplay | 4 USB | AUX | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "SEUILS DE PORTES": "Acier inoxydable",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir Nappa",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "GPS": "Cartographie Tunisienne",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "renault-kadjar-tce-130-intens-bva-1.webp",
+    "Nom": "RENAULT KADJAR",
+    "Brand": "RENAULT",
+    "Model": "KADJAR",
+    "Version": "TCE 130 INTENS BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "205 nm 2000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4450 mm",
+        "LARGEUR": "1840 mm",
+        "HAUTEUR": "1610 mm",
+        "VOLUME DU COFFRE": "472 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10 s",
+        "VITESSE MAXI": "192 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.6 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESC | ASR",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU MAINTIEN DANS LA VOIE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": "",
+        "RECONNAISSANCE DES PANNEAUX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul | Parkassist",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Chromées",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 19''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant | R-Link 2",
+        "CONNECTIVITÉ": "Apple Carplay | 4 USB | AUX | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "SEUILS DE PORTES": "Acier inoxydable",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir Nappa",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CARTE MAINS LIBRES": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "GPS": "Cartographie Tunisienne",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "renault-talisman-1.6-l-dci-160-edc-zen-1.webp",
+    "Nom": "RENAULT TALISMAN",
+    "Brand": "RENAULT",
+    "Model": "TALISMAN",
+    "Version": "1.6 L DCI 160 EDC ZEN",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "160 CH",
+        "COUPLE": "380 nm 1750 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4849 mm",
+        "LARGEUR": "1868 mm",
+        "HAUTEUR": "1463 mm",
+        "VOLUME DU COFFRE": "608 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.4 s",
+        "VITESSE MAXI": "215 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "RADAR DE STATIONNEMENT": "Arrière"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Commande vocale",
+        "ECRAN": "Tactile | 7 pouces",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Velours",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées | Athermiques",
+        "VOLANT": "Cuir",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "Cartographie Tunisienne",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "MODES DE CONDUITE": "Normal | Confort | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-trafic-1.6-l-diesel-1.webp",
+    "Nom": "RENAULT TRAFIC",
+    "Brand": "RENAULT",
+    "Model": "TRAFIC",
+    "Version": "1.6 L DIESEL",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes vitrées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5399 mm",
+        "LARGEUR": "1959 mm",
+        "HAUTEUR": "1953 mm"
+    },
+    "Performances": {
+        "VITESSE MAXI": "171 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.5 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-austral-1.3-l-1.webp",
+    "Nom": "RENAULT AUSTRAL",
+    "Brand": "RENAULT",
+    "Model": "AUSTRAL",
+    "Version": "1.3 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 2800 tr/min",
+        "CYLINDRÉE": "1332 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4505 mm",
+        "LARGEUR": "1830 mm",
+        "HAUTEUR": "1620 mm",
+        "VOLUME DU COFFRE": "575 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.3 L/100 km",
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Confort | Sport | Eco | Perso",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "12\"",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "renault-express-van-1.5-l-dci-1.webp",
+    "Nom": "RENAULT EXPRESS VAN",
+    "Brand": "RENAULT",
+    "Model": "EXPRESS VAN",
+    "Version": "1.5 L DCI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "240 nm 1750 tr/min",
+        "CYLINDRÉE": "1461 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4363 mm",
+        "LARGEUR": "1751 mm",
+        "HAUTEUR": "1842 mm",
+        "CHARGE UTILE": "750 KG",
+        "VOLUME UTILE": "3.3 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13 s",
+        "VITESSE MAXI": "163 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes sous le volant",
+        "CONNECTIVITÉ": "USB | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "Tapis de coffre PVC"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-express-combi-1.5-l-dci-1.webp",
+    "Nom": "RENAULT EXPRESS COMBI",
+    "Brand": "RENAULT",
+    "Model": "EXPRESS COMBI",
+    "Version": "1.5 L DCI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5 | 2 portes latérales coulissantes"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "95 CH",
+        "COUPLE": "240 nm 1750 tr/min",
+        "CYLINDRÉE": "1461 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4394 mm",
+        "LARGEUR": "1751 mm",
+        "HAUTEUR": "1842 mm",
+        "VOLUME DU COFFRE": "800 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13 s",
+        "VITESSE MAXI": "163 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes sous le volant",
+        "CONNECTIVITÉ": "USB | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": ""
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-master-2.3-l-8m3-1.webp",
+    "Nom": "RENAULT MASTER",
+    "Brand": "RENAULT",
+    "Model": "MASTER",
+    "Version": "2.3 L 8M3",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "2 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "125 CH",
+        "COUPLE": "310 nm 1250 tr/min",
+        "CYLINDRÉE": "2298 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5048 mm",
+        "LARGEUR": "2070 mm",
+        "HAUTEUR": "2287 mm",
+        "VOLUME UTILE": "8 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "196 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.1 L/100 km",
+        "CONSOMMATION MIXTE": "7.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-master-2.3-l-10.8-m3-1.webp",
+    "Nom": "RENAULT MASTER",
+    "Brand": "RENAULT",
+    "Model": "MASTER",
+    "Version": "2.3 L 10.8 M3",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "2 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "125 CH",
+        "COUPLE": "310 nm 1250 tr/min",
+        "CYLINDRÉE": "2298 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5548 mm",
+        "LARGEUR": "2070 mm",
+        "HAUTEUR": "2287 mm",
+        "VOLUME UTILE": "10.8 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "196 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.1 L/100 km",
+        "CONSOMMATION MIXTE": "7.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "renault-master-2.3-l-13-m3-1.webp",
+    "Nom": "RENAULT MASTER",
+    "Brand": "RENAULT",
+    "Model": "MASTER",
+    "Version": "2.3 L 13 M3",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "2 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "125 CH",
+        "COUPLE": "310 nm 1250 tr/min",
+        "CYLINDRÉE": "2298 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "6198 mm",
+        "LARGEUR": "2070 mm",
+        "HAUTEUR": "2475 mm",
+        "VOLUME UTILE": "13 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "196 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.1 L/100 km",
+        "CONSOMMATION MIXTE": "7.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
     "Apple CarPlay": false,
     "Android Auto": false
 },
