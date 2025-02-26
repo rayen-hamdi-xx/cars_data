@@ -35507,3 +35507,4177 @@
     "Apple CarPlay": false,
     "Android Auto": false
 },
+{
+    "Image": "peugeot-208-1.2-l-active-1.webp",
+    "Nom": "PEUGEOT 208",
+    "Brand": "PEUGEOT",
+    "Model": "208",
+    "Version": "1.2 L ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "118 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4055 mm",
+        "LARGEUR": "1745 mm",
+        "HAUTEUR": "1430 mm",
+        "VOLUME DU COFFRE": "310 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "174 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-208-1.2-l-active-pack-1.webp",
+    "Nom": "PEUGEOT 208",
+    "Brand": "PEUGEOT",
+    "Model": "208",
+    "Version": "1.2 L ACTIVE PACK",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "118 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4055 mm",
+        "LARGEUR": "1745 mm",
+        "HAUTEUR": "1430 mm",
+        "VOLUME DU COFFRE": "310 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "174 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Croûte de cuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-208-1.2-l-puretech-130-ch-bva-allure-1.webp",
+    "Nom": "PEUGEOT 208",
+    "Brand": "PEUGEOT",
+    "Model": "208",
+    "Version": "1.2 L PURETECH 130 CH BVA ALLURE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4055 mm",
+        "LARGEUR": "1745 mm",
+        "HAUTEUR": "1430 mm",
+        "VOLUME DU COFFRE": "310 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.7 s",
+        "VITESSE MAXI": "203 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4 L/100 km",
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Similicuir/Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "Hill assist",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-208-1.2-l-active-2.webp",
+    "Nom": "PEUGEOT 208",
+    "Brand": "PEUGEOT",
+    "Model": "208",
+    "Version": "1.2 L ACTIVE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "118 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4055 mm",
+        "LARGEUR": "1745 mm",
+        "HAUTEUR": "1430 mm",
+        "VOLUME DU COFFRE": "352 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "174 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "16'' | Bi-ton",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu | Surpiqures",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 3.5''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec capuchons noirs | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-208-populaire-1.2-l-like-1.webp",
+    "Nom": "PEUGEOT 208 POPULAIRE",
+    "Brand": "PEUGEOT",
+    "Model": "208 POPULAIRE",
+    "Version": "1.2 L LIKE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "68 CH",
+        "COUPLE": "107 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3973 mm",
+        "LARGEUR": "1829 mm",
+        "HAUTEUR": "1460 mm",
+        "VOLUME DU COFFRE": "285 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.3 s",
+        "VITESSE MAXI": "162 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4 L/100 km",
+        "CONSOMMATION MIXTE": "4.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Arrières",
+        "JANTES": "15''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes sous le volant",
+        "CONNECTIVITÉ": "Bluetooth | AUX",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-208-populaire-1.2-l-like-2.webp",
+    "Nom": "PEUGEOT 208 POPULAIRE",
+    "Brand": "PEUGEOT",
+    "Model": "208 POPULAIRE",
+    "Version": "1.2 L LIKE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "118 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4055 mm",
+        "LARGEUR": "1745 mm",
+        "HAUTEUR": "1430 mm",
+        "VOLUME DU COFFRE": "310 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "174 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs | Commandes sous le volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 5 pouces"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Arrières",
+        "JANTES": "15''",
+        "PEINTURE": "Métallisée +590 DT"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Confort",
+        "VITRES": "Teintées",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-2008-1.2-l-puretech-100-active-pack-1.webp",
+    "Nom": "PEUGEOT 2008",
+    "Brand": "PEUGEOT",
+    "Model": "2008",
+    "Version": "1.2 L PURETECH 100 ACTIVE PACK",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "205 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4300 mm",
+        "LARGEUR": "1770 mm",
+        "HAUTEUR": "1530 mm",
+        "VOLUME DU COFFRE": "405 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.9 s",
+        "VITESSE MAXI": "188 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.6 L/100 km",
+        "EMISSIONS DE CO2": "105 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-2008-1.2-l-puretech-100-allure-1.webp",
+    "Nom": "PEUGEOT 2008",
+    "Brand": "PEUGEOT",
+    "Model": "2008",
+    "Version": "1.2 L PURETECH 100 ALLURE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "205 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4300 mm",
+        "LARGEUR": "1770 mm",
+        "HAUTEUR": "1530 mm",
+        "VOLUME DU COFFRE": "405 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.9 s",
+        "VITESSE MAXI": "188 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.6 L/100 km",
+        "EMISSIONS DE CO2": "105 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17'' | Bi-ton",
+        "PHARES": "LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Confort",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit | 3D",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-2008-1.2-l-puretech-130-bva-active-pack-1.webp",
+    "Nom": "PEUGEOT 2008",
+    "Brand": "PEUGEOT",
+    "Model": "2008",
+    "Version": "1.2 L PURETECH 130 BVA ACTIVE PACK",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4300 mm",
+        "LARGEUR": "1770 mm",
+        "HAUTEUR": "1530 mm",
+        "VOLUME DU COFFRE": "405 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.1 s",
+        "VITESSE MAXI": "198 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.9 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km",
+        "EMISSIONS DE CO2": "109 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-2008-1.2-l-puretech-130-bva-allure-1.webp",
+    "Nom": "PEUGEOT 2008",
+    "Brand": "PEUGEOT",
+    "Model": "2008",
+    "Version": "1.2 L PURETECH 130 BVA ALLURE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4300 mm",
+        "LARGEUR": "1770 mm",
+        "HAUTEUR": "1530 mm",
+        "VOLUME DU COFFRE": "405 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.1 s",
+        "VITESSE MAXI": "198 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.9 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km",
+        "EMISSIONS DE CO2": "109 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17'' | Bi-ton",
+        "PHARES": "LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Confort",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit | 3D",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-2008-1.2-l-puretech-130-active-bva-2.webp",
+    "Nom": "PEUGEOT 2008",
+    "Brand": "PEUGEOT",
+    "Model": "2008",
+    "Version": "1.2 L PURETECH 130 ACTIVE BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4304 mm",
+        "LARGEUR": "1550 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "434 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.1 s",
+        "VITESSE MAXI": "198 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.5 L/100 km",
+        "EMISSIONS DE CO2": "148 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Signature LED | LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "INSTRUMENTATION DIGITALE": "i-cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-2008-1.2-l-puretech-130-allure-bva-2.webp",
+    "Nom": "PEUGEOT 2008",
+    "Brand": "PEUGEOT",
+    "Model": "2008",
+    "Version": "1.2 L PURETECH 130 ALLURE BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4304 mm",
+        "LARGEUR": "1550 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "434 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.1 s",
+        "VITESSE MAXI": "198 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.5 L/100 km",
+        "EMISSIONS DE CO2": "148 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17'' | Bi-ton",
+        "PHARES": "Signature LED | LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Confort",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "i-cockpit | 10 pouces",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-301-1.2-l-active-1.webp",
+    "Nom": "PEUGEOT 301",
+    "Brand": "PEUGEOT",
+    "Model": "301",
+    "Version": "1.2 L ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "82 CH",
+        "COUPLE": "118 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4442 mm",
+        "LARGEUR": "1748 mm",
+        "HAUTEUR": "1466 mm",
+        "VOLUME DU COFFRE": "506 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.9 s",
+        "VITESSE MAXI": "169 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant",
+        "JANTES": "15''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes sous le volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-308-1.2-l-110-ch-puretech-active-1.webp",
+    "Nom": "PEUGEOT 308",
+    "Brand": "PEUGEOT",
+    "Model": "308",
+    "Version": "1.2 L 110 CH PURETECH ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "205 nm 1500 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4253 mm",
+        "LARGEUR": "1863 mm",
+        "HAUTEUR": "1457 mm",
+        "VOLUME DU COFFRE": "420 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.1 s",
+        "VITESSE MAXI": "188 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.4 L/100 km",
+        "CONSOMMATION MIXTE": "4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 9.7 pouces",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "3 branches | Cuir",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-308-1.2-l-110-ch-puretech-active-pack-1.webp",
+    "Nom": "PEUGEOT 308",
+    "Brand": "PEUGEOT",
+    "Model": "308",
+    "Version": "1.2 L 110 CH PURETECH ACTIVE PACK",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "205 nm 1500 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4253 mm",
+        "LARGEUR": "1863 mm",
+        "HAUTEUR": "1457 mm",
+        "VOLUME DU COFFRE": "420 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.1 s",
+        "VITESSE MAXI": "188 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.4 L/100 km",
+        "CONSOMMATION MIXTE": "4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile | 9.7 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire | Confort",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | 3 branches",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-308-1.2-l-130-ch-puretech-allure-bva-1.webp",
+    "Nom": "PEUGEOT 308",
+    "Brand": "PEUGEOT",
+    "Model": "308",
+    "Version": "1.2 L 130 CH PURETECH ALLURE BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4253 mm",
+        "LARGEUR": "1863 mm",
+        "HAUTEUR": "1457 mm",
+        "VOLUME DU COFFRE": "420 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.1 s",
+        "VITESSE MAXI": "206 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4 L/100 km",
+        "CONSOMMATION MIXTE": "4.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | Wifi | Mirrorlink",
+        "ECRAN": "Tactile | 9.7 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Réglage lombaire | Sport",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | 3 branches",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-308-1.2-l-puretech-130-ch-allure-eat8-2.webp",
+    "Nom": "PEUGEOT 308",
+    "Brand": "PEUGEOT",
+    "Model": "308",
+    "Version": "1.2 L PURETECH 130 CH ALLURE EAT8",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4370 mm",
+        "LARGEUR": "1850 mm",
+        "HAUTEUR": "1440 mm",
+        "VOLUME DU COFFRE": "412 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB-C | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Noir Brillant",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Eco LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Croûte de cuir",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-208-gt-line-1.2-l-puretech-130-ch-eat-6-1.webp",
+    "Nom": "PEUGEOT 208 GT-LINE",
+    "Brand": "PEUGEOT",
+    "Model": "208 GT-LINE",
+    "Version": "1.2 L PURETECH 130 CH EAT 6",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4055 mm",
+        "LARGEUR": "1745 mm",
+        "HAUTEUR": "1430 mm",
+        "VOLUME DU COFFRE": "310 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.7 s",
+        "VITESSE MAXI": "203 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4 L/100 km",
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | Apple Carplay | Android Auto | Mirrorlink",
+        "ECRAN": "Tactile | 7 pouces",
+        "LUMIÈRES D'AMBIANCE": "",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Dynamic",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-3008-1.2-l-130-ch-eat6-allure-1.webp",
+    "Nom": "PEUGEOT 3008",
+    "Brand": "PEUGEOT",
+    "Model": "3008",
+    "Version": "1.2 L 130 CH EAT6 ALLURE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4447 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1620 mm",
+        "VOLUME DU COFFRE": "520 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.8 s",
+        "VITESSE MAXI": "188 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.7 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar avant | Radar arrière | Caméra de recul",
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Wifi | Chargeur de téléphone sans fil | Mirrorlink",
+        "ECRAN": "Tactile | 8 pouces",
+        "SELLERIE": "Similicuir",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Sport"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "Cartographie Tunisienne",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "PALETTES AU VOLANT": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit | Dalle Numérique Haute Définition",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-3008-1.6-l-thp-s&s;-eat6-allure-1.webp",
+    "Nom": "PEUGEOT 3008",
+    "Brand": "PEUGEOT",
+    "Model": "3008",
+    "Version": "1.6 L THP S&S; EAT6 ALLURE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "165 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4447 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1620 mm",
+        "VOLUME DU COFFRE": "520 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "206 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée",
+        "RADAR DE STATIONNEMENT": "Arrière | Avant"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Wifi | Mirrorlink",
+        "ECRAN": "Tactile | 8 pouces",
+        "SELLERIE": "Similicuir",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Sport"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "",
+        "CAMÉRA DE RECUL": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "Cartographie Tunisienne",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "PALETTES AU VOLANT": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit | Dalle Numérique Haute Définition",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-3008-1.6-l-allure-bva-2.webp",
+    "Nom": "PEUGEOT 3008",
+    "Brand": "PEUGEOT",
+    "Model": "3008",
+    "Version": "1.6 L ALLURE BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "165 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4447 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1620 mm",
+        "VOLUME DU COFFRE": "520 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "206 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 8 pouces",
+        "NAVIGATION": "Cartographie Tunisienne"
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "FINITION INTÉRIEURE": "Textile Brumeo",
+        "SELLERIE": "Similicuir/Tissu | Surpiqures",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions | Sport | à méplat | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Confort | Sport | Grip Control",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION DIGITALE": "i-cockpit | Dalle Numérique Haute Définition",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-308-gt-1.2-l-puretech-130-ch-bva-1.webp",
+    "Nom": "PEUGEOT 308 GT",
+    "Brand": "PEUGEOT",
+    "Model": "308 GT",
+    "Version": "1.2 L PURETECH 130 CH BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4370 mm",
+        "LARGEUR": "1850 mm",
+        "HAUTEUR": "1440 mm",
+        "VOLUME DU COFFRE": "412 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "AIDE AU MAINTIEN DANS LA VOIE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": "",
+        "RECONNAISSANCE DES PANNEAUX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Détection du trafic en marche arrière",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Noir Brillant",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "Bluetooth | Mirrorlink | 2 USB-C",
+        "ECRAN": "Tactile | 10 pouces",
+        "KIT ÉCLAIRAGE": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "SELLERIE": "Alcantara | Mi-TEP",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Sport"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "Hill assist",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Sport",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "RÉGULATEUR DE VITESSE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-2008-gt-1.2-l-puretech-130-bva-1.webp",
+    "Nom": "PEUGEOT 2008 GT",
+    "Brand": "PEUGEOT",
+    "Model": "2008 GT",
+    "Version": "1.2 L PURETECH 130 BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4304 mm",
+        "LARGEUR": "1550 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "434 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.1 s",
+        "VITESSE MAXI": "198 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.9 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km",
+        "EMISSIONS DE CO2": "109 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Chargeur de téléphone sans fil | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17'' | Bi-ton",
+        "PEINTURE": "Bi-ton",
+        "PHARES": "Full LED | Signature LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Confort",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Sport",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "i-cockpit | 10 pouces",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-408-1.6-l-allure-eat8-1.webp",
+    "Nom": "PEUGEOT 408",
+    "Brand": "PEUGEOT",
+    "Model": "408",
+    "Version": "1.6 L ALLURE EAT8",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "13 CV",
+        "PUISSANCE (CH.DIN)": "215 CH",
+        "COUPLE": "300 nm 2000 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4687 mm",
+        "LARGEUR": "1848 mm",
+        "HAUTEUR": "1480 mm",
+        "VOLUME DU COFFRE": "536 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "220 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.7 L/100 km",
+        "CONSOMMATION MIXTE": "7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Caméra de recul",
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED | Signature LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "Android Auto | 4 USB-C | Apple Carplay | Bluetooth | Commande vocale | Mirrorlink",
+        "ECRAN": "Tactile | 10 pouces",
+        "KIT RANGEMENT": "Poches aumônières",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Mi-TEP",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions | Croûte de cuir | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "Hill assist",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Confort | Sport",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit | Dalle Numérique Haute Définition",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "SYSTÈME DE DESCENTE EN CÔTE": "HDC",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-408-1.6-l-allure-pack-eat8-1.webp",
+    "Nom": "PEUGEOT 408",
+    "Brand": "PEUGEOT",
+    "Model": "408",
+    "Version": "1.6 L ALLURE PACK EAT8",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "13 CV",
+        "PUISSANCE (CH.DIN)": "215 CH",
+        "COUPLE": "300 nm 2000 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4687 mm",
+        "LARGEUR": "1848 mm",
+        "HAUTEUR": "1480 mm",
+        "VOLUME DU COFFRE": "536 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "220 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.7 L/100 km",
+        "CONSOMMATION MIXTE": "7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE": "Électronique",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "4 USB-C | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED | Signature LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT RANGEMENT": "Poches aumônières",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Mi-TEP",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions | Croûte de cuir | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager"
+    },
+    "Equipements fonctionnels": {
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Confort | Sport",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit | Dalle Numérique Haute Définition",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-408-gt-1.6-l-eat8-1.webp",
+    "Nom": "PEUGEOT 408 GT",
+    "Brand": "PEUGEOT",
+    "Model": "408 GT",
+    "Version": "1.6 L EAT8",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "13 CV",
+        "PUISSANCE (CH.DIN)": "215 CH",
+        "COUPLE": "300 nm 2000 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4687 mm",
+        "LARGEUR": "1848 mm",
+        "HAUTEUR": "1480 mm",
+        "VOLUME DU COFFRE": "536 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "220 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.7 L/100 km",
+        "CONSOMMATION MIXTE": "7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "Android Auto | 4 USB-C | Apple Carplay | Bluetooth | Commande vocale | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PHARES": "Full LED | Signature LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT RANGEMENT": "Poches aumônières",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Alcantara | Mi-TEP",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | +5000 DT",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Chauffant | Multi-fonctions | Cuir Perforé | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Confort | Sport",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION DIGITALE": "i-cockpit | Dalle Numérique Haute Définition",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-5008-1.6l-thp-163ch-bva-allure-1.webp",
+    "Nom": "PEUGEOT 5008",
+    "Brand": "PEUGEOT",
+    "Model": "5008",
+    "Version": "1.6L THP 163CH BVA ALLURE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "163 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4641 mm",
+        "LARGEUR": "1906 mm",
+        "HAUTEUR": "1646 mm",
+        "VOLUME DU COFFRE": "780 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "206 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant",
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "Aluminium",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Commande vocale | Wifi | Mirrorlink",
+        "ECRAN": "8 pouces",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières",
+        "VITRES": "Lunette et vitres arrières sur-teintées"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-5008-1.6l-thp-163ch-bva-allure-2.webp",
+    "Nom": "PEUGEOT 5008",
+    "Brand": "PEUGEOT",
+    "Model": "5008",
+    "Version": "1.6L THP 163CH BVA ALLURE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "163 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4641 mm",
+        "LARGEUR": "1906 mm",
+        "HAUTEUR": "1646 mm",
+        "VOLUME DU COFFRE": "780 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "206 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "Aluminium",
+        "FEUX À LED": "Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Similicuir/Tissu",
+        "SEUILS DE PORTES": "Aluminium",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Grip Control",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "RÉGULATEUR DE VITESSE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SYSTÈME DE DESCENTE EN CÔTE": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-3008-gt-line-1.6l-thp-s&s;-eat6-1.webp",
+    "Nom": "PEUGEOT 3008 GT-LINE",
+    "Brand": "PEUGEOT",
+    "Model": "3008 GT-LINE",
+    "Version": "1.6L THP S&S; EAT6",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "165 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4447 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1620 mm",
+        "VOLUME DU COFFRE": "520 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "206 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Grille GT",
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Wifi | Chargeur de téléphone sans fil | Mirrorlink",
+        "ECRAN": "Tactile | 8 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques | Massants | Réglage lombaire | Fonction mémoire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "3 branches | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture électriques | Ouverture mains libres",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "Cartographie Tunisienne",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Confort | Sport",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit | Dalle Numérique Haute Définition",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-3008-gt-1.6l-bva-2.webp",
+    "Nom": "PEUGEOT 3008 GT",
+    "Brand": "PEUGEOT",
+    "Model": "3008 GT",
+    "Version": "1.6L BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "165 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4447 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1620 mm",
+        "VOLUME DU COFFRE": "520 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "206 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 10.1 pouces",
+        "NAVIGATION": "Cartographie Tunisienne"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Grille GT",
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "FINITION INTÉRIEURE": "Alcantara",
+        "SELLERIE": "Alcantara | Similicuir | Surpiqures",
+        "SIÈGES": "Conducteur à réglage électrique | 8 directions | Chauffants | Massants | Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Multi-fonctions | Sport | à méplat | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Confort | Sport | Grip Control",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement | Sans Cadre",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION DIGITALE": "i-cockpit | Dalle Numérique Haute Définition",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-5008-gt-line-1.6l-thp-163ch-bva-1.webp",
+    "Nom": "PEUGEOT 5008 GT-LINE",
+    "Brand": "PEUGEOT",
+    "Model": "5008 GT-LINE",
+    "Version": "1.6L THP 163CH BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "163 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4641 mm",
+        "LARGEUR": "1906 mm",
+        "HAUTEUR": "1646 mm",
+        "VOLUME DU COFFRE": "780 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "206 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "DÉTECTEUR DE FATIGUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant",
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "Aluminium",
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "GT-Line",
+        "PEINTURE": "Métallisée | Bi-ton",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Commande vocale | Wifi | Mirrorlink",
+        "ECRAN": "8 pouces",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Conducteur à réglage électrique | 8 directions | Chauffants | Réglage lombaire | Fonction mémoire",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture électriques | Ouverture mains libres | Ouverture à distance",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Grip Control",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME DE DESCENTE EN CÔTE": "",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit Amplify"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-5008-gt-1.6l-thp-163ch-bva-2.webp",
+    "Nom": "PEUGEOT 5008 GT",
+    "Brand": "PEUGEOT",
+    "Model": "5008 GT",
+    "Version": "1.6L THP 163CH BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "163 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4641 mm",
+        "LARGEUR": "1906 mm",
+        "HAUTEUR": "1646 mm",
+        "VOLUME DU COFFRE": "780 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "206 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Commande vocale | Wifi | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10.1 pouces",
+        "NAVIGATION": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "Aluminium",
+        "FEUX À LED": "Avant | Arrières | Clignotants à défilement",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Alcantara | Similicuir",
+        "SEUILS DE PORTES": "Aluminium",
+        "SIÈGES": "Conducteur à réglage électrique | Chauffants | Réglage lombaire | Fonction mémoire",
+        "STORES PARE-SOLEIL": "Pour vitres de portes arrières",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Grip Control",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-508-1.6-thp-eat6-allure-1.webp",
+    "Nom": "PEUGEOT 508",
+    "Brand": "PEUGEOT",
+    "Model": "508",
+    "Version": "1.6 THP EAT6 ALLURE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "165 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4750 mm",
+        "LARGEUR": "1859 mm",
+        "HAUTEUR": "1403 mm",
+        "VOLUME DU COFFRE": "487 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "7.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESC | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU | Active City Brake",
+        "ASSISTANCE AU MAINTIEN DE LIGNE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DSC": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Aluminium",
+        "CALANDRE": "Chromée | Noire",
+        "JANTES": "En aluminium | 18''",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Mirrorlink",
+        "ECRAN": "Tactile | 10.1 pouces",
+        "FINITION INTÉRIEURE": "Aspect Carbone",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-508-gt-line-1.6-thp-eat6-1.webp",
+    "Nom": "PEUGEOT 508 GT LINE",
+    "Brand": "PEUGEOT",
+    "Model": "508 GT LINE",
+    "Version": "1.6 THP EAT6",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "165 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4750 mm",
+        "LARGEUR": "1859 mm",
+        "HAUTEUR": "1403 mm",
+        "VOLUME DU COFFRE": "487 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "7.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESC | ASR",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU FREINAGE": "AFU | Active City Brake",
+        "ASSISTANCE AU MAINTIEN DE LIGNE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DSC": "",
+        "DÉTECTEUR DE FATIGUE": "Attention Assist",
+        "FIXATIONS ISOFIX": "",
+        "RECONNAISSANCE DES PANNEAUX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Aluminium",
+        "CALANDRE": "Chromée | Damier",
+        "JANTES": "En aluminium | 19''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Mirrorlink",
+        "ECRAN": "Tactile | 10.1 pouces",
+        "FINITION INTÉRIEURE": "Aspect Carbone",
+        "SELLERIE": "Similicuir/Tissu",
+        "SEUILS DE PORTES": "Acier inoxydable",
+        "SIÈGES": "Électriques | Réglage lombaire | Sport",
+        "TAPIS DE SOL": "Avec Surpiqures",
+        "TABLEAU DE BORD": "Cuir",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture électriques | Ouverture mains libres",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Photosensibles | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement | Sans Cadre",
+        "INSTRUMENTATION NUMÉRIQUE": "i-cockpit Amplify",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-rifter-1.6-l-diesel-1.webp",
+    "Nom": "PEUGEOT RIFTER",
+    "Brand": "PEUGEOT",
+    "Model": "RIFTER",
+    "Version": "1.6 L DIESEL",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5 | 2 portes latérales coulissantes"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "185 nm 1500 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4403 mm",
+        "LARGEUR": "1848 mm",
+        "HAUTEUR": "1878 mm",
+        "VOLUME DU COFFRE": "775 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "182 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.1 L/100 km",
+        "CONSOMMATION MIXTE": "5.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes sous le volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-rifter-1.6-l-hdi-90ch-active-pack-1.webp",
+    "Nom": "PEUGEOT RIFTER",
+    "Brand": "PEUGEOT",
+    "Model": "RIFTER",
+    "Version": "1.6 L HDI 90CH ACTIVE PACK",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5 | 2 portes latérales coulissantes"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "90 CH",
+        "COUPLE": "230 nm 1500 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4403 mm",
+        "LARGEUR": "1848 mm",
+        "HAUTEUR": "1878 mm",
+        "VOLUME DU COFFRE": "775 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.9 s",
+        "VITESSE MAXI": "182 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.1 L/100 km",
+        "CONSOMMATION MIXTE": "5.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes sous le volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-traveller-2.0-l-hdi-9-places-1.webp",
+    "Nom": "PEUGEOT TRAVELLER",
+    "Brand": "PEUGEOT",
+    "Model": "TRAVELLER",
+    "Version": "2.0 L HDI 9 PLACES",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "9",
+        "NOMBRE DE PORTES": "5 | 1 porte latérale coulissante"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "370 nm 2000 tr/min",
+        "CYLINDRÉE": "1997 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4956 mm",
+        "LARGEUR": "1920 mm",
+        "HAUTEUR": "1890 mm",
+        "VOLUME DU COFFRE": "507 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km",
+        "EMISSIONS DE CO2": "139 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes sous le volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "SELLERIE": "Tissu",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-partner-1.6-l-hdi-90ch-650-kg-1.webp",
+    "Nom": "PEUGEOT PARTNER",
+    "Brand": "PEUGEOT",
+    "Model": "PARTNER",
+    "Version": "1.6 L HDI 90CH 650 KG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "90 CH",
+        "COUPLE": "215 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4403 mm",
+        "LARGEUR": "1848 mm",
+        "HAUTEUR": "1825 mm",
+        "CHARGE UTILE": "650 KG",
+        "VOLUME UTILE": "3.3 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "15''",
+        "PEINTURE": "Métallisée +500 DT"
+    },
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "Tapis de coffre PVC"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-partner-1.6-l-hdi-90ch-1000-kg-1.webp",
+    "Nom": "PEUGEOT PARTNER",
+    "Brand": "PEUGEOT",
+    "Model": "PARTNER",
+    "Version": "1.6 L HDI 90CH 1000 KG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "90 CH",
+        "COUPLE": "215 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4403 mm",
+        "LARGEUR": "1848 mm",
+        "HAUTEUR": "1825 mm",
+        "CHARGE UTILE": "1000 KG",
+        "VOLUME UTILE": "3.3 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "16''",
+        "PEINTURE": "Métallisée +500 DT"
+    },
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "Tapis de coffre PVC"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-partner-1.6-l-hdi-650-kg-2.webp",
+    "Nom": "PEUGEOT PARTNER",
+    "Brand": "PEUGEOT",
+    "Model": "PARTNER",
+    "Version": "1.6 L HDI 650 KG",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "215 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4403 mm",
+        "LARGEUR": "1848 mm",
+        "HAUTEUR": "1825 mm",
+        "CHARGE UTILE": "650 KG",
+        "VOLUME UTILE": "3.3 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Radio numérique DAB",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "Tapis de coffre PVC",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-partner-1.6-l-hdi-1000-kg-2.webp",
+    "Nom": "PEUGEOT PARTNER",
+    "Brand": "PEUGEOT",
+    "Model": "PARTNER",
+    "Version": "1.6 L HDI 1000 KG",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "215 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4403 mm",
+        "LARGEUR": "1848 mm",
+        "HAUTEUR": "1825 mm",
+        "CHARGE UTILE": "1000 KG",
+        "VOLUME UTILE": "3.3 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes sous le volant | Radio numérique DAB",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Commande vocale | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "Tapis de coffre PVC",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "peugeot-expert-combi-2.0-l-hdi-9-places-2.webp",
+    "Nom": "PEUGEOT EXPERT COMBI",
+    "Brand": "PEUGEOT",
+    "Model": "EXPERT COMBI",
+    "Version": "2.0 L HDI 9 PLACES",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "9",
+        "NOMBRE DE PORTES": "5 | 1 porte latérale coulissante"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "370 nm 2000 tr/min",
+        "CYLINDRÉE": "1997 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4956 mm",
+        "LARGEUR": "1920 mm",
+        "HAUTEUR": "1890 mm",
+        "VOLUME DU COFFRE": "N.C"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.3 s",
+        "VITESSE MAXI": "185 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km",
+        "EMISSIONS DE CO2": "142 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-expert-2.0-l-hdi-1.webp",
+    "Nom": "PEUGEOT EXPERT",
+    "Brand": "PEUGEOT",
+    "Model": "EXPERT",
+    "Version": "2.0 L HDI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "370 nm 2000 tr/min",
+        "CYLINDRÉE": "1997 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5309 mm",
+        "LARGEUR": "1920 mm",
+        "HAUTEUR": "1935 mm",
+        "CHARGE UTILE": "1000 KG",
+        "VOLUME UTILE": "5.3 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16''",
+        "PEINTURE": "Métallisée +1000 DT"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-boxer-335-l1h1-fourgon-1.webp",
+    "Nom": "PEUGEOT BOXER",
+    "Brand": "PEUGEOT",
+    "Model": "BOXER",
+    "Version": "335 L1H1 FOURGON",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "2198 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "CHARGE UTILE": "1140 KG",
+        "VOLUME UTILE": "8 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "N.C"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "VITRES ÉLECTRIQUES": "Avant",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-boxer-335-l2h2-fourgon-1.webp",
+    "Nom": "PEUGEOT BOXER",
+    "Brand": "PEUGEOT",
+    "Model": "BOXER",
+    "Version": "335 L2H2 FOURGON",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "2198 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "CHARGE UTILE": "1140 KG",
+        "VOLUME UTILE": "8 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": null,
+    "Equipements de sécurité": {
+        "ABS": "",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "VITRES ÉLECTRIQUES": "Avant",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-boxer-335-l3h2-fourgon-1.webp",
+    "Nom": "PEUGEOT BOXER",
+    "Brand": "PEUGEOT",
+    "Model": "BOXER",
+    "Version": "335 L3H2 FOURGON",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "2198 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "CHARGE UTILE": "1470 KG",
+        "VOLUME UTILE": "13 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "N.C"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "VITRES ÉLECTRIQUES": "Avant",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-boxer-double-cabine-plateau-350-l2-1.webp",
+    "Nom": "BOXER DOUBLE CABINE",
+    "Brand": "PEUGEOT",
+    "Model": "BOXER DOUBLE CABINE",
+    "Version": "PLATEAU 350 L2",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "4 | 1 porte latérale coulissante | 2 portes arrières battantes vitrées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "340 nm 1750 tr/min",
+        "CYLINDRÉE": "2179 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "CHARGE UTILE": "N.C"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "N.C"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": null,
+    "Equipements intérieurs": {
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-landtrek-simple-cabine-1.9-l-diesel-4x2-benne-tôle-pliée-1.webp",
+    "Nom": "LANDTREK SIMPLE CABINE",
+    "Brand": "PEUGEOT",
+    "Model": "LANDTREK SIMPLE CABINE",
+    "Version": "1.9 L DIESEL 4X2 BENNE TÔLE PLIÉE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "2"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "350 nm 1800 tr/min",
+        "CYLINDRÉE": "1910 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5390 mm",
+        "LARGEUR": "1963 mm",
+        "HAUTEUR": "1829 mm",
+        "CHARGE UTILE": "1000 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.9 s",
+        "VITESSE MAXI": "172 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "7.8 L/100 km",
+        "EMISSIONS DE CO2": "206 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec capuchons noirs",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-landtrek-simple-cabine-1.9-l-diesel-4x2-1.webp",
+    "Nom": "LANDTREK SIMPLE CABINE",
+    "Brand": "PEUGEOT",
+    "Model": "LANDTREK SIMPLE CABINE",
+    "Version": "1.9 L DIESEL 4X2",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "2"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "350 nm 1800 tr/min",
+        "CYLINDRÉE": "1910 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5390 mm",
+        "LARGEUR": "1963 mm",
+        "HAUTEUR": "1829 mm",
+        "CHARGE UTILE": "1000 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.9 s",
+        "VITESSE MAXI": "172 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "7.8 L/100 km",
+        "EMISSIONS DE CO2": "206 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec capuchons noirs",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-landtrek-double-cabine-1.9-l-diesel-4x2-1.webp",
+    "Nom": "LANDTREK DOUBLE CABINE",
+    "Brand": "PEUGEOT",
+    "Model": "LANDTREK DOUBLE CABINE",
+    "Version": "1.9 L DIESEL 4X2",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "350 nm 1800 tr/min",
+        "CYLINDRÉE": "1910 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5330 mm",
+        "LARGEUR": "1963 mm",
+        "HAUTEUR": "1897 mm",
+        "CHARGE UTILE": "1000 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.9 s",
+        "VITESSE MAXI": "172 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "7.8 L/100 km",
+        "EMISSIONS DE CO2": "206 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-landtrek-double-cabine-1.9-l-diesel-4x4-1.webp",
+    "Nom": "LANDTREK DOUBLE CABINE",
+    "Brand": "PEUGEOT",
+    "Model": "LANDTREK DOUBLE CABINE",
+    "Version": "1.9 L DIESEL 4X4",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "350 nm 1800 tr/min",
+        "CYLINDRÉE": "1910 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5330 mm",
+        "LARGEUR": "1963 mm",
+        "HAUTEUR": "1897 mm",
+        "CHARGE UTILE": "900 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.8 s",
+        "VITESSE MAXI": "171 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "8.1 L/100 km",
+        "EMISSIONS DE CO2": "212 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "JANTES": "17''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "peugeot-landtrek-double-cabine-1.9-l-diesel-4x4-u-1.webp",
+    "Nom": "LANDTREK DOUBLE CABINE",
+    "Brand": "PEUGEOT",
+    "Model": "LANDTREK DOUBLE CABINE",
+    "Version": "1.9 L DIESEL 4X4 U",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "350 nm 1800 tr/min",
+        "CYLINDRÉE": "1910 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5330 mm",
+        "LARGEUR": "1963 mm",
+        "HAUTEUR": "1897 mm",
+        "CHARGE UTILE": "900 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.8 s",
+        "VITESSE MAXI": "171 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "8.1 L/100 km",
+        "EMISSIONS DE CO2": "212 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "2 USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Rétroviseurs",
+        "JANTES": "En aluminium | 17''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu | Mi-TEP",
+        "TAPIS DE SOL": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
