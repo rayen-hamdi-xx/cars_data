@@ -39681,3 +39681,1583 @@
     "Apple CarPlay": false,
     "Android Auto": false
 },
+{
+    "Image": "opel-corsa-1.2-l-edition-1.webp",
+    "Nom": "OPEL CORSA",
+    "Brand": "OPEL",
+    "Model": "CORSA",
+    "Version": "1.2 L EDITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "118 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4060 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1433 mm",
+        "VOLUME DU COFFRE": "309 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "174 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "4.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.7 L/100 km",
+        "CONSOMMATION MIXTE": "4.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Tissu",
+        "VITRES": "Teintées",
+        "VOLANT": "3 branches | Multi-fonctions | Sport",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-corsa-1.2-turbo-elegance-1.webp",
+    "Nom": "OPEL CORSA",
+    "Brand": "OPEL",
+    "Model": "CORSA",
+    "Version": "1.2 TURBO ELEGANCE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "205 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4060 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1433 mm",
+        "VOLUME DU COFFRE": "309 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "188 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "AIDE AU MAINTIEN DANS LA VOIE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "RECONNAISSANCE DES PANNEAUX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Similicuir/Tissu",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | Sport | à méplat",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "INSTRUMENTATION NUMÉRIQUE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-corsa-1.2-turbo-edition-2.webp",
+    "Nom": "OPEL CORSA",
+    "Brand": "OPEL",
+    "Model": "CORSA",
+    "Version": "1.2 TURBO EDITION",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "205 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4060 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1433 mm",
+        "VOLUME DU COFFRE": "309 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "188 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "3 branches | Multi-fonctions | Sport | à méplat",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "7 pouces",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-corsa-1.2-turbo-gs-line-2.webp",
+    "Nom": "OPEL CORSA",
+    "Brand": "OPEL",
+    "Model": "CORSA",
+    "Version": "1.2 TURBO GS LINE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "205 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4060 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1433 mm",
+        "VOLUME DU COFFRE": "309 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "188 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Bi-ton",
+        "PHARES": "Full LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Sport",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | Sport | à méplat",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "7 pouces",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-crossland-1.2-l-business-edition-1.webp",
+    "Nom": "OPEL CROSSLAND",
+    "Brand": "OPEL",
+    "Model": "CROSSLAND",
+    "Version": "1.2 L BUSINESS EDITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "82 CH",
+        "COUPLE": "118 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4212 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1605 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.5 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ASSISTANCE AU MAINTIEN DANS LA VOIE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "16''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "KIT RANGEMENT": "Poches aumônières",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Réglage lombaire | Sport",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-crossland-1.2-l-110-ch-bva-elegance-1.webp",
+    "Nom": "OPEL CROSSLAND",
+    "Brand": "OPEL",
+    "Model": "CROSSLAND",
+    "Version": "1.2 L 110 CH BVA ELEGANCE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "205 nm 1500 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4212 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1605 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.9 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ASSISTANCE AU MAINTIEN DANS LA VOIE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul | Parkassist",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "KIT RANGEMENT": "Poches aumônières",
+        "LUMIÈRES D'AMBIANCE": "",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Réglage lombaire | Sport",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-crossland-1.2-l-110-ch-at6-edition-1.webp",
+    "Nom": "OPEL CROSSLAND",
+    "Brand": "OPEL",
+    "Model": "CROSSLAND",
+    "Version": "1.2 L 110 CH AT6 EDITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "205 nm 1500 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4212 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1605 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.9 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Contour chromé",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "16''",
+        "PHARES": "Eco LED"
+    },
+    "Equipements intérieurs": {
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-crossland-1.2-l-110-ch-at6-elegance-1.webp",
+    "Nom": "OPEL CROSSLAND",
+    "Brand": "OPEL",
+    "Model": "CROSSLAND",
+    "Version": "1.2 L 110 CH AT6 ELEGANCE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "205 nm 1500 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4212 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1605 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.9 s",
+        "VITESSE MAXI": "187 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 8 pouces",
+        "NAVIGATION": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Contour chromé",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Eco LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-mokka-1.2-l-turbo-130-ch-at8-elegance-limited-1.webp",
+    "Nom": "OPEL MOKKA",
+    "Brand": "OPEL",
+    "Model": "MOKKA",
+    "Version": "1.2 L TURBO 130 CH AT8 ELEGANCE LIMITED",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4151 mm",
+        "LARGEUR": "1791 mm",
+        "HAUTEUR": "1531 mm",
+        "VOLUME DU COFFRE": "350 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.1 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "AVERTISSEUR DE CHANGEMENT DE VOIE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "RECONNAISSANCE DES PANNEAUX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17'' | Bi-ton",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile | 10 pouces",
+        "KIT RANGEMENT": "Poches aumônières",
+        "SELLERIE": "Similicuir/Tissu",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | à méplat | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "12\"",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉGULATEUR DE VITESSE": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "opel-mokka-1.2-l-turbo-130-ch-at8-gs-line-1.webp",
+    "Nom": "OPEL MOKKA",
+    "Brand": "OPEL",
+    "Model": "MOKKA",
+    "Version": "1.2 L TURBO 130 CH AT8 GS LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4151 mm",
+        "LARGEUR": "1791 mm",
+        "HAUTEUR": "1531 mm",
+        "VOLUME DU COFFRE": "350 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.1 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "AVERTISSEUR DE CHANGEMENT DE VOIE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "RECONNAISSANCE DES PANNEAUX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Ligne de vitrage rouge",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Bi-ton",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile | 10 pouces",
+        "KIT RANGEMENT": "Poches aumônières",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Sport",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | à méplat | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "LIMITEUR DE VITESSE": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "12\"",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "RÉGULATEUR DE VITESSE": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "opel-mokka-1.2-l-turbo-130-ch-at8-gs-special-edition-1.webp",
+    "Nom": "OPEL MOKKA",
+    "Brand": "OPEL",
+    "Model": "MOKKA",
+    "Version": "1.2 L TURBO 130 CH AT8 GS SPECIAL EDITION",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4151 mm",
+        "LARGEUR": "1791 mm",
+        "HAUTEUR": "1531 mm",
+        "VOLUME DU COFFRE": "350 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.1 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces",
+        "NAVIGATION": "Cartographie Tunisienne"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Bi-ton",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "KIT RANGEMENT": "Poches aumônières",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Sport",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | à méplat | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "12\"",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "opel-astra-1.2-l-elegance-1.webp",
+    "Nom": "OPEL ASTRA",
+    "Brand": "OPEL",
+    "Model": "ASTRA",
+    "Version": "1.2 L ELEGANCE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "110 CH",
+        "COUPLE": "205 nm 1500 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4370 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1480 mm",
+        "VOLUME DU COFFRE": "370 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.4 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.8 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU FREINAGE": "EBD | Système anti-collision avec détection des piétons",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "AVERTISSEUR DE CHANGEMENT DE VOIE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "RECONNAISSANCE DES PANNEAUX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul | Parkassist",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "KIT RANGEMENT": "Poches aumônières",
+        "LUMIÈRES D'AMBIANCE": "",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-astra-1.2-l-gs-2.webp",
+    "Nom": "OPEL ASTRA",
+    "Brand": "OPEL",
+    "Model": "ASTRA",
+    "Version": "1.2 L GS",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4370 mm",
+        "LARGEUR": "1860 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "422 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant | Pure Panel",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Noir Brillant",
+        "CALANDRE": "Noire",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17'' | Noires",
+        "KIT CARROSSERIE": "Design Sport",
+        "PEINTURE": "Bi-ton",
+        "PHARES": "Eco LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT RANGEMENT": "Poches aumônières",
+        "LUMIÈRES D'AMBIANCE": "",
+        "PÉDALIERS": "Aluminium",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Conducteur à réglage électrique | 8 directions | Réglage lombaire | Sport",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec capuchons noirs",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "10 pouces",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "opel-astra-1.2-l-elegance-2.webp",
+    "Nom": "OPEL ASTRA",
+    "Brand": "OPEL",
+    "Model": "ASTRA",
+    "Version": "1.2 L ELEGANCE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4370 mm",
+        "LARGEUR": "1860 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "422 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Protège-tête",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant | Pure Panel",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Eco LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT RANGEMENT": "Poches aumônières",
+        "LUMIÈRES D'AMBIANCE": "",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Conducteur à réglage électrique | 8 directions | Réglage lombaire | Sport",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "10 pouces",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec capuchons noirs",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "opel-combo-cargo-1.6-l-diesel-confort-l1h1-650-kg-1.webp",
+    "Nom": "OPEL COMBO CARGO",
+    "Brand": "OPEL",
+    "Model": "COMBO CARGO",
+    "Version": "1.6 L DIESEL CONFORT L1H1 650 KG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4403 mm",
+        "LARGEUR": "1921 mm",
+        "HAUTEUR": "1796 mm",
+        "CHARGE UTILE": "650 KG",
+        "VOLUME UTILE": "3.3 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "177 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km",
+        "EMISSIONS DE CO2": "127 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "JANTES": "15''",
+        "PEINTURE": "Métallisée +1000 DT"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "AUTORADIO": "4 haut-parleurs",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire | Conducteur confort",
+        "TAPIS DE SOL": "Tapis de coffre PVC",
+        "VOLANT": "3 branches | Sport"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-combo-cargo-xl-1.6-l-diesel-confort-l2h1-1000-kg-1.webp",
+    "Nom": "OPEL COMBO CARGO",
+    "Brand": "OPEL",
+    "Model": "COMBO CARGO",
+    "Version": "XL 1.6 L DIESEL CONFORT L2H1 1000 KG",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4753 mm",
+        "LARGEUR": "1921 mm",
+        "HAUTEUR": "1815 mm",
+        "CHARGE UTILE": "1000 KG",
+        "VOLUME UTILE": "3.9 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "177 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km",
+        "EMISSIONS DE CO2": "127 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16''",
+        "PEINTURE": "Métallisée +1000 DT"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "AUTORADIO": "4 haut-parleurs",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire | Conducteur confort",
+        "TAPIS DE SOL": "Tapis de coffre PVC",
+        "VOLANT": "3 branches | Sport"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "opel-combo-cargo-xl-1.6-l-diesel-l2h1-1000-kg-business-edition-2.webp",
+    "Nom": "OPEL COMBO CARGO",
+    "Brand": "OPEL",
+    "Model": "COMBO CARGO",
+    "Version": "XL 1.6 L DIESEL L2H1 1000 KG BUSINESS EDITION",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4753 mm",
+        "LARGEUR": "1921 mm",
+        "HAUTEUR": "1815 mm",
+        "CHARGE UTILE": "1000 KG",
+        "VOLUME UTILE": "3.9 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "177 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km",
+        "EMISSIONS DE CO2": "127 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16''",
+        "PEINTURE": "Métallisée +1000 DT"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "opel-combo-cargo-1.6-l-diesel-confort-l1h1-650-kg-2.webp",
+    "Nom": "OPEL COMBO CARGO",
+    "Brand": "OPEL",
+    "Model": "COMBO CARGO",
+    "Version": "1.6 L DIESEL CONFORT L1H1 650 KG",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4403 mm",
+        "LARGEUR": "1921 mm",
+        "HAUTEUR": "1796 mm",
+        "CHARGE UTILE": "650 KG",
+        "VOLUME UTILE": "3.3 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "177 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km",
+        "EMISSIONS DE CO2": "127 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "15''",
+        "PEINTURE": "Métallisée +1000 DT"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire | Conducteur confort",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "Tapis de coffre PVC",
+        "VOLANT": "3 branches | Multi-fonctions | Sport",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "opel-combo-cargo-xl-1.6-l-diesel-confort-l2h1-1000-kg-2.webp",
+    "Nom": "OPEL COMBO CARGO",
+    "Brand": "OPEL",
+    "Model": "COMBO CARGO",
+    "Version": "XL 1.6 L DIESEL CONFORT L2H1 1000 KG",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4753 mm",
+        "LARGEUR": "1921 mm",
+        "HAUTEUR": "1815 mm",
+        "CHARGE UTILE": "1000 KG",
+        "VOLUME UTILE": "3.9 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "177 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km",
+        "EMISSIONS DE CO2": "127 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "16''",
+        "PEINTURE": "Métallisée +1000 DT"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant conducteur",
+        "CLOISON ENTRE CABINE ET COMPARTIMENT ARRIÈRE": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire | Conducteur confort",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "Tapis de coffre PVC",
+        "VOLANT": "3 branches | Multi-fonctions | Sport",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},

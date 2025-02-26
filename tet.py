@@ -139,7 +139,7 @@ with open(urls_file_path, "r", encoding="utf-8") as file:
     urls = [line.strip() for line in file if line.strip()]  # Remove empty lines
 
 global gen
-gen = 1
+gen = 2
 # Iterate through URLs and scrape data
 for url in urls:
     try:
