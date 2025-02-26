@@ -41261,3 +41261,1038 @@
     "Apple CarPlay": true,
     "Android Auto": true
 },
+{
+    "Image": "nissan-micra-1.2-l-acenta-bvm-1.webp",
+    "Nom": "NISSAN MICRA",
+    "Brand": "NISSAN",
+    "Model": "MICRA",
+    "Version": "1.2 L ACENTA BVM",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "80 CH",
+        "COUPLE": "110 nm 4000 tr/min",
+        "CYLINDRÉE": "1198 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3830 mm",
+        "LARGEUR": "1670 mm",
+        "HAUTEUR": "1510 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.7 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "14''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | AUX",
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "nissan-navara-lux-4x4-double-cabine-1.webp",
+    "Nom": "NISSAN NAVARA",
+    "Brand": "NISSAN",
+    "Model": "NAVARA",
+    "Version": "LUX 4X4 DOUBLE CABINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "174 CH",
+        "COUPLE": "403 nm 2000 tr/min",
+        "CYLINDRÉE": "2488 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5250 mm",
+        "LARGEUR": "1830 mm",
+        "HAUTEUR": "1700 mm",
+        "VOLUME DU COFFRE": "792 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.2 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "11.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.3 L/100 km",
+        "CONSOMMATION MIXTE": "8.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Chargeur 6 CD",
+        "CONNECTIVITÉ": "Bluetooth",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Réglage lombaire"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Chromés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "nissan-juke-1.0-l-dig-t-tekna-1.webp",
+    "Nom": "NISSAN JUKE",
+    "Brand": "NISSAN",
+    "Model": "JUKE",
+    "Version": "1.0 L DIG-T TEKNA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "117 CH",
+        "COUPLE": "200 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4210 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1595 mm",
+        "VOLUME DU COFFRE": "422 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.4 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU | EBD | NBAS",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Chauffants | Monoform Style",
+        "TABLEAU DE BORD": "Similicuir | Alcantara",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | à méplat",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "Autohold",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "PRISE 12V": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "nissan-juke-1.0-l-dig-t-dct-tekna-1.webp",
+    "Nom": "NISSAN JUKE",
+    "Brand": "NISSAN",
+    "Model": "JUKE",
+    "Version": "1.0 L DIG-T DCT TEKNA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "117 CH",
+        "COUPLE": "200 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4210 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1595 mm",
+        "VOLUME DU COFFRE": "422 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.4 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU | EBD | NBAS",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Système de caméras 360",
+        "ANTIBROUILLARDS": "LED",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19'' | Bi-ton",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "TEP",
+        "SIÈGES": "Avec Appuie-tête intégrés | Monoform Style",
+        "TABLEAU DE BORD": "TEP",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | à méplat | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "Autohold",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "LIMITEUR DE VITESSE": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "nissan-juke-1.0-l-dig-t-dct-tekna-perso-1.webp",
+    "Nom": "NISSAN JUKE",
+    "Brand": "NISSAN",
+    "Model": "JUKE",
+    "Version": "1.0 L DIG-T DCT TEKNA PERSO",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "117 CH",
+        "COUPLE": "200 nm 1750 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4210 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1595 mm",
+        "VOLUME DU COFFRE": "422 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.4 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.5 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU | EBD | NBAS",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Système de caméras 360",
+        "ANTIBROUILLARDS": "LED",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19'' | Bi-ton",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Commande vocale",
+        "ECRAN": "Tactile | 8 pouces",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir/Alcantara",
+        "SIÈGES": "Avec Appuie-tête intégrés | Monoform Style",
+        "TABLEAU DE BORD": "Cuir | TEP",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | à méplat | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "Autohold",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "LIMITEUR DE VITESSE": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "nissan-qashqai-e-power-1.5-l-n-connecta-1.webp",
+    "Nom": "NISSAN QASHQAI E-POWER",
+    "Brand": "NISSAN",
+    "Model": "QASHQAI E-POWER",
+    "Version": "1.5 L N-CONNECTA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "190 CH",
+        "PUISSANCE THERMIQUE (CH.DIN)": "158 CH",
+        "COUPLE": "330 nm 0 tr/min",
+        "CYLINDRÉE": "1497 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "1",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4425 mm",
+        "LARGEUR": "1835 mm",
+        "HAUTEUR": "1625 mm",
+        "VOLUME DU COFFRE": "504 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7.9 s",
+        "VITESSE MAXI": "170 KM/H",
+        "AUTONOMIE ÉLECTRIQUE (NEDC)": "1058 km"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.2 L/100 km",
+        "EMISSIONS DE CO2": "120 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | AUX | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12 pouces",
+        "NAVIGATION": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED | Adaptatifs"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "LUMIÈRES D'AMBIANCE": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Panoramique",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Cache Bagages",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "nissan-qashqai-1.2-l-high-bva-1.webp",
+    "Nom": "NISSAN QASHQAI",
+    "Brand": "NISSAN",
+    "Model": "QASHQAI",
+    "Version": "1.2 L HIGH BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "115 CH",
+        "COUPLE": "165 nm 1750 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4394 mm",
+        "LARGEUR": "1806 mm",
+        "HAUTEUR": "1590 mm",
+        "VOLUME DU COFFRE": "430 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.9 s",
+        "VITESSE MAXI": "173 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PEINTURE": "Métallisée",
+        "RADAR DE STATIONNEMENT": "Arrière | Avant"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Cuir/Tissu",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire",
+        "TOIT": "Panoramique",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "",
+        "CAMÉRA DE RECUL": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME DE CAMÉRA 360": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "nissan-qashqai-1.3-l-visia-2.webp",
+    "Nom": "NISSAN QASHQAI",
+    "Brand": "NISSAN",
+    "Model": "QASHQAI",
+    "Version": "1.3 L VISIA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 2800 tr/min",
+        "CYLINDRÉE": "1332 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4425 mm",
+        "LARGEUR": "1835 mm",
+        "HAUTEUR": "1625 mm",
+        "VOLUME DU COFFRE": "504 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.3 L/100 km",
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU FREINAGE": "EBD | VDC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Apple Carplay | Android Auto | AUX | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HSA",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "LIMITEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉGULATEUR DE VITESSE": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "nissan-qashqai-1.3-l-acenta-2.webp",
+    "Nom": "NISSAN QASHQAI",
+    "Brand": "NISSAN",
+    "Model": "QASHQAI",
+    "Version": "1.3 L ACENTA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 2800 tr/min",
+        "CYLINDRÉE": "1332 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4425 mm",
+        "LARGEUR": "1835 mm",
+        "HAUTEUR": "1625 mm",
+        "VOLUME DU COFFRE": "504 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.3 L/100 km",
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU FREINAGE": "EBD | Système anti-collision avec détection des piétons | Freinage automatique anti-collision | VDC",
+        "AIDE AU MAINTIEN DANS LA VOIE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Système de caméras 360",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "10 haut-parleurs | Haut-parleurs Bose | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | AUX | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HSA",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Cache Bagages",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "LIMITEUR DE VITESSE": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "nissan-qashqai-1.3-l-tekna-2.webp",
+    "Nom": "NISSAN QASHQAI",
+    "Brand": "NISSAN",
+    "Model": "QASHQAI",
+    "Version": "1.3 L TEKNA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 2800 tr/min",
+        "CYLINDRÉE": "1332 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4425 mm",
+        "LARGEUR": "1835 mm",
+        "HAUTEUR": "1625 mm",
+        "VOLUME DU COFFRE": "504 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.3 L/100 km",
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU FREINAGE": "EBD | Système anti-collision avec détection des piétons | Freinage automatique anti-collision | VDC",
+        "AIDE AU MAINTIEN DANS LA VOIE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Système de caméras 360",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "10 haut-parleurs | Haut-parleurs Bose | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | AUX | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 9 pouces",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HSA",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Cache Bagages",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "LIMITEUR DE VITESSE": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "nissan-qashqai-1.3-l-tekna-high-2.webp",
+    "Nom": "NISSAN QASHQAI",
+    "Brand": "NISSAN",
+    "Model": "QASHQAI",
+    "Version": "1.3 L TEKNA HIGH",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "250 nm 2800 tr/min",
+        "CYLINDRÉE": "1332 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4425 mm",
+        "LARGEUR": "1835 mm",
+        "HAUTEUR": "1625 mm",
+        "VOLUME DU COFFRE": "504 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "199 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.3 L/100 km",
+        "CONSOMMATION MIXTE": "6.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANT DE FEUX DE ROUTE": "",
+        "ASSISTANCE AU FREINAGE": "EBD | Système anti-collision avec détection des piétons | Freinage automatique anti-collision | VDC",
+        "AIDE AU MAINTIEN DANS LA VOIE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul | Système de caméras 360",
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "10 haut-parleurs | Haut-parleurs Bose | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | AUX | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 12.3 pouces",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir/Tissu",
+        "SIÈGES": "Conducteur à réglage électrique | Chauffants | Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Chauffant | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HSA",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Cache Bagages",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "LIMITEUR DE VITESSE": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
