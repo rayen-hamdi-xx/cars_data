@@ -42296,3 +42296,2808 @@
     "Apple CarPlay": true,
     "Android Auto": true
 },
+{
+    "Image": "suzuki-celerio-populaire-1.0-l-gl-1.webp",
+    "Nom": "CELERIO POPULAIRE",
+    "Brand": "SUZUKI",
+    "Model": "CELERIO POPULAIRE",
+    "Version": "1.0 L GL",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "68 CH",
+        "COUPLE": "90 nm 3500 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3600 mm",
+        "LARGEUR": "1600 mm",
+        "HAUTEUR": "1560 mm",
+        "VOLUME DU COFFRE": "254 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14 s",
+        "VITESSE MAXI": "155 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.7 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "14''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB",
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-celerio-populaire-1.0-l-gl-2.webp",
+    "Nom": "CELERIO POPULAIRE",
+    "Brand": "SUZUKI",
+    "Model": "CELERIO POPULAIRE",
+    "Version": "1.0 L GL",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "68 CH",
+        "COUPLE": "90 nm 3500 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3695 mm",
+        "LARGEUR": "1655 mm",
+        "HAUTEUR": "1555 mm",
+        "VOLUME DU COFFRE": "295 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14 s",
+        "VITESSE MAXI": "155 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.7 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "suzuki-s-presso-1.0-l-gl-pack-alu-1.webp",
+    "Nom": "SUZUKI S-PRESSO",
+    "Brand": "SUZUKI",
+    "Model": "S-PRESSO",
+    "Version": "1.0 L GL PACK ALU",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "68 CH",
+        "COUPLE": "90 nm 3500 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3565 mm",
+        "LARGEUR": "1520 mm",
+        "HAUTEUR": "1564 mm",
+        "VOLUME DU COFFRE": "240 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.5 s",
+        "VITESSE MAXI": "140 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "3.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 14''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "PRISE 12V": "",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-s-presso-1.0-l-gl-pack-full-alu-1.webp",
+    "Nom": "SUZUKI S-PRESSO",
+    "Brand": "SUZUKI",
+    "Model": "S-PRESSO",
+    "Version": "1.0 L GL PACK FULL ALU",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "68 CH",
+        "COUPLE": "90 nm 3500 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3565 mm",
+        "LARGEUR": "1520 mm",
+        "HAUTEUR": "1564 mm",
+        "VOLUME DU COFFRE": "240 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.5 s",
+        "VITESSE MAXI": "140 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "3.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.1 L/100 km",
+        "CONSOMMATION MIXTE": "4.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 14''",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "FINITION INTÉRIEURE": "Chromée",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-celerio-1.0-l-gl-bva-1.webp",
+    "Nom": "SUZUKI CELERIO",
+    "Brand": "SUZUKI",
+    "Model": "CELERIO",
+    "Version": "1.0 L GL BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "68 CH",
+        "COUPLE": "90 nm 3500 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3600 mm",
+        "LARGEUR": "1600 mm",
+        "HAUTEUR": "1560 mm",
+        "VOLUME DU COFFRE": "254 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14 s",
+        "VITESSE MAXI": "155 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.7 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 14''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "PRISE 12V": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-celerio-1.0-l-gl-bva-2.webp",
+    "Nom": "SUZUKI CELERIO",
+    "Brand": "SUZUKI",
+    "Model": "CELERIO",
+    "Version": "1.0 L GL BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "68 CH",
+        "COUPLE": "90 nm 3500 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3695 mm",
+        "LARGEUR": "1655 mm",
+        "HAUTEUR": "1555 mm",
+        "VOLUME DU COFFRE": "295 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14 s",
+        "VITESSE MAXI": "155 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.7 L/100 km",
+        "CONSOMMATION MIXTE": "4.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP"
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "suzuki-dzire-1.2-l-gl-1.webp",
+    "Nom": "SUZUKI DZIRE",
+    "Brand": "SUZUKI",
+    "Model": "DZIRE",
+    "Version": "1.2 L GL",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1515 mm",
+        "VOLUME DU COFFRE": "378 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Arrière",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-dzire-1.2-l-glx-pack-1.webp",
+    "Nom": "SUZUKI DZIRE",
+    "Brand": "SUZUKI",
+    "Model": "DZIRE",
+    "Version": "1.2 L GLX PACK",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1515 mm",
+        "VOLUME DU COFFRE": "378 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''",
+        "RADAR DE STATIONNEMENT": "Arrière"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Arrière",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile",
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches | Cuir"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "",
+        "CAMÉRA DE RECUL": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Climatronic",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-dzire-1.2-l-gl-2.webp",
+    "Nom": "SUZUKI DZIRE",
+    "Brand": "SUZUKI",
+    "Model": "DZIRE",
+    "Version": "1.2 L GL",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1515 mm",
+        "VOLUME DU COFFRE": "378 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Arrière",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | à méplat"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-dzire-1.2-l-glx-2.webp",
+    "Nom": "SUZUKI DZIRE",
+    "Brand": "SUZUKI",
+    "Model": "DZIRE",
+    "Version": "1.2 L GLX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1515 mm",
+        "VOLUME DU COFFRE": "378 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Arrière",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | à méplat"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-dzire-1.2-l-glx-pack-2.webp",
+    "Nom": "SUZUKI DZIRE",
+    "Brand": "SUZUKI",
+    "Model": "DZIRE",
+    "Version": "1.2 L GLX PACK",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1515 mm",
+        "VOLUME DU COFFRE": "378 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Arrière",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | à méplat"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-baleno-1.4-l-glx-1.webp",
+    "Nom": "SUZUKI BALENO",
+    "Brand": "SUZUKI",
+    "Model": "BALENO",
+    "Version": "1.4 L GLX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "130 nm 4000 tr/min",
+        "CYLINDRÉE": "1373 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1745 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "355 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.3 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.6 L/100 km",
+        "CONSOMMATION MIXTE": "4.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ASSISTANCE AU FREINAGE": "EBD"
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED",
+        "POIGNÉES DE PORTES": "Chromées",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "Tactile",
+        "SELLERIE": "Tissu",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-baleno-1.5-l-gl-bvm-2.webp",
+    "Nom": "SUZUKI BALENO",
+    "Brand": "SUZUKI",
+    "Model": "BALENO",
+    "Version": "1.5 L GL BVM",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "138 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3990 mm",
+        "LARGEUR": "1745 mm",
+        "HAUTEUR": "1500 mm",
+        "VOLUME DU COFFRE": "318 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.2 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | AUX | Bluetooth",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-baleno-1.5-l-glx-bva-2.webp",
+    "Nom": "SUZUKI BALENO",
+    "Brand": "SUZUKI",
+    "Model": "BALENO",
+    "Version": "1.5 L GLX BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "138 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "4",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3990 mm",
+        "LARGEUR": "1745 mm",
+        "HAUTEUR": "1500 mm",
+        "VOLUME DU COFFRE": "318 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.2 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | AUX | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED",
+        "POIGNÉES DE PORTES": "Chromées",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "SELLERIE": "Tissu",
+        "SEUILS DE PORTES": "Chromés",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": true
+},
+{
+    "Image": "suzuki-ertiga-1.5-l-glx-7-places-1.webp",
+    "Nom": "SUZUKI ERTIGA",
+    "Brand": "SUZUKI",
+    "Model": "ERTIGA",
+    "Version": "1.5 L GLX 7 PLACES",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "138 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4395 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1690 mm",
+        "VOLUME DU COFFRE": "209 L",
+        "VOLUME DU COFFRE MAXIMAL": "803 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.2 L/100 km",
+        "EMISSIONS DE CO2": "146 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 15''",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT": "Cuir | 3 branches",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique | Ventilation arrière",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-ertiga-1.5-l-glx-7-places-bva-1.webp",
+    "Nom": "SUZUKI ERTIGA",
+    "Brand": "SUZUKI",
+    "Model": "ERTIGA",
+    "Version": "1.5 L GLX 7 PLACES BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "138 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "4",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4395 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1690 mm",
+        "VOLUME DU COFFRE": "209 L",
+        "VOLUME DU COFFRE MAXIMAL": "803 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.5 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.2 L/100 km",
+        "EMISSIONS DE CO2": "146 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Arrières",
+        "JANTES": "En aluminium | 15''",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT": "Cuir | 3 branches",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique | Ventilation arrière",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-fronx-1.5-l-gl-bvm-1.webp",
+    "Nom": "SUZUKI FRONX",
+    "Brand": "SUZUKI",
+    "Model": "FRONX",
+    "Version": "1.5 L GL BVM",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "138 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "304 L",
+        "VOLUME DU COFFRE MAXIMAL": "1009 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.56 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "suzuki-fronx-1.5-l-glx-bva-1.webp",
+    "Nom": "SUZUKI FRONX",
+    "Brand": "SUZUKI",
+    "Model": "FRONX",
+    "Version": "1.5 L GLX BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "138 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "4",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3995 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1550 mm",
+        "VOLUME DU COFFRE": "304 L",
+        "VOLUME DU COFFRE MAXIMAL": "1009 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.56 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "BARRES DE TOIT": "Chromées",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "LED",
+        "POIGNÉES DE PORTES": "Chromées",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "suzuki-ciaz-1.5-l-gl-1.webp",
+    "Nom": "SUZUKI CIAZ",
+    "Brand": "SUZUKI",
+    "Model": "CIAZ",
+    "Version": "1.5 L GL",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "138 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4490 mm",
+        "LARGEUR": "1730 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "510 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5 L/100 km",
+        "CONSOMMATION MIXTE": "6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ASSISTANCE AU FREINAGE": "AFU | EBD"
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "2 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "RÉGULATEUR DE VITESSE": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-ciaz-1.5-l-gl-bva-1.webp",
+    "Nom": "SUZUKI CIAZ",
+    "Brand": "SUZUKI",
+    "Model": "CIAZ",
+    "Version": "1.5 L GL BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "138 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4490 mm",
+        "LARGEUR": "1730 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "510 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5 L/100 km",
+        "CONSOMMATION MIXTE": "6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ASSISTANCE AU FREINAGE": "AFU | EBD"
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "2 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "RÉGULATEUR DE VITESSE": "",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-ciaz-1.5-l-glx-1.webp",
+    "Nom": "SUZUKI CIAZ",
+    "Brand": "SUZUKI",
+    "Model": "CIAZ",
+    "Version": "1.5 L GLX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "138 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4490 mm",
+        "LARGEUR": "1730 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "510 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5 L/100 km",
+        "CONSOMMATION MIXTE": "6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "SELLERIE": "Cuir",
+        "STORES PARE-SOLEIL": "Pour lunette arrière",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT": "Cuir | 3 branches",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-ciaz-1.5-glx-bva-1.webp",
+    "Nom": "SUZUKI CIAZ",
+    "Brand": "SUZUKI",
+    "Model": "CIAZ",
+    "Version": "1.5 GLX BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "138 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4490 mm",
+        "LARGEUR": "1730 mm",
+        "HAUTEUR": "1485 mm",
+        "VOLUME DU COFFRE": "510 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5 L/100 km",
+        "CONSOMMATION MIXTE": "6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ASSISTANCE AU FREINAGE": "AFU | EBD"
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Cuir",
+        "STORES PARE-SOLEIL": "Pour lunette arrière",
+        "VOLANT": "Cuir | 3 branches"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-jimny-1.5-l-gl-4x4-1.webp",
+    "Nom": "SUZUKI JIMNY",
+    "Brand": "SUZUKI",
+    "Model": "JIMNY",
+    "Version": "1.5 L GL 4X4",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "3"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "102 CH",
+        "COUPLE": "130 nm 4000 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3645 mm",
+        "LARGEUR": "1645 mm",
+        "HAUTEUR": "1725 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "145 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.2 L/100 km",
+        "CONSOMMATION MIXTE": "6.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": ""
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "VOLANT": "3 branches",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-jimny-3-portes-1.5-l-4x4-gl-bva-1.webp",
+    "Nom": "SUZUKI JIMNY 3 PORTES",
+    "Brand": "SUZUKI",
+    "Model": "JIMNY 3 PORTES",
+    "Version": "1.5 L 4X4 GL BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "4",
+        "NOMBRE DE PORTES": "3"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "102 CH",
+        "COUPLE": "130 nm 4000 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "4",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3645 mm",
+        "LARGEUR": "1645 mm",
+        "HAUTEUR": "1725 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "145 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.2 L/100 km",
+        "CONSOMMATION MIXTE": "6.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "3 branches",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-jimny-5-portes-1.5-l-4x4-glx-bva-1.webp",
+    "Nom": "SUZUKI JIMNY 5 PORTES",
+    "Brand": "SUZUKI",
+    "Model": "JIMNY 5 PORTES",
+    "Version": "1.5 L 4X4 GLX BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "4",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "102 CH",
+        "COUPLE": "130 nm 4000 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "4",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3965 mm",
+        "LARGEUR": "1645 mm",
+        "HAUTEUR": "1705 mm",
+        "VOLUME DU COFFRE": "211 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "145 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.2 L/100 km",
+        "CONSOMMATION MIXTE": "6.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "LAVE PHARES": "",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "3 branches",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec capuchons noirs",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "suzuki-vitara-1.4-l-boostjet-glx-sr-1.webp",
+    "Nom": "SUZUKI VITARA",
+    "Brand": "SUZUKI",
+    "Model": "VITARA",
+    "Version": "1.4 L BOOSTJET GLX SR",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "220 nm 1500 tr/min",
+        "CYLINDRÉE": "1373 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4180 mm",
+        "LARGEUR": "1780 mm",
+        "HAUTEUR": "1610 mm",
+        "VOLUME DU COFFRE": "375 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.5 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5 L/100 km",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBD | Dual Sensor Brake Support",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Bi-ton",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "Tactile | 4.2 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir/Alcantara",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-grand-vitara-1.5-l-glx-bva-1.webp",
+    "Nom": "SUZUKI GRAND VITARA",
+    "Brand": "SUZUKI",
+    "Model": "GRAND VITARA",
+    "Version": "1.5 L GLX BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride léger",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "105 CH",
+        "COUPLE": "137 nm 4400 tr/min",
+        "CYLINDRÉE": "1462 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4345 mm",
+        "LARGEUR": "1795 mm",
+        "HAUTEUR": "1645 mm",
+        "VOLUME DU COFFRE": "328 L",
+        "VOLUME DU COFFRE MAXIMAL": "1147 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.7 s",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "BARRES DE TOIT": "Chromées",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "LED",
+        "POIGNÉES DE PORTES": "Chromées",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "SELLERIE": "Cuir",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "suzuki-swift-1.2-l-gl-1.webp",
+    "Nom": "SUZUKI SWIFT",
+    "Brand": "SUZUKI",
+    "Model": "SWIFT",
+    "Version": "1.2 L GL",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3840 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1530 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "14''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | 3 branches"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "PRISE 12V": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-swift-1.2-l-gl-bva-1.webp",
+    "Nom": "SUZUKI SWIFT",
+    "Brand": "SUZUKI",
+    "Model": "SWIFT",
+    "Version": "1.2 L GL BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3840 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1530 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "14''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | 3 branches"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-swift-1.2-l-glx-1.webp",
+    "Nom": "SUZUKI SWIFT",
+    "Brand": "SUZUKI",
+    "Model": "SWIFT",
+    "Version": "1.2 L GLX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3840 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1530 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | 3 branches"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "SYSTÈME START & STOP": "",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-swift-1.2-l-glx-pack-1.webp",
+    "Nom": "SUZUKI SWIFT",
+    "Brand": "SUZUKI",
+    "Model": "SWIFT",
+    "Version": "1.2 L GLX PACK",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3840 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1530 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | 3 branches"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-swift-1.2-l-glx-bva-1.webp",
+    "Nom": "SUZUKI SWIFT",
+    "Brand": "SUZUKI",
+    "Model": "SWIFT",
+    "Version": "1.2 L GLX BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3840 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1530 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | 3 branches"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "SYSTÈME START & STOP": "",
+        "PRISE 12V": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-swift-1.2-l-glx-pack-bva-1.webp",
+    "Nom": "SUZUKI SWIFT",
+    "Brand": "SUZUKI",
+    "Model": "SWIFT",
+    "Version": "1.2 L GLX PACK BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "85 CH",
+        "COUPLE": "114 nm 4000 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3840 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1530 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.5 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.1 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Cuir | 3 branches"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ALIMENTATION ÉLECTRIQUE": "12 V",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-swift-1.2-l-gl-2.webp",
+    "Nom": "SUZUKI SWIFT",
+    "Brand": "SUZUKI",
+    "Model": "SWIFT",
+    "Version": "1.2 L GL",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "82 CH",
+        "COUPLE": "112 nm 4300 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3860 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1520 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.5 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "14'' | Enjoliveurs"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-swift-1.2-l-cvt-gl-2.webp",
+    "Nom": "SUZUKI SWIFT",
+    "Brand": "SUZUKI",
+    "Model": "SWIFT",
+    "Version": "1.2 L CVT GL",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "82 CH",
+        "COUPLE": "112 nm 4300 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3860 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1520 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.5 s",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 7 pouces"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "14'' | Enjoliveurs"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "SYSTÈME START & STOP": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-swift-1.2-l-glx-2.webp",
+    "Nom": "SUZUKI SWIFT",
+    "Brand": "SUZUKI",
+    "Model": "SWIFT",
+    "Version": "1.2 L GLX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "82 CH",
+        "COUPLE": "112 nm 4300 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3860 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1520 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.5 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "suzuki-swift-1.2-l-cvt-glx-2.webp",
+    "Nom": "SUZUKI SWIFT",
+    "Brand": "SUZUKI",
+    "Model": "SWIFT",
+    "Version": "1.2 L CVT GLX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "82 CH",
+        "COUPLE": "112 nm 4300 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3860 mm",
+        "LARGEUR": "1735 mm",
+        "HAUTEUR": "1520 mm",
+        "VOLUME DU COFFRE": "265 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.5 s",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 9 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15''",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME START & STOP": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
