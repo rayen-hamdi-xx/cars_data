@@ -3263,17 +3263,77 @@
     "Model": "5",
     "Version": "1.5 L CONFORT PLUS",
     "Generation": "1",
-    "Caractéristiques": null,
-    "Motorisation": null,
-    "Transmission": null,
-    "Dimensions": null,
-    "Performances": null,
-    "Consommation": null,
-    "Equipements de sécurité": null,
-    "Equipements extérieurs": null,
-    "Equipements intérieurs": null,
-    "Equipements fonctionnels": null,
-    "Bluetooth": false,
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "150 nm 4500 tr/min",
+        "CYLINDRÉE": "1498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4601 mm",
+        "LARGEUR": "1818 mm",
+        "HAUTEUR": "1489 mm",
+        "VOLUME DU COFFRE": "512 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "5.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "2 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "SELLERIE": "Similicuir",
+        "VOLANT": "Cuir",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
     "Apple CarPlay": false,
     "Android Auto": false
 },
@@ -11488,6 +11548,87 @@
     "Android Auto": false
 },
 {
+    "Image": "fiat-doblo-combi-1.6-l-hdi-2.webp",
+    "Nom": "FIAT DOBLO COMBI",
+    "Brand": "FIAT",
+    "Model": "DOBLO COMBI",
+    "Version": "1.6 L HDI",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "5 | 2 portes latérales coulissantes"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "215 nm 1750 tr/min",
+        "CYLINDRÉE": "1560 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4403 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1848 mm",
+        "VOLUME DU COFFRE": "775 L",
+        "VOLUME DU COFFRE MAXIMAL": "1414 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.4 s",
+        "VITESSE MAXI": "160 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.0 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.0 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "TPMS",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Radio numérique DAB",
+        "CONNECTIVITÉ": "2 USB-C | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 10 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "JANTES": "16''"
+    },
+    "Equipements intérieurs": {
+        "KIT RANGEMENT": "",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Manuelle",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
     "Image": "fiat-fiorino-1.3-l-multijet-1.webp",
     "Nom": "FIAT FIORINO",
     "Brand": "FIAT",
@@ -16878,21 +17019,90 @@
     "Nom": "HYUNDAI KONA",
     "Brand": "HYUNDAI",
     "Model": "KONA",
-    "Version": "1.6 L T-GDI 7-DCT 4WD N-LINE",
+    "Version": "1.6 L T-GDI 7-DCT 4WD N LINE",
     "Generation": "1",
-    "Caractéristiques": null,
-    "Motorisation": null,
-    "Transmission": null,
-    "Dimensions": null,
-    "Performances": null,
-    "Consommation": null,
-    "Equipements de sécurité": null,
-    "Equipements extérieurs": null,
-    "Equipements intérieurs": null,
-    "Equipements fonctionnels": null,
-    "Bluetooth": false,
-    "Apple CarPlay": false,
-    "Android Auto": false
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "200 CH",
+        "COUPLE": "265 nm 1500 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4165 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1500 mm",
+        "VOLUME DU COFFRE": "544 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7.4 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.5 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "Périmétrique",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 10.25 pouces"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "N-Line",
+        "PEINTURE": "Two-tone",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Arrière | Avant conducteur",
+        "KIT RANGEMENT": "Poches aumônières",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir | N-Line",
+        "SELLERIE": "Cuir/Alcantara",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VITRES": "Parebrise athermique | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | N-Line",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "10.25''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
 },
 {
     "Image": "hyundai-kona-hybride-1.0-l-t-gdi-hybride-48v-1.webp",
@@ -17692,25 +17902,6 @@
         "VITRES ÉLECTRIQUES": "Avant"
     },
     "Bluetooth": true,
-    "Apple CarPlay": false,
-    "Android Auto": false
-},
-{
-    "Image": "https://catalogue.automobile.tn/big/2023/10/47025.png?t=1",
-    "Brand": null,
-    "Model": null,
-    "Version": null,
-    "Caractéristiques": null,
-    "Motorisation": null,
-    "Transmission": null,
-    "Dimensions": null,
-    "Performances": null,
-    "Consommation": null,
-    "Equipements de sécurité": null,
-    "Equipements extérieurs": null,
-    "Equipements intérieurs": null,
-    "Equipements fonctionnels": null,
-    "Bluetooth": false,
     "Apple CarPlay": false,
     "Android Auto": false
 },
@@ -23548,17 +23739,88 @@
     "Model": "POLO",
     "Version": "1.0 L R-LINE",
     "Generation": "1",
-    "Caractéristiques": null,
-    "Motorisation": null,
-    "Transmission": null,
-    "Dimensions": null,
-    "Performances": null,
-    "Consommation": null,
-    "Equipements de sécurité": null,
-    "Equipements extérieurs": null,
-    "Equipements intérieurs": null,
-    "Equipements fonctionnels": null,
-    "Bluetooth": false,
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "75 CH",
+        "COUPLE": "95 nm 3000 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4053 mm",
+        "LARGEUR": "1751 mm",
+        "HAUTEUR": "1461 mm",
+        "VOLUME DU COFFRE": "351 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.9 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.6 L/100 km",
+        "CONSOMMATION MIXTE": "5.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul | Park Pilot",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 15''",
+        "KIT CARROSSERIE": "R-line",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "Autoradio d'origine | Composition Media | 6 haut-parleurs",
+        "CONNECTIVITÉ": "4 USB | Bluetooth | 1 fente pour carte SD | iPod",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Gris Limestone Métallisé",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu | Basket",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Parebrise athermique",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "Active Info Display",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
     "Apple CarPlay": false,
     "Android Auto": false
 },
@@ -45101,3 +45363,73 @@
     "Apple CarPlay": false,
     "Android Auto": false
 },
+{
+    "Image": "toyota-agya-populaire-1.0-l-1.webp",
+    "Nom": "TOYOTA AGYA POPULAIRE",
+    "Brand": "TOYOTA",
+    "Model": "AGYA POPULAIRE",
+    "Version": "1.0 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "65 CH",
+        "COUPLE": "89 nm 4400 tr/min",
+        "CYLINDRÉE": "998 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3660 mm",
+        "LARGEUR": "1600 mm",
+        "HAUTEUR": "1520 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "14.6 s",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.2 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 14''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "Bluetooth",
+        "SELLERIE": "Tissu",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "",
+        "ORDINATEUR DE BORD": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+
