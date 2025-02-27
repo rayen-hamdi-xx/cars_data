@@ -49225,3 +49225,664 @@
     "Apple CarPlay": true,
     "Android Auto": true
 },
+{
+    "Image": "dongfeng-forthing-t5-evo-1.5-l-turbo-1.webp",
+    "Nom": "FORTHING T5 EVO",
+    "Brand": "DONGFENG",
+    "Model": "FORTHING T5 EVO",
+    "Version": "1.5 L TURBO",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "176 CH",
+        "COUPLE": "260 nm 1500 tr/min",
+        "CYLINDRÉE": "1500 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4565 mm",
+        "LARGEUR": "1860 mm",
+        "HAUTEUR": "1690 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.5 s",
+        "VITESSE MAXI": "240 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "6.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "3 USB | Android Auto | Bluetooth | Commande vocale",
+        "ECRAN CENTRAL": "Tactile | 10.25 pouces"
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Noire",
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "19''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "FINITION INTÉRIEURE": "Noir brillant | Chromée",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir perforé",
+        "SIÈGES": "Électriques | 8 directions | Chauffants | Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Sport | à méplat | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres | Cache Bagages | Ouverture à distance",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION DIGITALE": "10.25''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": true
+},
+{
+    "Image": "dongfeng-s50-1.5-l-1.webp",
+    "Nom": "DONGFENG S50",
+    "Brand": "DONGFENG",
+    "Model": "S50",
+    "Version": "1.5 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "143 nm 4000 tr/min",
+        "CYLINDRÉE": "1499 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4700 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1526 mm",
+        "VOLUME DU COFFRE": "500 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.2 L/100 km",
+        "CONSOMMATION MIXTE": "6.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | iPod",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "dongfeng-s50-1.6-l-cvt-luxury-1.webp",
+    "Nom": "DONGFENG S50",
+    "Brand": "DONGFENG",
+    "Model": "S50",
+    "Version": "1.6 L CVT LUXURY",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "122 CH",
+        "COUPLE": "151 nm 4000 tr/min",
+        "CYLINDRÉE": "1590 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4700 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1526 mm",
+        "VOLUME DU COFFRE": "500 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.5 L/100 km",
+        "CONSOMMATION MIXTE": "7.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée",
+        "RADAR DE STATIONNEMENT": "Arrière"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | iPod",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "KIT FUMEURS": "",
+        "SELLERIE": "Similicuir",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CAMÉRA DE RECUL": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "dongfeng-ax4-1.6-l-1.webp",
+    "Nom": "DONGFENG AX4",
+    "Brand": "DONGFENG",
+    "Model": "AX4",
+    "Version": "1.6 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "122 CH",
+        "COUPLE": "153 nm 4400 tr/min",
+        "CYLINDRÉE": "1556 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4195 mm",
+        "LARGEUR": "1780 mm",
+        "HAUTEUR": "1622 mm",
+        "VOLUME DU COFFRE": "470 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.8 L/100 km",
+        "CONSOMMATION MIXTE": "7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Chromées",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "EPS",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "dongfeng-ax4-1.6-l-dct-1.webp",
+    "Nom": "DONGFENG AX4",
+    "Brand": "DONGFENG",
+    "Model": "AX4",
+    "Version": "1.6 L DCT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "122 CH",
+        "COUPLE": "153 nm 4400 tr/min",
+        "CYLINDRÉE": "1556 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4195 mm",
+        "LARGEUR": "1780 mm",
+        "HAUTEUR": "1622 mm",
+        "VOLUME DU COFFRE": "470 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6 L/100 km",
+        "CONSOMMATION MIXTE": "7.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Chromées",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "SELLERIE": "Similicuir",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "2 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "EPS",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "dongfeng-rich-6-2.5-turbo-diesel-4x2-1.webp",
+    "Nom": "DONGFENG RICH 6",
+    "Brand": "DONGFENG",
+    "Model": "RICH 6",
+    "Version": "2.5 TURBO DIESEL 4X2",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "305 nm 1800 tr/min",
+        "CYLINDRÉE": "2498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5290 mm",
+        "LARGEUR": "1850 mm",
+        "HAUTEUR": "1810 mm",
+        "CHARGE UTILE": "800 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "150 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "7.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ARCEAU DE BENNE": "",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Similicuir",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "dongfeng-rich-6-2.5-turbo-diesel-4x4-1.webp",
+    "Nom": "DONGFENG RICH 6",
+    "Brand": "DONGFENG",
+    "Model": "RICH 6",
+    "Version": "2.5 TURBO DIESEL 4X4",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "140 CH",
+        "COUPLE": "305 nm 1800 tr/min",
+        "CYLINDRÉE": "2498 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Électronique"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5290 mm",
+        "LARGEUR": "1850 mm",
+        "HAUTEUR": "1810 mm",
+        "CHARGE UTILE": "800 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "150 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "7.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Similicuir",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "dongfeng-sx3-1.6-l-1.webp",
+    "Nom": "DONGFENG SX3",
+    "Brand": "DONGFENG",
+    "Model": "SX3",
+    "Version": "1.6 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "123 CH",
+        "COUPLE": "151 nm 4000 tr/min",
+        "CYLINDRÉE": "1590 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4515 mm",
+        "LARGEUR": "1812 mm",
+        "HAUTEUR": "1725 mm",
+        "VOLUME DU COFFRE": "453 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "165 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.3 L/100 km",
+        "CONSOMMATION MIXTE": "7.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Chromées",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "2 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | iPod",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "SELLERIE": "Similicuir",
+        "VOLANT": "Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
