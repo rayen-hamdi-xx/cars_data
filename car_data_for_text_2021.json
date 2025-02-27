@@ -49886,3 +49886,444 @@
     "Apple CarPlay": false,
     "Android Auto": false
 },
+{
+    "Image": "ds-3-1.2-l-vti-82-chic-bva-1.webp",
+    "Nom": "DS 3",
+    "Brand": "DS",
+    "Model": "3",
+    "Version": "1.2 L VTI 82 CHIC BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "3"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "82 CH",
+        "COUPLE": "118 nm 2750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3950 mm",
+        "LARGEUR": "1720 mm",
+        "HAUTEUR": "1460 mm",
+        "VOLUME DU COFFRE": "285 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.3 s",
+        "VITESSE MAXI": "174 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "3.9 L/100 km",
+        "CONSOMMATION MIXTE": "4.5 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Chromée | Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED | DS ACTIVE LED VISION",
+        "RADAR DE STATIONNEMENT": "Arrière | Avant",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Apple Carplay | Mirrorlink",
+        "ECRAN": "Tactile | 7 pouces",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CAMÉRA DE RECUL": "",
+        "CLIMATISATION": "Climatronic",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "ds-4-vti-chic-1.webp",
+    "Nom": "DS 4",
+    "Brand": "DS",
+    "Model": "4",
+    "Version": "VTI CHIC",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "N.C nm N.C tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "N.C",
+        "LARGEUR": "N.C",
+        "HAUTEUR": "N.C",
+        "VOLUME DU COFFRE": "385 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "193 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.9 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Métallisée",
+        "RADAR DE STATIONNEMENT": "Arrière"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "KIT RANGEMENT": "",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Cuir/Tissu",
+        "SIÈGES": "Massants | Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "ds-4-crossback-be-chic-vti-1.webp",
+    "Nom": "DS 4 CROSSBACK",
+    "Brand": "DS",
+    "Model": "4 CROSSBACK",
+    "Version": "BE CHIC VTI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "120 CH",
+        "COUPLE": "160 nm 4250 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4280 mm",
+        "LARGEUR": "1810 mm",
+        "HAUTEUR": "1540 mm",
+        "VOLUME DU COFFRE": "359 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.8 s",
+        "VITESSE MAXI": "193 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5 L/100 km",
+        "CONSOMMATION MIXTE": "6.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 17'' | Noires"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Apple Carplay | Mirrorlink",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CAMÉRA DE RECUL": "",
+        "CLIMATISATION": "Climatronic",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "GPS": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "ds-7-crossback-1.6-l-thp-165-performance-line-1.webp",
+    "Nom": "DS 7 CROSSBACK",
+    "Brand": "DS",
+    "Model": "7 CROSSBACK",
+    "Version": "1.6 L THP 165 PERFORMANCE-LINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "165 CH",
+        "COUPLE": "240 nm 1400 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4570 mm",
+        "LARGEUR": "1890 mm",
+        "HAUTEUR": "1620 mm",
+        "VOLUME DU COFFRE": "555 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.9 s",
+        "VITESSE MAXI": "206 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.6 L/100 km",
+        "CONSOMMATION MIXTE": "7.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ANTI-PATINAGE": "ESP | ASR",
+        "ASSISTANCE AU FREINAGE": "AFU",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Noire",
+        "BARRES DE TOIT": "Aluminium",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PHARES": "Xénon",
+        "RADAR DE STATIONNEMENT": "Arrière | Avant",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB | 2 USB | Bluetooth | Apple Carplay | Mirrorlink",
+        "ECRAN": "Tactile | 12 pouces HD",
+        "SELLERIE": "Alcantara",
+        "SIÈGES": "Conducteur à réglage électrique | Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "TABLEAU DE BORD": "Alcantara",
+        "TOIT": "Panoramique | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CAMÉRA DE RECUL": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "INSTRUMENTATION NUMÉRIQUE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "ds-3-crossback-1.2-l-chic-+-1.webp",
+    "Nom": "DS 3 CROSSBACK",
+    "Brand": "DS",
+    "Model": "3 CROSSBACK",
+    "Version": "1.2 L CHIC +",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "230 nm 1750 tr/min",
+        "CYLINDRÉE": "1199 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4118 mm",
+        "LARGEUR": "1791 mm",
+        "HAUTEUR": "1534 mm",
+        "VOLUME DU COFFRE": "350 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.2 s",
+        "VITESSE MAXI": "196 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.8 L/100 km",
+        "EMISSIONS DE CO2": "109 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "ESP",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Noire | DS Wings chromés",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 17''",
+        "POIGNÉES DE PORTES": "Affleurantes | Ouverture à l'approche",
+        "RADAR DE STATIONNEMENT": "Arrière",
+        "SORTIES D’ÉCHAPPEMENT": "Chromées | Doubles",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "8 haut-parleurs",
+        "CONNECTIVITÉ": "USB | Bluetooth | Mirrorlink",
+        "ECRAN": "Tactile | 7 pouces",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu | Perruzi Bronze",
+        "SIÈGES": "Haute densité",
+        "TAPIS DE SOL": "",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir pleine fleur"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Climatronic",
+        "DIRECTION ASSISTÉE": "",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Limiteur de vitesse",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "INSTRUMENTATION NUMÉRIQUE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
