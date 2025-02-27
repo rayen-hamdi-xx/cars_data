@@ -45432,4 +45432,3096 @@
     "Apple CarPlay": false,
     "Android Auto": false
 },
-
+{
+    "Image": "toyota-agya-1.2-l-vvti-1.webp",
+    "Nom": "TOYOTA AGYA",
+    "Brand": "TOYOTA",
+    "Model": "AGYA",
+    "Version": "1.2 L VVTI",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "87 CH",
+        "COUPLE": "108 nm N.C tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3660 mm",
+        "LARGEUR": "1600 mm",
+        "HAUTEUR": "1520 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.9 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.9 L/100 km",
+        "EMISSIONS DE CO2": "109 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "En aluminium | 14''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "Bluetooth",
+        "ECRAN": "Tactile",
+        "SELLERIE": "Tissu",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-agya-1.2-l-vvti-bva-1.webp",
+    "Nom": "TOYOTA AGYA",
+    "Brand": "TOYOTA",
+    "Model": "AGYA",
+    "Version": "1.2 L VVTI BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "87 CH",
+        "COUPLE": "108 nm N.C tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3660 mm",
+        "LARGEUR": "1600 mm",
+        "HAUTEUR": "1520 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.4 L/100 km",
+        "CONSOMMATION MIXTE": "5.1 L/100 km",
+        "EMISSIONS DE CO2": "119 g/km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs",
+        "JANTES": "En aluminium | 14''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "Bluetooth",
+        "SELLERIE": "Tissu",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-yaris-sedan-1.33l-style-1.webp",
+    "Nom": "TOYOTA YARIS SEDAN",
+    "Brand": "TOYOTA",
+    "Model": "YARIS SEDAN",
+    "Version": "1.33L STYLE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "123 nm 4200 tr/min",
+        "CYLINDRÉE": "1329 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4425 mm",
+        "LARGEUR": "1730 mm",
+        "HAUTEUR": "1475 mm",
+        "VOLUME DU COFFRE": "476 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.7 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "JANTES": "15''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs",
+        "CONNECTIVITÉ": "USB | AUX",
+        "POMMEAU DE LEVIER DE VITESSE EN CUIR": "",
+        "SELLERIE": "Tissu",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-yaris-sedan-1.33l-style-2.webp",
+    "Nom": "TOYOTA YARIS SEDAN",
+    "Brand": "TOYOTA",
+    "Model": "YARIS SEDAN",
+    "Version": "1.33L STYLE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "123 nm 4200 tr/min",
+        "CYLINDRÉE": "1329 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4425 mm",
+        "LARGEUR": "1730 mm",
+        "HAUTEUR": "1475 mm",
+        "VOLUME DU COFFRE": "476 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.7 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "JANTES": "15''",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "Tactile | 7 pouces",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-yaris-sedan-1.33l-elegance-2.webp",
+    "Nom": "TOYOTA YARIS SEDAN",
+    "Brand": "TOYOTA",
+    "Model": "YARIS SEDAN",
+    "Version": "1.33L ELEGANCE",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "100 CH",
+        "COUPLE": "123 nm 4200 tr/min",
+        "CYLINDRÉE": "1329 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4425 mm",
+        "LARGEUR": "1730 mm",
+        "HAUTEUR": "1475 mm",
+        "VOLUME DU COFFRE": "476 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.7 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.2 L/100 km",
+        "CONSOMMATION MIXTE": "5.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 15'' | Roue de secours en Aluminium",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "Tactile | 7 pouces",
+        "FINITION INTÉRIEURE": "Chromée",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "COFFRE À BAGAGES": "Ouverture à distance",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-corolla-1.2-l-active-1.webp",
+    "Nom": "TOYOTA COROLLA",
+    "Brand": "TOYOTA",
+    "Model": "COROLLA",
+    "Version": "1.2 L ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "185 nm 1500 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4370 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1435 mm",
+        "VOLUME DU COFFRE": "361 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.3 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux conducteur",
+        "ANTI-PATINAGE": "VSC",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "PRÉPARATION POUR TÉLÉPHONE": "",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-corolla-1.2-l-business-bva-1.webp",
+    "Nom": "TOYOTA COROLLA",
+    "Brand": "TOYOTA",
+    "Model": "COROLLA",
+    "Version": "1.2 L BUSINESS BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "185 nm 1500 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4370 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1435 mm",
+        "VOLUME DU COFFRE": "361 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.3 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux conducteur",
+        "ANTI-PATINAGE": "VSC",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "15''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "PRÉPARATION POUR TÉLÉPHONE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-corolla-1.2-l-dynamic-bva-1.webp",
+    "Nom": "TOYOTA COROLLA",
+    "Brand": "TOYOTA",
+    "Model": "COROLLA",
+    "Version": "1.2 L DYNAMIC BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "185 nm 1500 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4370 mm",
+        "LARGEUR": "1790 mm",
+        "HAUTEUR": "1435 mm",
+        "VOLUME DU COFFRE": "361 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.3 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "6.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.8 L/100 km",
+        "CONSOMMATION MIXTE": "5.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux conducteur",
+        "ANTI-PATINAGE": "VSC",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "3 APPUIS TÊTES ARRIÈRES": ""
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "PRÉPARATION POUR TÉLÉPHONE": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VERSION PAYS CHAUDS": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-yaris-1.0-l-vvti-france-1.webp",
+    "Nom": "TOYOTA YARIS",
+    "Brand": "TOYOTA",
+    "Model": "YARIS",
+    "Version": "1.0 L VVTI FRANCE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Compacte",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "4 CV",
+        "PUISSANCE (CH.DIN)": "72 CH",
+        "COUPLE": "100 nm 4300 tr/min",
+        "CYLINDRÉE": "999 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "3940 mm",
+        "LARGEUR": "1745 mm",
+        "HAUTEUR": "1470 mm",
+        "VOLUME DU COFFRE": "284 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "15.3 s",
+        "VITESSE MAXI": "155 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "5.5 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "4.3 L/100 km",
+        "CONSOMMATION MIXTE": "4.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Centraux",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour",
+        "JANTES": "15''",
+        "PEINTURE": "Métallisée",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | AUX | Android Auto | Bluetooth",
+        "ECRAN": "Tactile | 7 pouces",
+        "SELLERIE": "Tissu",
+        "VOLANT": "Multi-fonctions",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-c-hr-1.2-l-bvm-1.webp",
+    "Nom": "TOYOTA C-HR",
+    "Brand": "TOYOTA",
+    "Model": "C-HR",
+    "Version": "1.2 L BVM",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "185 nm 1500 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4360 mm",
+        "LARGEUR": "1795 mm",
+        "HAUTEUR": "1565 mm",
+        "VOLUME DU COFFRE": "377 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.9 s",
+        "VITESSE MAXI": "190 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.1 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux conducteur",
+        "ANTI-PATINAGE": "VSC",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | AUX | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Sport",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-c-hr-1.2-l-bva-1.webp",
+    "Nom": "TOYOTA C-HR",
+    "Brand": "TOYOTA",
+    "Model": "C-HR",
+    "Version": "1.2 L BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "6 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "185 nm 1500 tr/min",
+        "CYLINDRÉE": "1197 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4360 mm",
+        "LARGEUR": "1795 mm",
+        "HAUTEUR": "1565 mm",
+        "VOLUME DU COFFRE": "377 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.9 s",
+        "VITESSE MAXI": "190 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "7.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.1 L/100 km",
+        "CONSOMMATION MIXTE": "5.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux conducteur",
+        "ANTI-PATINAGE": "VSC",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 17''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | AUX | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES": "Sport",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | 3 branches | Multi-fonctions",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 4.2''",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-corolla-sedan-1.6-l-active-1.webp",
+    "Nom": "TOYOTA COROLLA SEDAN",
+    "Brand": "TOYOTA",
+    "Model": "COROLLA SEDAN",
+    "Version": "1.6 L ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "122 CH",
+        "COUPLE": "154 nm 5200 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4630 mm",
+        "LARGEUR": "1780 mm",
+        "HAUTEUR": "1435 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ANTI-PATINAGE": "VSC",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 17'' | Bi-ton",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant | Toyota Touch",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉGULATEUR DE VITESSE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-corolla-sedan-1.6-l-cvt-active-bva-1.webp",
+    "Nom": "TOYOTA COROLLA SEDAN",
+    "Brand": "TOYOTA",
+    "Model": "COROLLA SEDAN",
+    "Version": "1.6 L CVT ACTIVE BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "7 CV",
+        "PUISSANCE (CH.DIN)": "124 CH",
+        "COUPLE": "157 nm 5200 tr/min",
+        "CYLINDRÉE": "1598 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4630 mm",
+        "LARGEUR": "1780 mm",
+        "HAUTEUR": "1435 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.7 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "5.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant | Toyota Touch",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 16''",
+        "PHARES": "Bi-LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-corolla-sedan-hybride-1.8-l-1.webp",
+    "Nom": "COROLLA SEDAN HYBRIDE",
+    "Brand": "TOYOTA",
+    "Model": "COROLLA SEDAN HYBRIDE",
+    "Version": "1.8 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Sedan",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "122 CH",
+        "COUPLE": "142 nm 5200 tr/min",
+        "CYLINDRÉE": "1798 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4630 mm",
+        "LARGEUR": "1780 mm",
+        "HAUTEUR": "1435 mm",
+        "VOLUME DU COFFRE": "471 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "3.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant | Toyota Touch",
+        "CONNECTIVITÉ": "USB | AUX | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Noire",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 17'' | Bi-ton",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "2",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir/Tissu",
+        "SIÈGES": "Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco | EV Mode",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-corolla-cross-1.8-l-high-hybride-1.webp",
+    "Nom": "TOYOTA COROLLA CROSS",
+    "Brand": "TOYOTA",
+    "Model": "COROLLA CROSS",
+    "Version": "1.8 L HIGH HYBRIDE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "122 CH",
+        "COUPLE": "142 nm 5200 tr/min",
+        "CYLINDRÉE": "1798 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4460 mm",
+        "LARGEUR": "1825 mm",
+        "HAUTEUR": "1620 mm",
+        "VOLUME DU COFFRE": "437 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ANTI-PATINAGE": "VSC",
+        "ASSISTANCE AU FREINAGE": "EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Noire",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant | Toyota Touch",
+        "CONNECTIVITÉ": "USB | Bluetooth",
+        "ECRAN": "Tactile | 8 pouces",
+        "SELLERIE": "Similicuir",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco | EV Mode",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "RÉGULATEUR DE VITESSE": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-yaris-cross-hybride-1.5-l-cvt-bi-ton-1.webp",
+    "Nom": "YARIS CROSS HYBRIDE",
+    "Brand": "TOYOTA",
+    "Model": "YARIS CROSS HYBRIDE",
+    "Version": "1.5 L CVT BI-TON",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "120 nm 3600 tr/min",
+        "CYLINDRÉE": "1490 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4180 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1595 mm",
+        "VOLUME DU COFFRE": "397 L",
+        "VOLUME DU COFFRE MAXIMAL": "1097 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.2 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Clignotants à défilement",
+        "JANTES": "En aluminium | 17'' | Noires",
+        "PEINTURE": "Bi-ton",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "SELLERIE": "Cuir/Tissu",
+        "SIÈGES": "Chauffants",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco | EV Mode",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-yaris-cross-hybride-1.5-l-cvt-1.webp",
+    "Nom": "YARIS CROSS HYBRIDE",
+    "Brand": "TOYOTA",
+    "Model": "YARIS CROSS HYBRIDE",
+    "Version": "1.5 L CVT",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "120 nm 3600 tr/min",
+        "CYLINDRÉE": "1490 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4180 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1595 mm",
+        "VOLUME DU COFFRE": "397 L",
+        "VOLUME DU COFFRE MAXIMAL": "1097 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.2 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Clignotants à défilement",
+        "JANTES": "En aluminium | 17'' | Noires",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "SELLERIE": "Cuir/Tissu",
+        "SIÈGES": "Chauffants",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco | EV Mode",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-yaris-cross-hybride-1.5-l-cvt-bi-ton-2025-1.webp",
+    "Nom": "YARIS CROSS HYBRIDE",
+    "Brand": "TOYOTA",
+    "Model": "YARIS CROSS HYBRIDE",
+    "Version": "1.5 L CVT BI-TON 2025",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "3",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "5 CV",
+        "PUISSANCE (CH.DIN)": "116 CH",
+        "COUPLE": "120 nm 3600 tr/min",
+        "CYLINDRÉE": "1490 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4180 mm",
+        "LARGEUR": "1765 mm",
+        "HAUTEUR": "1595 mm",
+        "VOLUME DU COFFRE": "397 L",
+        "VOLUME DU COFFRE MAXIMAL": "1097 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11.2 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "4.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Clignotants à défilement",
+        "JANTES": "En aluminium | 17'' | Noires",
+        "PEINTURE": "Bi-ton",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "SELLERIE": "Cuir/Tissu",
+        "SIÈGES": "Chauffants",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco | EV Mode",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-rav-4-2.0-l-active-1.webp",
+    "Nom": "TOYOTA RAV 4",
+    "Brand": "TOYOTA",
+    "Model": "RAV 4",
+    "Version": "2.0 L ACTIVE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "173 CH",
+        "COUPLE": "208 nm 5200 tr/min",
+        "CYLINDRÉE": "1987 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4600 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1690 mm",
+        "VOLUME DU COFFRE": "580 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "10.7 s",
+        "VITESSE MAXI": "190 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "5.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ANTI-PATINAGE": "VSC",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED",
+        "SORTIES D’ÉCHAPPEMENT": "Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | AUX | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 8 pouces",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Conducteur à réglage électrique | Chauffants | Réglage lombaire | Fonction mémoire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "HAC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-rav-4-hybride-2.5-l-1.webp",
+    "Nom": "TOYOTA RAV 4 HYBRIDE",
+    "Brand": "TOYOTA",
+    "Model": "RAV 4 HYBRIDE",
+    "Version": "2.5 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "218 CH",
+        "COUPLE": "221 nm 5200 tr/min",
+        "CYLINDRÉE": "2478 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4600 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1690 mm",
+        "VOLUME DU COFFRE": "580 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.4 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "4.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | AUX | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Poignées de portes",
+        "FEUX À LED": "Feux de jour | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "PHARES": "Full LED",
+        "SORTIES D’ÉCHAPPEMENT": "Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "FINITION INTÉRIEURE": "Noir brillant",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Conducteur à réglage électrique | Chauffants | Réglage lombaire | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco | EV Mode",
+        "ORDINATEUR DE BORD": "Ecran TFT 7''",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-prado-3.0-l-4x4-1.webp",
+    "Nom": "TOYOTA PRADO",
+    "Brand": "TOYOTA",
+    "Model": "PRADO",
+    "Version": "3.0 L 4X4",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "163 CH",
+        "COUPLE": "345 nm 1600 tr/min",
+        "CYLINDRÉE": "2982 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4930 mm",
+        "LARGEUR": "1885 mm",
+        "HAUTEUR": "1890 mm",
+        "VOLUME DU COFFRE": "104 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "12.4 s",
+        "VITESSE MAXI": "167 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "10.4 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.7 L/100 km",
+        "CONSOMMATION MIXTE": "8.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "VSC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 17''"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "Bluetooth",
+        "SELLERIE": "Cuir | Velours",
+        "SIÈGES": "Chauffants",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Teintées"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "SYSTÈME START & STOP": "",
+        "SYSTÈME DE DESCENTE EN CÔTE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-prado-2.8-l-4x4-bva-1.webp",
+    "Nom": "TOYOTA PRADO",
+    "Brand": "TOYOTA",
+    "Model": "PRADO",
+    "Version": "2.8 L 4X4 BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "204 CH",
+        "COUPLE": "500 nm 1600 tr/min",
+        "CYLINDRÉE": "2755 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4840 mm",
+        "LARGEUR": "1885 mm",
+        "HAUTEUR": "1845 mm",
+        "VOLUME DU COFFRE": "621 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.7 L/100 km",
+        "CONSOMMATION MIXTE": "7.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux",
+        "ANTI-PATINAGE": "VSC",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes",
+        "JANTES": "En aluminium | 17''",
+        "MARCHEPIEDS LATÉRAUX": "",
+        "PEINTURE": "Métallisée"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant",
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "Bluetooth",
+        "SELLERIE": "Cuir",
+        "TAPIS DE SOL": "",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "SYSTÈME DE DESCENTE EN CÔTE": "",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Dégivrants | Avec capuchons blancs/noirs",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-prado-2.8-l-tx-business-bva-2.webp",
+    "Nom": "TOYOTA PRADO",
+    "Brand": "TOYOTA",
+    "Model": "PRADO",
+    "Version": "2.8 L TX BUSINESS BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "204 CH",
+        "COUPLE": "500 nm 1600 tr/min",
+        "CYLINDRÉE": "2755 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Central"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4930 mm",
+        "LARGEUR": "1980 mm",
+        "HAUTEUR": "1935 mm",
+        "VOLUME DU COFFRE": "621 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "7.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Système Audio JBL",
+        "CONNECTIVITÉ": "USB-C | Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "Tactile | 8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "MARCHEPIEDS LATÉRAUX": "",
+        "PHARES": "LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLIMATISATION": "Automatique | 3 zones | Ventilation arrière",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "7 pouces",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-prado-2.8-l-wx-adventure-bva-2.webp",
+    "Nom": "TOYOTA PRADO",
+    "Brand": "TOYOTA",
+    "Model": "PRADO",
+    "Version": "2.8 L WX ADVENTURE BVA",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "204 CH",
+        "COUPLE": "500 nm 1600 tr/min",
+        "CYLINDRÉE": "2755 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "8",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière | Central"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4930 mm",
+        "LARGEUR": "1980 mm",
+        "HAUTEUR": "1935 mm",
+        "VOLUME DU COFFRE": "621 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.9 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "7.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Genoux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "14 haut-parleurs | Système Audio JBL",
+        "CONNECTIVITÉ": "USB-C | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil | HDMI",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "MARCHEPIEDS LATÉRAUX": "",
+        "PHARES": "Full LED",
+        "SPOILER ARRIÈRE": ""
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Réfrigéré | Arrière",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Réglage lombaire | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "BOULE D'ATTELAGE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Cache Bagages",
+        "CLIMATISATION": "Automatique | 3 zones | Ventilation arrière",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement | Sans Cadre | Avec caméra arrière",
+        "INSTRUMENTATION DIGITALE": "12.3''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-land-cruiser-76-4.2-l-1.webp",
+    "Nom": "TOYOTA LAND CRUISER 76",
+    "Brand": "TOYOTA",
+    "Model": "LAND CRUISER 76",
+    "Version": "4.2 L",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4 | 2 portes arrières battantes vitrées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "6",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "285 nm 2200 tr/min",
+        "CYLINDRÉE": "4164 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4720 mm",
+        "LARGEUR": "1770 mm",
+        "HAUTEUR": "1955 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "N.C"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "17''"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "4 haut-parleurs",
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "DIRECTION ASSISTÉE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-land-cruiser-76-4.2-l-2.webp",
+    "Nom": "TOYOTA LAND CRUISER 76",
+    "Brand": "TOYOTA",
+    "Model": "LAND CRUISER 76",
+    "Version": "4.2 L",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "9",
+        "NOMBRE DE PORTES": "4 | 2 portes arrières battantes vitrées"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "6",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "285 nm 2200 tr/min",
+        "CYLINDRÉE": "4164 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4720 mm",
+        "LARGEUR": "1770 mm",
+        "HAUTEUR": "1955 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "N.C"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "4 haut-parleurs"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-land-cruiser-79-4.2-l-diesel-4x4-simple-cabine-1.webp",
+    "Nom": "TOYOTA LAND CRUISER 79",
+    "Brand": "TOYOTA",
+    "Model": "LAND CRUISER 79",
+    "Version": "4.2 L DIESEL 4X4 SIMPLE CABINE",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "2"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "6",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "285 nm 2200 tr/min",
+        "CYLINDRÉE": "4164 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5095 mm",
+        "LARGEUR": "1770 mm",
+        "HAUTEUR": "1970 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "140 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "12.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "2 haut-parleurs",
+        "CONNECTIVITÉ": "USB"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "En aluminium | 16''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-land-cruiser-4.5-l-v8-200-vx-1.webp",
+    "Nom": "TOYOTA LAND CRUISER",
+    "Brand": "TOYOTA",
+    "Model": "LAND CRUISER",
+    "Version": "4.5 L V8 200 VX",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "8",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "8",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "18 CV",
+        "PUISSANCE (CH.DIN)": "235 CH",
+        "COUPLE": "650 nm 1600 tr/min",
+        "CYLINDRÉE": "4461 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4950 mm",
+        "LARGEUR": "1970 mm",
+        "HAUTEUR": "1905 mm",
+        "VOLUME DU COFFRE": "104 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.2 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "12 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "9.1 L/100 km",
+        "CONSOMMATION MIXTE": "10.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "JANTES": "En aluminium | 17''",
+        "RADAR DE STATIONNEMENT": "Arrière | Avant"
+    },
+    "Equipements intérieurs": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "Bluetooth",
+        "SELLERIE": "Cuir",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | En verre",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "BOUTON START & STOP": "",
+        "CLÉ INTELLIGENTE": "",
+        "CLIMATISATION": "Climatronic | 4 zones",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "",
+        "SYSTÈME START & STOP": "",
+        "SYSTÈME DE DESCENTE EN CÔTE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-land-cruiser-300-3.5-l-v6-bi-turbo-essence-4wd-vx-2.webp",
+    "Nom": "LAND CRUISER 300",
+    "Brand": "TOYOTA",
+    "Model": "LAND CRUISER 300",
+    "Version": "3.5 L V6 BI-TURBO ESSENCE 4WD VX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "6",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "32 CV",
+        "PUISSANCE (CH.DIN)": "415 CH",
+        "COUPLE": "650 nm 2000 tr/min",
+        "CYLINDRÉE": "3445 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "10",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4980 mm",
+        "LARGEUR": "1980 mm",
+        "HAUTEUR": "1950 mm",
+        "VOLUME DU COFFRE": "175 L",
+        "VOLUME DU COFFRE MAXIMAL": "1004 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "6.8 s",
+        "VITESSE MAXI": "210 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "10.8 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "14 haut-parleurs | Système Audio JBL",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Chargeur de téléphone sans fil | HDMI",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces | écrans pour passagers arrières"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "MARCHEPIEDS LATÉRAUX": "",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Réfrigéré",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | 4 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-land-cruiser-300-3.3-l-v6-bi-turbo-diesel-4wd-vx-2.webp",
+    "Nom": "LAND CRUISER 300",
+    "Brand": "TOYOTA",
+    "Model": "LAND CRUISER 300",
+    "Version": "3.3 L V6 BI-TURBO DIESEL 4WD VX",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "6",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "21 CV",
+        "PUISSANCE (CH.DIN)": "306 CH",
+        "COUPLE": "700 nm 1600 tr/min",
+        "CYLINDRÉE": "3346 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "10",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4980 mm",
+        "LARGEUR": "1980 mm",
+        "HAUTEUR": "1950 mm",
+        "VOLUME DU COFFRE": "175 L",
+        "VOLUME DU COFFRE MAXIMAL": "1004 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7.4 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "11.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.6 L/100 km",
+        "CONSOMMATION MIXTE": "8.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "14 haut-parleurs | Système Audio JBL",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Chargeur de téléphone sans fil | HDMI",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces | écrans pour passagers arrières"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "MARCHEPIEDS LATÉRAUX": "",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Réfrigéré",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | 4 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-land-cruiser-300-3.3-l-v6-bi-turbo-diesel-4wd-gr-sport-2.webp",
+    "Nom": "LAND CRUISER 300",
+    "Brand": "TOYOTA",
+    "Model": "LAND CRUISER 300",
+    "Version": "3.3 L V6 BI-TURBO DIESEL 4WD GR-SPORT",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "6",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "21 CV",
+        "PUISSANCE (CH.DIN)": "306 CH",
+        "COUPLE": "700 nm 1600 tr/min",
+        "CYLINDRÉE": "3346 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "10",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière | Avant"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4980 mm",
+        "LARGEUR": "1980 mm",
+        "HAUTEUR": "1950 mm",
+        "VOLUME DU COFFRE": "175 L",
+        "VOLUME DU COFFRE MAXIMAL": "1004 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "7.4 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "11.3 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.6 L/100 km",
+        "CONSOMMATION MIXTE": "8.9 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "14 haut-parleurs | Système Audio JBL",
+        "CONNECTIVITÉ": "USB | USB-C | Android Auto | Apple Carplay | Chargeur de téléphone sans fil | HDMI",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces | écrans pour passagers arrières"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Noire",
+        "BARRES DE TOIT": "Noires",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "KIT CARROSSERIE": "GR Sport",
+        "MARCHEPIEDS LATÉRAUX": "",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Réfrigéré",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Cuir perforé",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Fonction mémoire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | 4 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-fortuner-2.4-l-d-4d-7-places-bva-1.webp",
+    "Nom": "TOYOTA FORTUNER",
+    "Brand": "TOYOTA",
+    "Model": "FORTUNER",
+    "Version": "2.4 L D-4D 7 PLACES BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "400 nm 1600 tr/min",
+        "CYLINDRÉE": "2393 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4795 mm",
+        "LARGEUR": "1855 mm",
+        "HAUTEUR": "1835 mm",
+        "VOLUME DU COFFRE": "253 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "9.4 s",
+        "VITESSE MAXI": "175 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.7 L/100 km",
+        "CONSOMMATION MIXTE": "7.4 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Genoux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée | Piano Black",
+        "BARRES DE TOIT": "",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 18''",
+        "MARCHEPIEDS LATÉRAUX": "",
+        "PEINTURE": "Métallisée",
+        "PHARES": "LED",
+        "POIGNÉES DE PORTES": "Chromées"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "SELLERIE": "Tissu | Surpiqures",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Avec clignotants intégrés",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-hilux-double-cabine-2.4-l-diesel-d-4d-4x4-1.webp",
+    "Nom": "HILUX DOUBLE CABINE",
+    "Brand": "TOYOTA",
+    "Model": "HILUX DOUBLE CABINE",
+    "Version": "2.4 L DIESEL D-4D 4X4",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "400 nm 1600 tr/min",
+        "CYLINDRÉE": "2393 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5330 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1815 mm",
+        "CHARGE UTILE": "850 KG",
+        "SURFACE DE CHARGEMENT": "2.35 m²"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.3 L/100 km",
+        "CONSOMMATION MIXTE": "7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux | Genoux conducteur",
+        "ALARME ANTIVOL": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "8 pouces"
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "JANTES": "17''",
+        "MARCHEPIEDS LATÉRAUX": ""
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-hilux-double-cabine-2.4-l-diesel-d-4d-4x4-bva-1.webp",
+    "Nom": "HILUX DOUBLE CABINE",
+    "Brand": "TOYOTA",
+    "Model": "HILUX DOUBLE CABINE",
+    "Version": "2.4 L DIESEL D-4D 4X4 BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "4"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "400 nm 1600 tr/min",
+        "CYLINDRÉE": "2393 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5330 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1815 mm",
+        "CHARGE UTILE": "850 KG",
+        "SURFACE DE CHARGEMENT": "2.35 m²"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.3 L/100 km",
+        "CONSOMMATION MIXTE": "7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Genoux conducteur",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "Android Auto | Apple Carplay | Bluetooth",
+        "ECRAN CENTRAL": "8 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "LED",
+        "CALANDRE": "Chromée | Noire",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 17''",
+        "MARCHEPIEDS LATÉRAUX": "",
+        "PHARES": "LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "SELLERIE": "Tissu | Surpiqures",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur",
+        "TAPIS DE SOL": "",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Automatique | Bizone | Ventilation arrière",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "toyota-hilux-simple-cabine-2.4-l-diesel-d-4d-4x4-1.webp",
+    "Nom": "HILUX SIMPLE CABINE",
+    "Brand": "TOYOTA",
+    "Model": "HILUX SIMPLE CABINE",
+    "Version": "2.4 L DIESEL D-4D 4X4",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Pick up",
+        "NOMBRE DE PLACES": "2",
+        "NOMBRE DE PORTES": "2"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "400 nm 1600 tr/min",
+        "CYLINDRÉE": "2393 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Intégrale",
+        "DIFFÉRENTIEL AUTOBLOQUANT": "Arrière"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5325 mm",
+        "LARGEUR": "1800 mm",
+        "HAUTEUR": "1795 mm",
+        "CHARGE UTILE": "1125 KG"
+    },
+    "Performances": {
+        "0-100 KM/H": "13.2 s",
+        "VITESSE MAXI": "170 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.2 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.3 L/100 km",
+        "CONSOMMATION MIXTE": "7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Genoux conducteur",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": ""
+    },
+    "Equipements extérieurs": {
+        "CALANDRE": "Chromée",
+        "JANTES": "17''",
+        "MARCHEPIEDS LATÉRAUX": ""
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "VOLANT": "Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques",
+        "VITRES ÉLECTRIQUES": "Avant"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-hiace-2.5-l-diesel-16-places-1.webp",
+    "Nom": "TOYOTA HIACE",
+    "Brand": "TOYOTA",
+    "Model": "HIACE",
+    "Version": "2.5 L DIESEL 16 PLACES",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "16",
+        "NOMBRE DE PORTES": "5 | 2 portes latérales coulissantes"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "102 CH",
+        "COUPLE": "260 nm 1600 tr/min",
+        "CYLINDRÉE": "2494 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "5380 mm",
+        "LARGEUR": "1880 mm",
+        "HAUTEUR": "2285 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "24.1 s",
+        "VITESSE MAXI": "145 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "11.6 L/100 km",
+        "CONSOMMATION MIXTE": "9.3 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | AUX"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "Plastique antidérapant"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle | Ventilation arrière"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-coaster-4.2-l-diesel-23-places-1.webp",
+    "Nom": "TOYOTA COASTER",
+    "Brand": "TOYOTA",
+    "Model": "COASTER",
+    "Version": "4.2 L DIESEL 23 PLACES",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "23",
+        "NOMBRE DE PORTES": "2 | 1 porte latérale battante"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "11 CV",
+        "PUISSANCE (CH.DIN)": "130 CH",
+        "COUPLE": "284 nm 2200 tr/min",
+        "CYLINDRÉE": "4164 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "6990 mm",
+        "LARGEUR": "2080 mm",
+        "HAUTEUR": "2635 mm"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "100 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "N.C",
+        "CONSOMMATION EXTRA-URBAINE": "N.C",
+        "CONSOMMATION MIXTE": "N.C"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontal conducteur"
+    },
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB | AUX"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "17''",
+        "PORTE BAGAGES": ""
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "TAPIS DE SOL": "Plastique antidérapant"
+    },
+    "Equipements fonctionnels": {
+        "CLIMATISATION": "Manuelle | Ventilation arrière"
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "toyota-hiace-van-3.0-l-diesel-1.webp",
+    "Nom": "TOYOTA HIACE VAN",
+    "Brand": "TOYOTA",
+    "Model": "HIACE VAN",
+    "Version": "3.0 L DIESEL",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "Utilitaire",
+        "NOMBRE DE PLACES": "3",
+        "NOMBRE DE PORTES": "3 | 1 porte latérale coulissante"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "10 CV",
+        "PUISSANCE (CH.DIN)": "92 CH",
+        "COUPLE": "197 nm 4000 tr/min",
+        "CYLINDRÉE": "2986 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Manuelle",
+        "NOMBRE DE RAPPORTS": "5",
+        "TRANSMISSION": "Propulsion"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4695 mm",
+        "LARGEUR": "1695 mm",
+        "HAUTEUR": "1980 mm",
+        "CHARGE UTILE": "1030 KG",
+        "VOLUME UTILE": "6 m³"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "140 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "10.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "7.8 L/100 km",
+        "CONSOMMATION MIXTE": "8.8 L/100 km"
+    },
+    "Equipements de sécurité": null,
+    "Audio et communication": {
+        "AUTORADIO": "",
+        "CONNECTIVITÉ": "USB"
+    },
+    "Equipements extérieurs": {
+        "JANTES": "15''"
+    },
+    "Equipements intérieurs": {
+        "SELLERIE": "Tissu",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "VITRES": "Avant et arrière feuilletées | Vitres latérales en verre trempé",
+        "VOLANT": "4 branches",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "CLIMATISATION": "Manuelle",
+        "FERMETURE CENTRALISÉE": ""
+    },
+    "Bluetooth": false,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
