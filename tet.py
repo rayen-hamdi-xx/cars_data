@@ -187,7 +187,7 @@ for url in urls:
     with open(json_file_path, "a", encoding="utf-8") as json_file:
         json.dump(scraped_data, json_file, indent=4, ensure_ascii=False)
         json_file.write(",\n")
-    #gen += 1
+    gen += 1
 
 # Write the updated data back to the file
 

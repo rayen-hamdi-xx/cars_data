@@ -48525,3 +48525,703 @@
     "Apple CarPlay": false,
     "Android Auto": false
 },
+{
+    "Image": "haval-h2-1.5-t-bva-1.webp",
+    "Nom": "HAVAL H2",
+    "Brand": "HAVAL",
+    "Model": "H2",
+    "Version": "1.5 T BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "143 CH",
+        "COUPLE": "202 nm 2200 tr/min",
+        "CYLINDRÉE": "1497 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "6",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4365 mm",
+        "LARGEUR": "1814 mm",
+        "HAUTEUR": "1710 mm",
+        "VOLUME DU COFFRE": "594 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "8.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED",
+        "SORTIES D’ÉCHAPPEMENT": "Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "4 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX | Apple Carplay | 1 fente pour carte SD",
+        "ECRAN": "Tactile",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "SCURA",
+        "SIÈGES": "Conducteur à réglage électrique | 6 directions | Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE PARKING ÉLÉCTRIQUE": "",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "PRISE 12V": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": false
+},
+{
+    "Image": "haval-h9-2.0-l-diesel-bva-luxury-1.webp",
+    "Nom": "HAVAL H9",
+    "Brand": "HAVAL",
+    "Model": "H9",
+    "Version": "2.0 L DIESEL BVA LUXURY",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "7",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Diesel",
+        "PUISSANCE FISCALE": "13 CV",
+        "PUISSANCE (CH.DIN)": "190 CH",
+        "COUPLE": "420 nm 1400 tr/min",
+        "CYLINDRÉE": "1996 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "9",
+        "TRANSMISSION": "Intégrale"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4856 mm",
+        "LARGEUR": "1926 mm",
+        "HAUTEUR": "1900 mm",
+        "VOLUME DU COFFRE": "1185 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "9.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP | TCS",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Caméra de recul",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant",
+        "JANTES": "En aluminium | 18''",
+        "LAVE PHARES": "",
+        "MARCHEPIEDS LATÉRAUX": "",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Xénon | Directionnels | Bi-xénon",
+        "SORTIES D’ÉCHAPPEMENT": "Doubles"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "10 haut-parleurs | Commandes au volant",
+        "BOÎTE À GANTS RÉFRIGÉRÉE": "",
+        "CONNECTIVITÉ": "USB | Bluetooth | AUX",
+        "ECRAN": "Tactile",
+        "KIT FUMEURS": "",
+        "LUMIÈRES D'AMBIANCE": "LED | 5 Couleurs",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Cuir",
+        "SEUILS DE PORTES": "Eclairés",
+        "SIÈGES": "Conducteur à réglage électrique | 8 directions | Réglage lombaire | Fonction mémoire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant",
+        "VITRES": "Teintées | Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes"
+    },
+    "Equipements fonctionnels": {
+        "AIDE AU DÉMARRAGE EN CÔTE": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture électriques",
+        "CLIMATISATION": "Climatronic | 3 zones",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME DE DESCENTE EN CÔTE": "",
+        "PRISE 12V": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": false,
+    "Android Auto": false
+},
+{
+    "Image": "haval-h6-hybride-1.5-t-hev-1.webp",
+    "Nom": "HAVAL H6 HYBRIDE",
+    "Brand": "HAVAL",
+    "Model": "H6 HYBRIDE",
+    "Version": "1.5 T HEV",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence | Hybride",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "240 CH",
+        "COUPLE": "530 nm 1500 tr/min",
+        "CYLINDRÉE": "1499 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4653 mm",
+        "LARGEUR": "1886 mm",
+        "HAUTEUR": "1730 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "8.5 s",
+        "VITESSE MAXI": "180 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "5.2 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "Périmétrique",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "BARRE STABILISATRICE": "Avant | Arrière",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces"
+    },
+    "Equipements extérieurs": {
+        "ANTIBROUILLARDS": "Avec fonction Cornering",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "APPUIS TÊTES ARRIÈRES": "3",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "SELLERIE": "Similicuir",
+        "SEUILS DE PORTES": "Eclairés",
+        "SIÈGES": "Électriques | Chauffants | Ventilés | Réglage lombaire",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée | Ouverture mains libres",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "INSTRUMENTATION DIGITALE": "10.25''",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "haval-h6-1.5-t-luxury-bva-1.webp",
+    "Nom": "HAVAL H6",
+    "Brand": "HAVAL",
+    "Model": "H6",
+    "Version": "1.5 T LUXURY BVA",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "143 CH",
+        "COUPLE": "230 nm 2200 tr/min",
+        "CYLINDRÉE": "1499 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4610 mm",
+        "LARGEUR": "1860 mm",
+        "HAUTEUR": "1720 mm",
+        "VOLUME DU COFFRE": "440 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "9.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "6.7 L/100 km",
+        "CONSOMMATION MIXTE": "7.7 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ANTI-PATINAGE": "ESP",
+        "ASSISTANCE AU FREINAGE": "EBA | EBD",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CAMÉRA LATÉRALE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar arrière | Radar avant | Système de caméras 360 | Parkassist",
+        "ANTIBROUILLARDS": "",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Bluetooth | Apple Carplay | Android Auto",
+        "ECRAN": "Tactile | 9 pouces",
+        "KIT RANGEMENT": "",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir | Surpiqures | SCURA",
+        "SEUILS DE PORTES": "Eclairés",
+        "SIÈGES": "Électriques | 8 directions | Réglage lombaire | Fonction mémoire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | 4 branches"
+    },
+    "Equipements fonctionnels": {
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "CLIMATISATION": "Climatronic | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "PRISE 12V": "",
+        "INSTRUMENTATION NUMÉRIQUE": "",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "haval-h6-1.5-t-7-dct-2.webp",
+    "Nom": "HAVAL H6",
+    "Brand": "HAVAL",
+    "Model": "H6",
+    "Version": "1.5 T 7-DCT",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "8 CV",
+        "PUISSANCE (CH.DIN)": "150 CH",
+        "COUPLE": "230 nm 1500 tr/min",
+        "CYLINDRÉE": "1499 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4635 mm",
+        "LARGEUR": "1886 mm",
+        "HAUTEUR": "1730 mm",
+        "VOLUME DU COFFRE": "600 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "N.C",
+        "VITESSE MAXI": "N.C"
+    },
+    "Consommation": {
+        "CONSOMMATION URBAINE": "8.6 L/100 km",
+        "CONSOMMATION EXTRA-URBAINE": "5.5 L/100 km",
+        "CONSOMMATION MIXTE": "6.6 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "Périmétrique",
+        "ANTI-PATINAGE": "ESC | ESP | TCS",
+        "ASSISTANCE AU FREINAGE": "AFU | Active City Brake | EBA | BAS | EBD | Système anti-collision avec détection des piétons | Freinage automatique anti-collision | Alerte Risque Colision",
+        "AIDE AU MAINTIEN DANS LA VOIE": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "DÉTECTEUR DE FATIGUE": "",
+        "FIXATIONS ISOFIX": "",
+        "RECONNAISSANCE DES PANNEAUX": "",
+        "SURVEILLANCE D’ANGLE MORT": ""
+    },
+    "Equipements extérieurs": {
+        "AIDE AU STATIONNEMENT": "Radar de recul | Radar avant | Système de caméras 360 | Parkassist",
+        "ANTIBROUILLARDS": "Avec fonction Cornering",
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "CALANDRE": "Chromée",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "Pare-chocs | Poignées de portes | Rétroviseurs",
+        "FEUX À LED": "Feux de jour | Avant | Arrières",
+        "JANTES": "En aluminium | 19''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "AUTORADIO": "8 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Apple Carplay | Android Auto | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN": "Tactile | 12.3 pouces",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "LUMIÈRES D'AMBIANCE": "LED",
+        "POMMEAU DE LEVIER DE VITESSE": "Cuir",
+        "SELLERIE": "Similicuir | Surpiqures",
+        "SEUILS DE PORTES": "Eclairés",
+        "SIÈGES": "Électriques | Ventilés | Réglage lombaire",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique | En verre",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "APPUIS TÊTES ARRIÈRES": "3"
+    },
+    "Equipements fonctionnels": {
+        "AFFICHAGE TÊTE HAUTE": "",
+        "AIDE AU DÉMARRAGE EN CÔTE": "HHC",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Ouverture et fermeture motorisée",
+        "CLIMATISATION": "Automatique | Bizone",
+        "DÉTECTEUR DE PLUIE": "",
+        "DIRECTION ASSISTÉE": "Électrique",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT ÉLÉCTRIQUE": "",
+        "SÉLECTEUR DE MODES DE CONDUITE": "Normal | Sport | Eco",
+        "ORDINATEUR DE BORD": "",
+        "RÉGULATEUR DE VITESSE": "Adaptatif",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants | Avec clignotants intégrés | Éclairage d'accueil à LED",
+        "SIÈGES AVANT RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "SYSTÈME START & STOP": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION NUMÉRIQUE": "10.25''",
+        "SYSTÈME DE DESCENTE EN CÔTE": "HDC",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière",
+        "VOLANT RÉGLABLE": "En hauteur et en profondeur"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "haval-jolion-1.5-t-1.webp",
+    "Nom": "HAVAL JOLION",
+    "Brand": "HAVAL",
+    "Model": "JOLION",
+    "Version": "1.5 T",
+    "Generation": "1",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "143 CH",
+        "COUPLE": "210 nm 2000 tr/min",
+        "CYLINDRÉE": "1479 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4472 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1574 mm",
+        "VOLUME DU COFFRE": "390 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "8.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces"
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Similicuir",
+        "SIÈGES": "Conducteur à réglage électrique | 6 directions | Chauffants",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco | Winter",
+        "ORDINATEUR DE BORD": "",
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "INSTRUMENTATION DIGITALE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
+{
+    "Image": "haval-jolion-1.5-t-2.webp",
+    "Nom": "HAVAL JOLION",
+    "Brand": "HAVAL",
+    "Model": "JOLION",
+    "Version": "1.5 T",
+    "Generation": "2",
+    "Caractéristiques": {
+        "CARROSSERIE": "SUV",
+        "NOMBRE DE PLACES": "5",
+        "NOMBRE DE PORTES": "5"
+    },
+    "Motorisation": {
+        "NOMBRE DE CYLINDRES": "4",
+        "ENERGIE": "Essence",
+        "PUISSANCE FISCALE": "9 CV",
+        "PUISSANCE (CH.DIN)": "143 CH",
+        "COUPLE": "210 nm 2000 tr/min",
+        "CYLINDRÉE": "1479 CM³"
+    },
+    "Transmission": {
+        "BOÎTE": "Automatique",
+        "NOMBRE DE RAPPORTS": "7",
+        "TRANSMISSION": "Traction"
+    },
+    "Dimensions": {
+        "LONGUEUR": "4472 mm",
+        "LARGEUR": "1841 mm",
+        "HAUTEUR": "1574 mm",
+        "VOLUME DU COFFRE": "390 L"
+    },
+    "Performances": {
+        "0-100 KM/H": "11 s",
+        "VITESSE MAXI": "200 KM/H"
+    },
+    "Consommation": {
+        "CONSOMMATION MIXTE": "8.1 L/100 km"
+    },
+    "Equipements de sécurité": {
+        "ABS": "",
+        "AIRBAGS": "Frontaux | Latéraux | Rideaux",
+        "ALARME ANTIVOL": "",
+        "ALLUMAGE AUTOMATIQUE DES FEUX": "",
+        "ANTI-DÉMARRAGE ÉLECTRONIQUE": "",
+        "CONTRÔLE DE PRESSION DES PNEUS": "",
+        "FIXATIONS ISOFIX": ""
+    },
+    "Audio et communication": {
+        "AUTORADIO": "6 haut-parleurs | Commandes au volant",
+        "CONNECTIVITÉ": "USB | Android Auto | Apple Carplay | Bluetooth | Chargeur de téléphone sans fil",
+        "ECRAN CENTRAL": "Tactile | 12.3 pouces"
+    },
+    "Equipements extérieurs": {
+        "BAGUETTES EXTÉRIEURES D'ENCADREMENT DES VITRES": "Chrome",
+        "BARRES DE TOIT": "",
+        "ELÉMENTS EXTÉRIEURS COULEUR CARROSSERIE": "",
+        "JANTES": "En aluminium | 18''",
+        "PEINTURE": "Métallisée",
+        "PHARES": "Full LED"
+    },
+    "Equipements intérieurs": {
+        "ACCOUDOIRS": "Avant | Arrière",
+        "KIT RANGEMENT": "Porte-lunettes",
+        "SELLERIE": "Similicuir",
+        "SIÈGES": "Conducteur à réglage électrique | 6 directions | Chauffants",
+        "SIÈGES RÉGLABLES EN HAUTEUR": "Conducteur et passager",
+        "TAPIS DE SOL": "",
+        "TOIT": "Ouvrant | Panoramique",
+        "VITRES": "Lunette et vitres arrières sur-teintées",
+        "VOLANT": "Cuir | Multi-fonctions | Avec palettes",
+        "VOLANT RÉGLABLE": "En hauteur"
+    },
+    "Equipements fonctionnels": {
+        "ALIMENTATION ÉLECTRIQUE": "1 prise 12 V",
+        "BOUTON START & STOP": "Démarrage mains libres",
+        "CLÉ INTELLIGENTE": "Accès mains libres",
+        "COFFRE À BAGAGES": "Cache Bagages",
+        "CLIMATISATION": "Automatique",
+        "DÉTECTEUR DE PLUIE": "",
+        "FERMETURE CENTRALISÉE": "À distance",
+        "FREIN DE STATIONNEMENT": "Éléctrique",
+        "MODES DE CONDUITE": "Normal | Sport | Eco | Winter",
+        "ORDINATEUR DE BORD": "",
+        "INSTRUMENTATION DIGITALE": "",
+        "RÉTROVISEURS EXTÉRIEURS": "Électriques | Rabattables | Dégivrants",
+        "RÉTROVISEUR INTÉRIEUR": "Anti-éblouissement",
+        "VITRES ÉLECTRIQUES": "Avant/Arrière"
+    },
+    "Bluetooth": true,
+    "Apple CarPlay": true,
+    "Android Auto": true
+},
